@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "/",
+  "fileSortOrder": "byModifiedTime",
+  "readableLineLength": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system"
+}

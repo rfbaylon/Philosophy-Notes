@@ -1,0 +1,258 @@
+/* Coloured Folders
+a CSS snippet by Lithou
+
+This will allow the colouring of the top level folders into sections that "drop down" when opened. 
+This is currently set to be the same colour regardless of theme, but you can change that by copy/pasting the colors from the root section into light/dark theme then changing them according to preference.
+The colours are rainbow coloured and 16 in number by default. They are shades such that white/lightgrey text shows up the best. Some have a bit let contrast (the lighter blue and the yellow) but should still be visible. Again, change them however you would like. 
+*/
+:root{
+    /* folder colours */
+    --Fold0: #d32f2f;
+    --Fold1: #f39b9b;
+    --Fold2: #f0ae59;
+    --Fold3: #f1ca5d;
+    --Fold4: #9dcd78;
+    --Fold5: #8ab6e2;
+    --Fold6: #aaa5db;
+    --Fold7: #d399cf;
+    --Fold8: #cda485;
+    --Fold9: #b9c0c7;
+    --FoldA: #f0aaaa;
+    --FoldB: #f1b86f;
+    --FoldC: #7acc93;
+    --FoldD: #87c9d9;
+    --FoldE: #96abde;
+    --FoldF: #eb9fc9;
+    --FoldText: #000000;
+    /* line styles for nesting indicators */
+
+}
+
+
+/* Set up explorer container margins */
+.nav-files-container{margin: 0px 5px;}
+
+
+/* Top Level Folder Titles */
+.nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title{
+    font-size: 18px;
+    padding-left: 20px;
+    margin-top: 5px; /* space between top level sections */
+    }
+
+/* collapse arrow for folders */
+.nav-folder.mod-root>.nav-folder-children>.nav-folder>.nav-folder-title>.nav-folder-collapse-indicator{
+	position: absolute;
+    left: 21px;
+    top: 5px;
+}
+
+
+.nav-file-title{
+    padding-left: 5px;
+}
+
+/* active file increase font size and removes normal highlight marker */
+    .nav-file-title.is-active{ 
+        color: #000000;
+        font-weight: bold;}
+		
+
+
+/* Folder Title Colors */      
+
+.nav-folder-children .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-title {
+    color: var(--Fold1);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-title {
+    color: var(--Fold2);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-title {
+    color: var(--Fold3);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-title {
+    color: var(--Fold4);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-title {
+    color: var(--Fold5);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-title {
+    color: var(--Fold6);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-title {
+    color: var(--Fold7);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-title {
+    color: var(--Fold8);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-title {
+    color: var(--Fold9);
+    border-radius: 5px; margin-top: 2px;
+}
+
+/* Folder Icon Colors */
+
+.nav-folder-children .nav-folder:nth-child(9n+2) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+2) .nav-folder-collapse-indicator {
+    color: var(--Fold1);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+3) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+3) .nav-folder-collapse-indicator {
+    color: var(--Fold2);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+4) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+4) .nav-folder-collapse-indicator {
+    color: var(--Fold3);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+5) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+5) .nav-folder-collapse-indicator {
+    color: var(--Fold4);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+6) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+6) .nav-folder-collapse-indicator {
+    color: var(--Fold5);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+7) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+7) .nav-folder-collapse-indicator {
+    color: var(--Fold6);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+8) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+8) .nav-folder-collapse-indicator {
+    color: var(--Fold7);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+9) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+9) .nav-folder-collapse-indicator {
+    color: var(--Fold8);
+    border-radius: 5px; margin-top: 2px;
+}
+.nav-folder-children .nav-folder:nth-child(9n+10) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-collapse-indicator,
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder .nav-folder:nth-child(9n+10) .nav-folder-collapse-indicator {
+    color: var(--Fold9);
+    border-radius: 5px; margin-top: 2px;
+}
+
+
+/* the following is modified from the Blue Topaz Themme */
+
+/*----file explorer smaller fonts & line height----*/
+.nav-file-title,
+.nav-folder-title {
+  font-size: var(--font-size-folder-and-file);
+  font-family: var(--font-family-folder-file-title);
+  line-height: 1.2;
+  cursor: pointer;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-image: initial;
+  border-radius: 0px;
+  padding: 1px 5px 0px 16px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+
+.nav-file-title {
+  padding: 1px 5px 0px 4px;
+}
+
+.nav-folder-title {
+  font-weight: 600;
+  color: var(--text-normal);
+  opacity: 0.8;
+}
+
+/*rename*/
+.nav-file-title-content.is-being-renamed,
+.nav-folder-title-content.is-being-renamed {
+  cursor: text;
+  border-color: transparent;
+  background-color: white;
+  color: black;
+}
+
+/*---- nav arrows adjust location ----*/
+.nav-folder-collapse-indicator {
+  position: absolute;
+  left: 21px;
+  top: 3px;
+  transition: transform 20ms linear 0s;
+}
+
+.nav-folder-collapse-indicator::after {
+  position: absolute;
+  content : "↓";
+  left: -3px;
+  top: 0px;
+  font-size: 15px;
+  font-weight: bold;
+  transition: transform 10ms linear 0s;
+}
+
+.nav-folder-collapse-indicator svg {
+  display: none;
+  height: 7px;
+  width: 7px;
+}

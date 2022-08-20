@@ -1,0 +1,10 @@
+# Being
+### See [[Plato]], [[Aristotle]],
+
+
+
+
+
+
+
+

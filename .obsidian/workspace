@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "9710414270e977a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "187a2a83305c8c52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5bc8d94f76c4755",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfdf9ec405c9829f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6a9cbe9fb423a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a2ddf11a2e2ed19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "species",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f3af5026cbfa468",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "93193899be6df098",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "a773855642b7a90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd75b12495a64dcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "174addba3623d84e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb67616d790a8008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f414b3cad9b15658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a1ae79db0a7c7584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "active": "93193899be6df098",
+  "lastOpenFiles": [
+    "Books/Analytic/Morality/Moral Papers/What's Wrong With Speciesism.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
+    "Templates/Paper Notes TEMP.md",
+    "Books/Analytic/Morality/Groundwork of the Metaphysic of Morals.md",
+    "Books/Continental/Economics/Capital Volume I.md",
+    "Books/Analytic/Morality/!Morality Papers.md",
+    "Books/Analytic/Morality/J.S. Mill; A Selection of His Works.md",
+    "What Even is Philosophy.md",
+    "Genres/Analytic/Ethics/Normative Ethics/Personhood.md",
+    "Genres/Continental/History - Politics/Politics/Anarchy/Anarchy vs Statism.md"
+  ]
+}

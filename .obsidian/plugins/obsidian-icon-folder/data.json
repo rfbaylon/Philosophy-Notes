@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarMap",
+      "FarCreditCard",
+      "FarCircleQuestion",
+      "FarShareFromSquare",
+      "FarHandshake"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Books": "FarMap",
+  "Images": "FarImages",
+  "Philosophers": "FarCircleUser",
+  "Templates": "FarCreditCard",
+  "Genres/Continental": "FarCompass",
+  "Genres/Misc": "FarShareFromSquare",
+  "Genres/Continental/Anthropology": "FarHandshake",
+  "Genres/Continental/Economics": "FarMoneyBill1",
+  "Genres/Continental/Existentialism": "FarHourglass",
+  "Genres/Continental/History - Politics": "FarChessQueen",
+  "Genres/Continental/Poststructualism": "FarShareFromSquare",
+  "Genres/Continental/Psychoanalysis": "FarEyeSlash",
+  "Genres/Continental/Radical Theory": "FarHandBackFist",
+  "Genres/Continental/Religious Studies": "FarChessBishop",
+  "Genres/Misc/Fiction": "FarGem",
+  "Genres/Misc/Prose-Poetry": "FarChartBar",
+  "Genres/Misc/Writing": "FarPenToSquare",
+  "Images/Lacan's Desire Images": "FarImages",
+  "Images/Syntheses.pdf": "FarImage",
+  "Images/Leibniz' Heriarchy.png": {
+    "iconName": null,
+    "inheritanceIcon": "FarImage"
+  },
+  "Images/Pasted image 20220809210409.png": "FarImage",
+  "Images/AO Graph.png": "FarImage",
+  "Images/Epicurean paradox.png": "FarImage",
+  "Images/DnP Image.png": "FarImage",
+  "Philosophers/Marquis.md": {
+    "iconName": null,
+    "inheritanceIcon": "FarCircleUser"
+  },
+  "What Even is Philosophy.md": "FarCircleQuestion",
+  "Genres/Analytic": "FarNewspaper",
+  "Genres/Analytic/Ethics": "FarHeart",
+  "Genres/Analytic/Epistemology": "FarFloppyDisk",
+  "Genres/Analytic/Language": "FarComments",
+  "Genres/Analytic/Logic": "FarKeyboard",
+  "Genres/Analytic/Metaphysics": "FarObjectGroup",
+  "Genres/Analytic/Mind": "FarEye",
+  "Genres/Analytic/Philosophy of Science": "FarChessPawn",
+  "Genres/Analytic/Identity": "FarCopy"
+}

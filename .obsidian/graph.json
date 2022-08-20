@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Environment,nature,eco",
+      "color": {
+        "a": 1,
+        "rgb": 9485933
+      }
+    },
+    {
+      "query": "path:Genres/Analytic/Ethics",
+      "color": {
+        "a": 1,
+        "rgb": 4434571
+      }
+    },
+    {
+      "query": "path:Genres/Continental",
+      "color": {
+        "a": 1,
+        "rgb": 2332359
+      }
+    },
+    {
+      "query": "path:Genres/Analytic/Mind",
+      "color": {
+        "a": 1,
+        "rgb": 5731728
+      }
+    },
+    {
+      "query": "path:Philosophers",
+      "color": {
+        "a": 1,
+        "rgb": 16335172
+      }
+    },
+    {
+      "query": "path:Genres/Analytic/Metaphysics",
+      "color": {
+        "a": 1,
+        "rgb": 16291358
+      }
+    },
+    {
+      "query": "path:Books",
+      "color": {
+        "a": 1,
+        "rgb": 16369487
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.24241573033708,
+  "lineSizeMultiplier": 1.26994382022472,
+  "collapse-forces": true,
+  "centerStrength": 0.653846153846154,
+  "repelStrength": 14.5505617977528,
+  "linkStrength": 0.705128205128205,
+  "linkDistance": 390,
+  "scale": 0.16348370567220835,
+  "close": true
+}
