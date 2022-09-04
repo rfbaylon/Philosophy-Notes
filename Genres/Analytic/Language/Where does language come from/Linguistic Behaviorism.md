@@ -1,1 +1,1 @@
-See [[Deleuze]]
+See [[Deleuze]] & [[Guattari]]

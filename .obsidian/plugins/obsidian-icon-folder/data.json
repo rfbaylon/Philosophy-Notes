@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarClipboard",
+      "FarImage",
+      "FarFaceGrinSquint",
       "FarMap",
-      "FarCreditCard",
-      "FarCircleQuestion",
-      "FarShareFromSquare",
-      "FarHandshake"
+      "FarCreditCard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,12 +28,8 @@
   "Genres/Misc": "FarShareFromSquare",
   "Genres/Continental/Anthropology": "FarHandshake",
   "Genres/Continental/Economics": "FarMoneyBill1",
-  "Genres/Continental/Existentialism": "FarHourglass",
   "Genres/Continental/History - Politics": "FarChessQueen",
   "Genres/Continental/Poststructualism": "FarShareFromSquare",
-  "Genres/Continental/Psychoanalysis": "FarEyeSlash",
-  "Genres/Continental/Radical Theory": "FarHandBackFist",
-  "Genres/Continental/Religious Studies": "FarChessBishop",
   "Genres/Misc/Fiction": "FarGem",
   "Genres/Misc/Prose-Poetry": "FarChartBar",
   "Genres/Misc/Writing": "FarPenToSquare",
@@ -51,7 +47,6 @@
     "iconName": null,
     "inheritanceIcon": "FarCircleUser"
   },
-  "What Even is Philosophy.md": "FarCircleQuestion",
   "Genres/Analytic": "FarNewspaper",
   "Genres/Analytic/Ethics": "FarHeart",
   "Genres/Analytic/Epistemology": "FarFloppyDisk",
@@ -60,5 +55,11 @@
   "Genres/Analytic/Metaphysics": "FarObjectGroup",
   "Genres/Analytic/Mind": "FarEye",
   "Genres/Analytic/Philosophy of Science": "FarChessPawn",
-  "Genres/Analytic/Identity": "FarCopy"
+  "Genres/Analytic/Identity": "FarCopy",
+  "Genres/Analytic/Epistemology/Metaphilosophy/What Even is Philosophy.md": "FarCircleQuestion",
+  "Genres/Continental/Radical Theory": "FarHandBackFist",
+  "Genres/Continental/Religious Studies": "FarChessBishop",
+  "Genres/Continental/Psychoanalysis": "FarEyeSlash",
+  "Genres/Analytic/Aesthetics": "FarImage",
+  "Genres/Continental/Science": "FarClipboard"
 }

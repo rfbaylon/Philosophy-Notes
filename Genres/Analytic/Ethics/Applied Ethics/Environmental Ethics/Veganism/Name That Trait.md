@@ -12,7 +12,7 @@ If something is a person (Going by [[Kagan]] and [[Singer]]'s definition in [[Pe
 - Note that this argument does not mean nonhuman animals have *no* value, just less
 	A2: What exactly is a person species? At what point does a "species" become a "person species"? when more than 50% of a species is a person?
 		A2A2: [[Kagan]] nononono, its when the generic member of a species is a person [[What's Wrong With Speciesism]], 14
-			A2A2A2: That is still an appeal to statistics.
+			A2A2A2: That is still an appeal to statistics. what the hell do you mean if not "normal" or "average"
 	A2: Why even stop at species? Why not a genus? Phylum? Or even more out there, why not part of the set-of-things-that-X? For example, would a philosophy club honorarily making their pet rabbit make it part of a "person group?"
 		A2A2: Those are artificial groups. What matters is natural groups. [[What's Wrong With Speciesism]], 14
 			A2A2A2: how do you make a meaningful distinction between a natural and unnatural grouping? [[Wittgenstein]] would hate this argument.

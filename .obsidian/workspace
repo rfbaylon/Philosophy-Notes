@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "187a2a83305c8c52",
+        "id": "df805af831118aa1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "species",
-                "matchingCase": true,
+                "query": "master sig",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -50,15 +46,7 @@
             }
           },
           {
-            "id": "3f3af5026cbfa468",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "93193899be6df098",
+            "id": "5b190d9ef4a75da6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -69,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 288
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -85,14 +73,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,28 +110,36 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "dd23171ea8361bdc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 198,
+    "collapsed": true
   },
-  "active": "93193899be6df098",
+  "active": "df805af831118aa1",
   "lastOpenFiles": [
-    "Books/Analytic/Morality/Moral Papers/What's Wrong With Speciesism.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Name That Trait.md",
-    "Templates/Paper Notes TEMP.md",
-    "Books/Analytic/Morality/Groundwork of the Metaphysic of Morals.md",
-    "Books/Continental/Economics/Capital Volume I.md",
-    "Books/Analytic/Morality/!Morality Papers.md",
-    "Books/Analytic/Morality/J.S. Mill; A Selection of His Works.md",
-    "What Even is Philosophy.md",
-    "Genres/Analytic/Ethics/Normative Ethics/Personhood.md",
-    "Genres/Continental/History - Politics/Politics/Anarchy/Anarchy vs Statism.md"
+    "Genres/Continental/Poststructualism/Synecdoche NY and Simulacra.md",
+    "Genres/Continental/Poststructualism/Simulacra.md",
+    "Genres/Continental/Radical Theory/Feminist Theory/Perfect Blue and Patriarchal Violence.md",
+    "Genres/Continental/Radical Theory/Feminist Theory/Fight Club and Toxic Masculinity.md",
+    "Genres/Continental/Radical Theory/Feminist Theory/Vectors of Oppression (Feminism).md",
+    "Genres/Continental/Radical Theory/Feminist Theory/Gender Abolition.md",
+    "Philosophers/Ellison.md",
+    "Books/Misc/Fiction/Short Stories/I Have No Mouth But I Must Scream.md",
+    "Books/Misc/Fiction/!Short Stories.md",
+    "Books/Analytic/Morality/Doing Good Better.md"
   ]
 }

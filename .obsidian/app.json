@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "/",
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabetical",
   "readableLineLength": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,

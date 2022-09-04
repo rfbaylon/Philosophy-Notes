@@ -4,6 +4,8 @@
 Anything that produces intensities and flows; anything with affectual power
 	This definition means everything is a machine
 
+
+
 ### Desiring Machine
 Machines that produce desire for certain objects. 
 	As opposed to [[Lacan]] or [[Freud]], desire is positive (creative) rather than negative (defined as a lack). 
@@ -42,6 +44,7 @@ Conjunctive
 	So Its...
 	Aka voluptus; synthesis of consummation
 		[Source](https://anarchistwithoutcontent.files.wordpress.com/2011/06/deleuze-and-guattari-three-syntheses-of-unconscious.pdf)
+		[[Syntheses.pdf]]
 
 ### Filiation / Alliance
 

@@ -46,7 +46,7 @@ By contrast, defective altruism is—by the admission of its proponents—an app
 [Iason Gabriel-Effective Altruism and its Critics (1).pdf]
 
 Note:
-**givewell formally acknowlefged the 3 objections below and now incorporates multifaceted analyses
+**givewell formally acknowledged the 3 objections below and now incorporates multifaceted analyses
 All 3 critiques come from Iason Gabriel
 
  Observational bias, we prioritize things that are easier to observe

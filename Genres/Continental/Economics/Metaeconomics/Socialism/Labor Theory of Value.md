@@ -1,5 +1,5 @@
 # Labor Theory of Value
-See [[Marx]], [[Smith]], [[Ricardo]]
+See [[Marx]], [[Smith]], [[Ricardo]], [[J.S. Mill]]
 "If commodities could speak, the would say this: our use value  may interest men, but it does not belong to us as objects. What does belong to us as objects, however, is our value. Our own intercourse as commodities proves it." [[Capital Volume I]], 176-177
 
 Value is produced by socially necessary labor over time
@@ -45,7 +45,7 @@ Sustenance (food, water, housing, etc) and education are considered as resources
 ##### Means of Production (MoP)
 The MoP are the tools the workers use to make commodities.
 	Examples: the printing press of the publishing house, the espresso machine of the coffee shop, the hammer of the carpentry firm.
-	Just like a worker, MoP are destined to deccay without upkeep: the cost of their upkeep must be calculated when searching for its true value.
+	Just like a worker, MoP are destined to decay without upkeep: the cost of their upkeep must be calculated when searching for its true value.
 		If a machine lasts 1 month (for example) the value of the machine is dispersed into its products. If it helps to make 30 things, each of those 30 things increases in value by 1/30.
 
 ##### Resources /  Materials
