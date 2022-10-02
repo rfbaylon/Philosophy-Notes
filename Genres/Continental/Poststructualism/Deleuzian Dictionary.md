@@ -4,7 +4,18 @@
 Anything that produces intensities and flows; anything with affectual power
 	This definition means everything is a machine
 
+### Assemblages
 
+Each assemblage has both content and expression
+	Content: The machinic assemblage of bodies; the assemblage in itself 
+	Expression: The collective assemblage of enunciation of the assemblage; the way it is sensed by other machines
+		This discussion is reminiscent of [[Whitehead]]'s theory of an actual entity, and the datum of said entity realized in another actual entity.
+
+Each assemblage has a side of territorialization and deterritorialization
+	Territorial: Stabilization of the assemblage; states that affirm the will to power of the assemblage
+	Deterritorial: Destabilization of the assemblage; machines that undermine the will to power of the assemblage
+
+[[Kafka]] is said to be incredible at not only differentiating the poles of these axes, but making a synthesis from them in a minor language. [[A Thousand Plateaus]], 88
 
 ### Desiring Machine
 Machines that produce desire for certain objects. 
@@ -60,3 +71,7 @@ A rejection of psychoanalysis in favor of a basis of productive desire instead o
 # [[A Thousand Plateaus]]
 
 ### Rhizome
+
+### Major and Minor Languages 
+All information is in [[Language and Power]] under the subsection by the same name.
+

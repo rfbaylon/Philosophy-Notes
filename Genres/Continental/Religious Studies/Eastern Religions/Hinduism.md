@@ -1,10 +1,8 @@
-Key Texts: [[The Ramayana]]
-Key Figures:
+Texts: [[The Ramayana]]
+Key Figures
 
 ## Metaphysics
 
 ## Morals
 
 ### Karma
-
-

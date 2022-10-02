@@ -11,8 +11,8 @@ See [[Marquis]], Modal Position in [[What's Wrong With Death]]
 A fetus is valuable in-itself when the sperm fertilizes the egg
 **5-7 Days**
 	A2: How does this apply to totipotent embryos (embryos that split into 2) By taking Plan B after a totipotent egg is fertilized, do you kill one or two beings? There is no continuity of existence for these beings, we cant reasonably say that a fertilized egg is "you" if you're a twin.
-	A2: IVF (In Vitro Fertilization) is a process by which ova are removed from a woman, placed in a peri dish, and fertilized with sperm. These conceived beings will *not* grow into children unless placed in utero. This creates two lead bullets the conceptionist must bite:
-		1. If someone were to accidentally fertilize an egg without realizing a donor couldnt make it for their appointment and couldnt freeze it, they just killed a full human being.
+	A2: IVF (In Vitro Fertilization) is a process by which ova are removed from a woman, placed in a peri dish, and fertilized with sperm. These conceived beings will *not* grow into children unless placed in utero. This creates two lead bullets the connectionist must bite:
+		1. If someone were to accidentally fertilize an egg without realizing a donor couldn't make it for their appointment and couldn't freeze it, they just killed a full human being.
 		2. The existence of these facilities creates one of largest moral failing in the history of the world. By creating *so many* fertilized eggs and freezing them, with many of them expiring or failing, IVF facilities kill millions of people every year. If one were truly pro-life, these labs would be the first place to protest, not abortion centers.
 	A2: Why does fertilization create personhood? Does this belief not just collapse into the potentiality argument above?
 

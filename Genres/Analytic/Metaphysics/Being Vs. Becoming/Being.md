@@ -1,5 +1,5 @@
 # Being
-### See [[Plato]], [[Aristotle]],
+See [[Plato]], [[Aristotle]],
 
 
 
@@ -8,3 +8,4 @@
 
 
 
++

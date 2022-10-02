@@ -1,4 +1,4 @@
-What exactly *is* meaning?
+What exactly *is* meaning in relation to language?
 
 
 # Meaning as Use

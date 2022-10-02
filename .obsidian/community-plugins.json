@@ -12,8 +12,10 @@
   "templater-obsidian",
   "media-extended",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
   "table-editor-obsidian",
   "obsidian-git",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-icon-folder",
+  "quick-explorer",
+  "better-word-count"
 ]

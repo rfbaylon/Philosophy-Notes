@@ -28,7 +28,7 @@ A2: If someone feels ambivalent about their gender but is assigned female at bir
 ## Gender Performativism
 #### A woman is someone who performs the social role of "femininity"
 See [[Butler]], [[De Beauvoir]], [[Foucault]], [[Wittig]]
-See [[Process Philosophy]]
+See [[Becoming]]
 
 "One is not born a woman, but rather becomes one" - [[De Beauvoir]]
 

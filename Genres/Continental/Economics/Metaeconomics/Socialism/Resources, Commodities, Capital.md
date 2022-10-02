@@ -2,6 +2,8 @@
 "Capital is not a thing, but a social relation between persons which is mediated through things... We know that the means of productioon and subsistance, while they remain the property of the immediate producer, are not capital. They only become capital  under circumstances in which they serve at the same time as means of exploitation of, and domination over, the worker." [[Capital Volume I]], 932-933
 
 
+## Forms of Commodities
+
 #### Form A: 
 20 yards of linen = 1 coat
 	[[Capital Volume I]] 160-163
@@ -13,7 +15,7 @@
 etc., etc.
 
 #### Form C
-20 yards of linen = X of any Y
+20 yards of linen = X amount of any Y
 (linen here becomes currency, it has obtained the universal equivalent form)
 
 #### Form D
@@ -23,7 +25,7 @@ etc., etc.
 Money (as in, say, the US Dollar) is thus not only a mere product of labor, nor a mere commodity, but a currency. MONEY IS A COMMODITY. 
 Money fetishism is a form of [[Commodity Fetishism]].
 
-## Currency Exchange
+## Commodity Exchange
 ### C - M - C
 In exchange, commodities are exchanged for money which is exchanged for commodities, continuing the cycle ad infinitum
 -- This process defines *all* circulation of goods and services --

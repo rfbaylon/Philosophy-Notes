@@ -1,9 +1,13 @@
 ## Nature A vs Nature B
 Nature A
+AKA natura naturata ([[Spinoza]])
+AKA First Nature ([[Hegel]], [[Marx]])
 	“all the powers existing in either the outer or the inner world and everything which takes place by means of those powers” ([[J.S. Mill; A Selection of His Works]], 431).
 	as opposed to Supernatural
 
 Nature B
+AKA Natura Naturans ([[Spinoza]])
+AKA Second Nature ([[Hegel]], [[Marx]])
 	“without the… agency of man" ([[J.S. Mill; A Selection of His Works]], 431).
 	as opposed to artificial
 
@@ -17,16 +21,16 @@ Nature B
 "naturally grown orange" = "orange"
 	The word 'natural' in these examples dont add any added description to the statements they inhabit. We might aswell not use the word at all. 
 
-everything perceived is in nature. We may not pick and choose.
+[[Whitehead]] Everything perceived is in nature. We may not pick and choose.
 For us the red glow of the sunset should be as much part of nature as are
 the molecules and electric waves by which men of science would explain
 the phenomenon (CN, 29)
--whitehead
-When men
-of science describe the interaction between electromagnetic radiation and
-the suspended molecules that inhabit the atmosphere, linking the red glow
-to atmospheric pollution, they do not insult the poet.
+
+When men of science describe the interaction between electromagnetic radiation and
+the suspended molecules that inhabit the atmosphere, linking the red glow to atmospheric pollution, they do not insult the poet.
+
 ## Nature B
+See [[History of Post-Structuralism]]
 
 ### [[Vogel]]'s Evolutionary Argument
 *Similar to [[Name That Trait]]*
@@ -49,4 +53,11 @@ Given that humans are ourselves part of the natural process of evolution, at wha
 Nature means different things over time, it is a word solely used as a mechanism for power. 
 	For example, Gayness was seen as unnatural, mostly as an argument against gayness. It didnt matter the actual definition of the term, how its used doesnt mean anything besides "This is Icky"
 		[Should We Trust Nature More than Ourselves?](https://www.youtube.com/watch?v=3jjRq-CW1dc&t=1726s#t=534.7605633802817), 
+
+### The Argument from Nonuniqueness
+See [[Deleuze]] & [[Guattari]]
+
+The burden of proof lies on the author posting a distinction between humans and nature. If this goes suffeceintly unproven, there is no distinction. 
+Further, if one starts from an atomistic metaphysics, there can be no development of a human nature dichotomy as humans are made from (meaningfully) the same stuff as "natural" entities such as trees or rocks. 
+	"There is no such thing as wither man or nature now, only a process that produces the one within the other and couples the machines together" [[Anti-Oedipus]], 2
 

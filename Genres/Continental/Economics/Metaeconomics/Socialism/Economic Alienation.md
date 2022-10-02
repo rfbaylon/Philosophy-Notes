@@ -51,4 +51,10 @@ See [[Marx]]
 Accumulation of capital, in classical economics makes it such that the proletariat work in order to make surplus value, making their life less innately valuable. On the other side of the coin though, capitalists are also a slave to capital in that their own fruits and leisure come at the cost of the maxim of accumulation
 	"Accumulate, accumulate!... Therefore save save, i.e., reconvert the greatest possible portion of surplus product into capital! Accumulation for the sake of accumulation, production for the sake of production: this was the formula in which classical economists expressed the historical mission of the bourgeoisie in the period of its domination... If, in the eyes of classical economics, the proletarian is merely a machine for the production of surplus value, the capitalist too is merely a machine for the transformation of this surplus value into surplus capital" [[Capital Volume I]], 742
 
+### Economic Incentive For Tragedy of the Commons
+#### Causing Alienation from Nonhuman World
+See [[Vogel]]
+Everyone is equally incentivized to pollute, drive cars, etc. Even if the individual actors care about the environment (even if *everybody* cared about the environment), this destruction of the nonhuman world will still occur as it would be economic suicide not to. 
+	"An aggregation of acts each of which paradoxically  takes the aggregation itself as given and unalterable. This is what Marx means by saying that our own deed comes to be an alien power against us." [[Thinking like a Mall]], 203
+
 ### Competition Between Peers

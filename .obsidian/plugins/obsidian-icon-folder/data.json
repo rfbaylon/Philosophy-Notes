@@ -5,13 +5,16 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarSquarePlus",
+      "FarFileZipper",
+      "FarChartBar",
       "FarClipboard",
       "FarImage",
       "FarFaceGrinSquint",
       "FarMap",
       "FarCreditCard"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 8,
     "rules": [],
     "extraPadding": {
       "top": 2,
@@ -20,14 +23,11 @@
       "left": 2
     }
   },
-  "Books": "FarMap",
   "Images": "FarImages",
   "Philosophers": "FarCircleUser",
   "Templates": "FarCreditCard",
   "Genres/Continental": "FarCompass",
-  "Genres/Misc": "FarShareFromSquare",
-  "Genres/Continental/Anthropology": "FarHandshake",
-  "Genres/Continental/Economics": "FarMoneyBill1",
+  "Genres/Misc": "FarSquarePlus",
   "Genres/Continental/History - Politics": "FarChessQueen",
   "Genres/Continental/Poststructualism": "FarShareFromSquare",
   "Genres/Misc/Fiction": "FarGem",
@@ -55,11 +55,14 @@
   "Genres/Analytic/Metaphysics": "FarObjectGroup",
   "Genres/Analytic/Mind": "FarEye",
   "Genres/Analytic/Philosophy of Science": "FarChessPawn",
-  "Genres/Analytic/Identity": "FarCopy",
   "Genres/Analytic/Epistemology/Metaphilosophy/What Even is Philosophy.md": "FarCircleQuestion",
   "Genres/Continental/Radical Theory": "FarHandBackFist",
   "Genres/Continental/Religious Studies": "FarChessBishop",
   "Genres/Continental/Psychoanalysis": "FarEyeSlash",
   "Genres/Analytic/Aesthetics": "FarImage",
-  "Genres/Continental/Science": "FarClipboard"
+  "Genres/Continental/Science": "FarClipboard",
+  "Genres": "FarChartBar",
+  "Genres/Continental/Economics": "FarMoneyBill1",
+  "Genres/Continental/Sociology": "FarHandshake",
+  "Papers": "FarMap"
 }

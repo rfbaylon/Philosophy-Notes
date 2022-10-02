@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df805af831118aa1",
+        "id": "599f4e6a29ea9e3d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master sig",
+                "query": "biopowe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "5b190d9ef4a75da6",
+            "id": "50d9e2deeb7bdee0",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md"
+              }
             }
           },
           {
@@ -121,25 +129,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 198,
     "collapsed": true
   },
-  "active": "df805af831118aa1",
+  "active": "599f4e6a29ea9e3d",
   "lastOpenFiles": [
-    "Genres/Continental/Poststructualism/Synecdoche NY and Simulacra.md",
-    "Genres/Continental/Poststructualism/Simulacra.md",
-    "Genres/Continental/Radical Theory/Feminist Theory/Perfect Blue and Patriarchal Violence.md",
-    "Genres/Continental/Radical Theory/Feminist Theory/Fight Club and Toxic Masculinity.md",
-    "Genres/Continental/Radical Theory/Feminist Theory/Vectors of Oppression (Feminism).md",
-    "Genres/Continental/Radical Theory/Feminist Theory/Gender Abolition.md",
-    "Philosophers/Ellison.md",
-    "Books/Misc/Fiction/Short Stories/I Have No Mouth But I Must Scream.md",
-    "Books/Misc/Fiction/!Short Stories.md",
-    "Books/Analytic/Morality/Doing Good Better.md"
+    "Genres/Analytic/Mind/Cognition/Intelligence Tests.md",
+    "Genres/Analytic/Epistemology/What is Discovery.md",
+    "Genres/Analytic/Mind/Cognition/Do Machines Think.md",
+    "Genres/Analytic/Mind/Cognition/Mind Models/Materialism/Identity Theory.md",
+    "Genres/Analytic/Mind/Cognition/Mind Models/Materialism/Material Reductionism.md",
+    "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
+    "Genres/Continental/History - Politics/History/Dialectics.md",
+    "Genres/Analytic/Ethics/Normative Ethics/Normative Theories/Utilitarianism/Preferential - Hedonic.md",
+    "Philosophers/Hegel.md",
+    "Papers/Misc/Fiction/The Metamorphosis.md"
   ]
 }

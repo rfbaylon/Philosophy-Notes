@@ -68,7 +68,7 @@ var __async = (__this, __arguments, generator) => {
 __export(exports, {
   default: () => ObsidianLinkEmbedPlugin
 });
-var import_obsidian2 = __toModule(require("obsidian"));
+var import_obsidian3 = __toModule(require("obsidian"));
 
 // node_modules/mustache/mustache.mjs
 var objectToString = Object.prototype.toString;
@@ -648,136 +648,19 @@ var TEMPLATE = `
   </div>
 </div>
 `;
+var REGEX = {
+  URL: "(http|ftp|https):\\/\\/([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#-]*[\\w@?^=%&\\/~+#-])"
+};
 
-// main.ts
+// settings.ts
+var import_obsidian2 = __toModule(require("obsidian"));
 var DEFAULT_SETTINGS = {
   parser: "microlink",
   backup: "jsonlink",
   inPlace: false,
   debug: false
 };
-var ObsidianLinkEmbedPlugin = class extends import_obsidian2.Plugin {
-  onload() {
-    return __async(this, null, function* () {
-      yield this.loadSettings();
-      this.addCommand({
-        id: "use-selection",
-        name: "Use selection",
-        editorCallback: (editor) => {
-          this.urlToEmbed(editor, this.settings.inPlace ? this.inPlace(editor) : this.newLine(editor));
-        }
-      });
-      this.addCommand({
-        id: "from-clipboard",
-        name: "From clipboard",
-        editorCallback: (editor) => __async(this, null, function* () {
-          const url = yield navigator.clipboard.readText();
-          this.urlToEmbed(url, this.settings.inPlace ? this.inPlace(editor) : this.newLine(editor));
-        })
-      });
-      Object.keys(parsers).forEach((name) => {
-        this.addCommand({
-          id: `from-clipboard-${name}`,
-          name: `From clipboard with ${name}`,
-          editorCallback: (editor) => __async(this, null, function* () {
-            const url = yield navigator.clipboard.readText();
-            this.urlToEmbedWithParser(url, name, this.settings.inPlace ? this.inPlace(editor) : this.newLine(editor));
-          })
-        });
-      });
-      this.addSettingTab(new SampleSettingTab(this.app, this));
-    });
-  }
-  onunload() {
-  }
-  loadSettings() {
-    return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
-    });
-  }
-  saveSettings() {
-    return __async(this, null, function* () {
-      yield this.saveData(this.settings);
-    });
-  }
-  newLine(editor) {
-    return (embed) => {
-      editor.replaceSelection(`${editor.getSelection()}${embed}`);
-    };
-  }
-  inPlace(editor) {
-    return (embed) => {
-      editor.replaceSelection(embed);
-    };
-  }
-  isUrl(text) {
-    const urlRegex = new RegExp("^(http:\\/\\/www\\.|https:\\/\\/www\\.|http:\\/\\/|https:\\/\\/)?[a-z0-9]+([\\-.]{1}[a-z0-9]+)*\\.[a-z]{2,5}(:[0-9]{1,5})?(\\/.*)?$");
-    return urlRegex.test(text);
-  }
-  urlToEmbed(editor, cb) {
-    let selectedText;
-    if (editor instanceof import_obsidian2.Editor) {
-      selectedText = editor.somethingSelected() ? editor.getSelection() : "";
-    } else {
-      selectedText = editor;
-    }
-    if (selectedText && this.isUrl(selectedText)) {
-      if (this.settings.debug) {
-        console.log("Link Embed: url to embed", selectedText);
-      }
-      const url = selectedText;
-      this.parse(this.settings.parser, url, cb, () => {
-        this.parse(this.settings.backup, url, cb, () => {
-          this.errorNotice();
-        });
-      });
-    } else {
-      new import_obsidian2.Notice("Select a link to convert to embed.");
-    }
-  }
-  urlToEmbedWithParser(editor, parser, cb) {
-    let selectedText;
-    if (editor instanceof import_obsidian2.Editor) {
-      selectedText = editor.somethingSelected() ? editor.getSelection() : "";
-    } else {
-      selectedText = editor;
-    }
-    if (selectedText && this.isUrl(selectedText)) {
-      if (this.settings.debug) {
-        console.log("Link Embed: url to embed", selectedText);
-      }
-      const url = selectedText;
-      this.parse(parser, url, cb, () => {
-        this.errorNotice();
-      });
-    } else {
-      new import_obsidian2.Notice("Select a link to convert to embed.");
-    }
-  }
-  parse(selectedParser, url, cb, error) {
-    if (this.settings.debug) {
-      console.log("Link Embed: parser", selectedParser);
-    }
-    const parser = parsers[selectedParser];
-    parser.debug = this.settings.debug;
-    parser.parse(url).then((data) => {
-      if (this.settings.debug) {
-        console.log("Link Embed: meta data", data);
-      }
-      const embed = mustache_default.render(TEMPLATE, data);
-      cb(embed);
-    }).catch((err) => {
-      error(err);
-    });
-  }
-  errorNotice() {
-    if (this.settings.debug) {
-      console.log("Link Embed: Failed to fetch data");
-    }
-    new import_obsidian2.Notice(`Failed to fetch data`);
-  }
-};
-var SampleSettingTab = class extends import_obsidian2.PluginSettingTab {
+var ObsidianLinkEmbedSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -810,6 +693,174 @@ var SampleSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.plugin.saveSettings();
       });
     });
+  }
+};
+
+// exEditor.ts
+var ExEditor = class {
+  static getSelectedText(editor, debug) {
+    if (debug) {
+      console.log(`Link Embed: editor.somethingSelected() ${editor.somethingSelected()}`);
+    }
+    if (!editor.somethingSelected()) {
+      let wordBoundaries = this.getWordBoundaries(editor, debug);
+      editor.setSelection(wordBoundaries.start, wordBoundaries.end);
+    }
+    return editor.getSelection();
+  }
+  static cursorWithinBoundaries(cursor, match, debug) {
+    let startIndex = match.index;
+    let endIndex = match.index + match[0].length;
+    if (debug) {
+      console.log(`Link Embed: cursorWithinBoundaries ${startIndex}, ${cursor.ch}, ${endIndex}`);
+    }
+    return startIndex <= cursor.ch && cursor.ch <= endIndex;
+  }
+  static getWordBoundaries(editor, debug) {
+    let cursor = editor.getCursor();
+    let lineText = editor.getLine(cursor.line);
+    const urlRegex = new RegExp(REGEX.URL, "g");
+    let linksInLine = lineText.matchAll(urlRegex);
+    if (debug) {
+      console.log("Link Embed: cursor", cursor, "lineText", lineText);
+    }
+    for (let match of linksInLine) {
+      if (debug) {
+        console.log("Link Embed: match", match);
+      }
+      if (this.cursorWithinBoundaries(cursor, match, debug)) {
+        return {
+          start: { line: cursor.line, ch: match.index },
+          end: {
+            line: cursor.line,
+            ch: match.index + match[0].length
+          }
+        };
+      }
+    }
+    return {
+      start: cursor,
+      end: cursor
+    };
+  }
+};
+
+// main.ts
+var ObsidianLinkEmbedPlugin = class extends import_obsidian3.Plugin {
+  getText(editor) {
+    return __async(this, null, function* () {
+      let selectedText = ExEditor.getSelectedText(editor, this.settings.debug);
+      if (selectedText == "") {
+        selectedText = yield navigator.clipboard.readText();
+      }
+      return selectedText;
+    });
+  }
+  onload() {
+    return __async(this, null, function* () {
+      yield this.loadSettings();
+      this.addCommand({
+        id: "embed-link",
+        name: "Embed link",
+        editorCallback: (editor) => __async(this, null, function* () {
+          let selectedText = yield this.getText(editor);
+          this.urlToEmbed(selectedText, this.defaultParse(), this.settings.inPlace ? this.inPlace(editor) : this.newLine(editor));
+        })
+      });
+      Object.keys(parsers).forEach((name) => {
+        this.addCommand({
+          id: `embed-link-${name}`,
+          name: `Embed link with ${name}`,
+          editorCallback: (editor) => __async(this, null, function* () {
+            let selectedText = yield this.getText(editor);
+            this.urlToEmbed(selectedText, this.oneParse(name), this.settings.inPlace ? this.inPlace(editor) : this.newLine(editor));
+          })
+        });
+      });
+      this.addSettingTab(new ObsidianLinkEmbedSettingTab(this.app, this));
+    });
+  }
+  onunload() {
+  }
+  loadSettings() {
+    return __async(this, null, function* () {
+      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+    });
+  }
+  saveSettings() {
+    return __async(this, null, function* () {
+      yield this.saveData(this.settings);
+    });
+  }
+  newLine(editor) {
+    return (embed) => {
+      let cursor = editor.getCursor();
+      let lineText = editor.getLine(cursor.line);
+      editor.setCursor({
+        line: cursor.line,
+        ch: lineText.length
+      });
+      editor.replaceSelection(embed);
+    };
+  }
+  inPlace(editor) {
+    return (embed) => {
+      editor.replaceSelection("");
+      this.newLine(editor)(embed);
+    };
+  }
+  isUrl(text) {
+    const urlRegex = new RegExp(REGEX.URL, "g");
+    return urlRegex.test(text);
+  }
+  defaultParse() {
+    return (url, callback) => {
+      this.parseWith(this.settings.parser, url, callback, () => {
+        this.parseWith(this.settings.backup, url, callback, () => {
+          this.errorNotice();
+        });
+      });
+    };
+  }
+  oneParse(parser) {
+    return (url, callback) => {
+      this.parseWith(parser, url, callback, () => {
+        this.errorNotice();
+      });
+    };
+  }
+  urlToEmbed(selectedText, parse3, callback) {
+    if (this.settings.debug) {
+      console.log("Link Embed: url to embed", selectedText);
+    }
+    if (selectedText.length > 0 && this.isUrl(selectedText)) {
+      const url = selectedText;
+      parse3(url, callback);
+    } else {
+      new import_obsidian3.Notice("Need a link to convert to embed.");
+    }
+  }
+  parseWith(selectedParser, url, callback, error) {
+    if (this.settings.debug) {
+      console.log("Link Embed: parser", selectedParser);
+    }
+    const parser = parsers[selectedParser];
+    parser.debug = this.settings.debug;
+    parser.parse(url).then((data) => {
+      if (this.settings.debug) {
+        console.log("Link Embed: meta data", data);
+      }
+      const embed = mustache_default.render(TEMPLATE, data);
+      callback(embed);
+    }).catch((err) => {
+      error(err);
+    });
+  }
+  errorNotice() {
+    if (this.settings.debug) {
+      console.log("Link Embed: Failed to fetch data");
+    }
+    new import_obsidian3.Notice(`Failed to fetch data`);
   }
 };
 /*!

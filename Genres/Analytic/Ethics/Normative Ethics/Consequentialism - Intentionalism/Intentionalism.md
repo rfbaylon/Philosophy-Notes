@@ -2,6 +2,11 @@
 See [[Kant]]
 
 
+Two senses of intentionality
+- (intention) Done on purpose
+- (intentionality) Done in pursuit of some end
+	This distinction in phil of mind needs to be drawn out for moral intentionalism to have any meaningful pull.
+
 ## From Duty / With Duty
 ##### [[Groundwork of the Metaphysic of Morals]]
 Duty is defined as "good will exposed to subjective limitations"

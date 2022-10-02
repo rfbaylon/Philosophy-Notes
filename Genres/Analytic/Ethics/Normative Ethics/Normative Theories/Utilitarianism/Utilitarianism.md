@@ -2,7 +2,7 @@ See [[J.S. Mill]], [[Bentham]], [[Singer]], [[Sidgwick]], [[CosmicSkeptic]], [[M
 
 
 ## Utility Hierarchy vs. No Hierarchy
-See [[Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Veganism/Sentience Hierarchies]]
+See [[Sentience Hierarchies]]
 [[J.S. Mill]]: There are higher and lower pleasures
 [[Bentham]]: "Quantity of pleasure being equal, push-pin is as good as poetry" #Quote #Cite
 	[[Singer]] and [[Sidgwick]] ([[The Methods of Ethics]] 109) agree
