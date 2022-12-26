@@ -26,7 +26,7 @@ Nature doesn't seem like the best moral blueprint. If the person claiming Nature
 
 ### [[Zizek]]'s Anti-Essentialist Argument
 
-Historically, the biggest arguments against equality have come from what is natural. Women are naturally subservient; black people are naturally inferior due to an indent in their brains; homosexuality is unnatural; humans naturally have canine teeth and eat nonhuman animal products; transitioning ones gender is unnatural; capitalism is part of human nature; the state naturally forms, humans naturally yearn for authority. Implied in all of these arguments is the hidden conclusion that we ought to do that which is natural. The inherent construction of normative claims of nature (here, also defined as [[Essentialism]]) has been the principal cause of incredible amounts of suffering of humans, and its validation by ethicists has had wholly reactionary effects. Any preservationist or environmental philosopher who touts the value of ‘nature’ must drag with them the reactionary impulse to call anything outside of the status quo ‘unnatural’ and thus bad.
+Historically, the biggest arguments against equality have come from what is natural. Women are naturally subservient; black people are naturally inferior due to an indent in their brains; homosexuality is unnatural; humans naturally have canine teeth and eat nonhuman animal products; transitioning ones gender is unnatural; capitalism is part of human nature; the state naturally forms, humans naturally yearn for authority. Implied in all of these arguments is the hidden conclusion that we ought to do that which is natural. The inherent construction of normative claims of nature (here, also defined as Essentialism) has been the principal cause of incredible amounts of suffering of humans, and its validation by ethicists has had wholly reactionary effects. Any preservationist or environmental philosopher who touts the value of ‘nature’ must drag with them the reactionary impulse to call anything outside of the status quo ‘unnatural’ and thus bad.
 	We understand the naturalistic [[Fallacy]], we just dont believe it as a product of [[Ideology]]. Nature here is the object of fetishization. 
 
 Another issue with [[Essentialism]] and naturalist arguments isn't that bigots understand human nature wrong, but rather that the ‘naturalness’ they claim exists in certain traits or behaviors never existed in the first place.
@@ -41,6 +41,10 @@ When America is designated as "wild," it includes indigenous people. When people
 	(Bradford) depicts it as "a hideous and desolate wilderness, full of wild beasts and wild men." Here the bias inherent in the Christian idea of nature as fallen - as Satan's domain - effectively erases the humanity of the indigenous Americans. To Bradford they are more like wild beasts than white men." [[Idea of Nature in America (2008)]], 10
 	"[[Cronon]] argues that the popular notion of a pristine American wilderness, or 'virgin land,' embodies a racist or colonialist falsification of the historical record.” [[Idea of Nature in America (2008)]],19
 
+#### Case Study: Salem
+The colonial way of civilizing and making From ‘unwild’ certain populations, we take them closer to God’s will. Fiege argues that this idea of wilderness as distinct from human nature was a major cause for the witch hunts that happened in Salem in 1692, among other towns. Because early settlers viewed so-called ‘witches’ as being connected to the “howling wilderness” that destroyed crops, killed farm animals, and more extreme weather events, they perceived innocent minorities to be a threat. This view of disordered nature was created by the culture of Salem as a reflection of the disordered society. (Fiege, 2014)
+
+
 ### Thinking Like a Mall
 See [[Vogel]]
 See [[Thinking like a Mall]], Ch 5
@@ -50,6 +54,7 @@ In the same way an ecosystem has a telos to maintain a balance and provide cover
 			See [[The Death of the Author]]
 
 # For Nature 
+
 See [[Katz]], [[Descartes]], [[Kant]]
 
 

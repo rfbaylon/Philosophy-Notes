@@ -16,7 +16,7 @@ This view holds two assumptions that are important to note:
 	A2: [[Nagel]] 2: This also conversely means that any present desire for a future object to provide reason for present action. In other words, there is no way to distinguish whims from important future events. This can also be taken a step farther to say that if there is a desire for a future that i expect will not exist in the future, there will still be reason for me to act on it.3
 		(If a 5 year old tells his mom he wants to be a rockstar, then that provides present reason for this kid to pick up guitar to practice)
 		"If on Monday, I expect that on Tuesday I shall want to eat a pear on Wednesday, although I also expect that on Wednesday I shall be indifferent to pears, then on Monday I have clear prudential reasons to make sure I have a pear available on Wednesday, although I will not have any reason to want it then." [[The Possibility of Altruism]], 42
-	A2: [[Nagel]]: "A person's future should be of interest to hum not because it is among his present interests, but because it is *his future*." [[The Possibility of Altruism]], 42
+	A2: [[Nagel]]: "A person's future should be of interest to him not because it is among his present interests, but because it is *his future*." [[The Possibility of Altruism]], 42
 
 
 ## Prudential Reason

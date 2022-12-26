@@ -1,1 +1,0 @@
-See [[Spinoza]], [[Nietzsche]], [[CosmicSkeptic]] 

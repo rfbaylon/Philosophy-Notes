@@ -1,4 +1,6 @@
-# Epicurean Position on Death
+
+
+## Epicurean Position on Death
 See [[Epicurus]], [[Singer]] (only regarding beings without [[Personhood]])
 Killing is not bad for the person who is being killed, as there is no agent there to feel the badness of the killing.
 
@@ -20,7 +22,7 @@ It wasn't bad for us that we weren't around to see the pyramids when they were b
 ### Bullets to Bite
 - Replacability of humans: If i kill someone and then bring an equally happy child into the world, this would be a neutral thing. 
 
-# Modal Position on Death
+## Modal Position on Death
 See [[Nagel]], [[Ord]]
 Killing a being is bad in so far as you remove future pleasure that person would have experienced if they were alive.
 
@@ -28,9 +30,9 @@ Killing a being is bad in so far as you remove future pleasure that person would
 - Choosing not to have a kid (when it would be happy to be alive) is the same as murdering a kid
 - As someone gets older, murdering them is less wrong
 
-# Preferential Position on Death
+## Preferential Position on Death
 See [[Singer]] regarding [[Personhood]]
 Killing a being with future plans and preferences that are not death (Persons) would be immoral as you are frustrating their future preferences. For nonpersons, Singer takes the Epicurean view.
 
-# Sanctity of Life
+## Sanctity of Life
 See [[Jainism]], [[Buddhism]], [[Kant]]

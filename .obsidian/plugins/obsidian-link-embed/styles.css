@@ -1,17 +1,10 @@
-img {
-  vertical-align: middle;
-  border-style: none;
-}
-svg:not(:root) {
-  overflow: hidden;
-}
 .w,
 body {
-  overflow: hidden;
-  margin: 0;
-  padding: 0;
-  background: none transparent;
-  text-align: left;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	background: none transparent;
+	text-align: left;
 }
 a {
 	background-color: transparent;
@@ -36,7 +29,7 @@ a {
 		Roboto, 'Helvetica Neue', Arial, sans-serif;
 	font-weight: 400;
 	font-size: 15px;
-	color: #000;
+	color: inherit;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
@@ -69,7 +62,7 @@ a {
 }
 ._sc,
 ._sm {
-	background: #fff;
+	background: inherit;
 }
 ._or .tf {
 	-ms-flex-order: 0;
@@ -1038,17 +1031,17 @@ a {
 	height: 100%;
 }
 .w {
-	background-color: #fff;
+	background-color: inherit;
 }
 .e {
 	padding-bottom: 100%;
 }
 .t {
 	line-height: 1.4;
-	color: #000;
+	color: inherit;
 }
 .th {
-	color: #000;
+	color: inherit;
 }
 .tf {
 	color: #999;

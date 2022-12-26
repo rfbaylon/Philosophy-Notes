@@ -15,7 +15,7 @@ See [[Deleuze]] & [[Guattari]]
 "Words are not tools, but we give children language, pens, and notebooks as we give workers shovels and pickaxes... Language is not life; it gives orders" [[A Thousand Plateaus]], 76
 
 ## What is a Major Language
-A Major language is one by which maintains an arborescent model of linguistics; there maintains one master signifier which remains the locus and origin of language. For [[Chomsky]], this would be [[Universal Grammar]]. 
+A Major language is one by which maintains an arborescent model of linguistics; there maintains one master signifier which remains the locus and origin of language. For [[Chomsky]], this would be Universal Grammar (See [[Universal Grammar vs Behaviorism]]). 
 
 
 ## What is a Minor Language

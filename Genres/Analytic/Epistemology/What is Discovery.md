@@ -1,3 +1,5 @@
+#WIP - I need to define and categorize what the names of the ideaologies that each author falls under are
+
 ## Bacon
 [[Bacon]]'s goal has always been to find the necessary and suffecient confitions
 

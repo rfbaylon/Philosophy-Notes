@@ -42,7 +42,9 @@ See [[Foucault]]
 #### Climate
 According to [[Hulme]] and [[Jankovic]], Climate and climate science are both social phenomena before they are truth discovering practices. Climate affects culture, and culture affects climate; even if both are always changing, the two concepts are still mutually dynamic. In [[Foucault]]'s sense, it takes the form of a classical episteme. The science produces social truths, not Truths. 
 	"Studying climatology is always about studying society, vicariously or not." [[Klima 2011]], 10
-	“As a result of this repositioning, climatological modeling has ceased to act as a mere form of expertise and has become a normative, value- laden instrument for assessing the fate of economic and social worlds.”  [[Klima 2011]] 13-14
+	[
+
+](https://www.reddit.com/r/196/)“As a result of this repositioning, climatological modeling has ceased to act as a mere form of expertise and has become a normative, value- laden instrument for assessing the fate of economic and social worlds.”  [[Klima 2011]] 13-14
 	(Climate's) history was assembled from privileged positions deemed reliable and authoritative, based on scholarship, data, experiments, models, technologies, and accredited bodies reaching back several centuries [[Klima 2011]], 3
 
 ##### Examples

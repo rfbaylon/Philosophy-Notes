@@ -44,12 +44,14 @@ By contrast, defective altruism is—by the admission of its proponents—an app
 
 # Methodological Critiques
 [Iason Gabriel-Effective Altruism and its Critics (1).pdf]
+See [[Gabriel]]
 
 Note:
 **givewell formally acknowledged the 3 objections below and now incorporates multifaceted analyses
 All 3 critiques come from Iason Gabriel
 
- Observational bias, we prioritize things that are easier to observe
+### Observational Bias
+ , we prioritize things that are easier to observe
 
 RCTs!
 
@@ -63,7 +65,8 @@ Can ONLY be applied small villages tho! 
 
 -> leads to observational bias
   
-Quantification bias, lets measures slip through cracks
+### Quantification Bias
+lets measures slip through cracks
 
 To see how these factors can influence decision-making, consider the following
 
@@ -77,7 +80,8 @@ that leave people with HIV/AIDS untreated. One reason for this is recognition th
 
 original verdict overlooks. Hope is also an important resource for people who are undergoing serious hardship, encouraging them to tackle problems they might other-wise, in resignation, fail address. Taken together, these effects show why we cannot move directly from information about the most cost-effective intervention, on a DALY per capita basis, to reliable conclusions about the best overall policy or program.33
 
- ### Instrumental Bias, technocratic solutions, not democratic solutions 
+### Instrumental Bias
+ , technocratic solutions, not democratic solutions 
 Between deciding whether or not to hire a professional company to build a well or hiring the community that needs it, it could eb better to do the latter to promote autonomy and self esteem
 
   

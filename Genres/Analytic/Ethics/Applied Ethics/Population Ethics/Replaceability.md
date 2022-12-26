@@ -12,6 +12,7 @@ Because certain beings have certain rights not to be killed, the violation of su
 See [[Singer]], [[Kagan]]
 
 ## Animals are Replaceable, Persons are Not
+See [[Singer]]
 See [[Personhood]]
 
 ### Argument from Social Anxiety
@@ -22,7 +23,7 @@ If I kill a person, other people will recognize a threat to their lives and be m
 Since people have plans for the future and aspirations later in life, we would be frustrating the preferences of current people by killing them. This makes killing them wrong. [[Practical Ethics]] 80-81
 	A2: [[Kagan]] Does the new person not have a desire created (and fulfilled) to be alive? How would the preference utilitarian escape? [[Singer On Killing Animals]], 148
 		A2A2: The thing that matters is only that creating fulfilled preferences for actual beings,  not contingent, nonexistent beings.
-			A2A2A2: This falls into the same issues as [[Antinatalism]] and Asymmetry [[Pleasure and Pain Asymmetry]]
+			A2A2A2: This falls into the same issues as [[Natalism]] and Asymmetry [[Pleasure and Pain Asymmetry]]
 		A2A2: There are other objective goods besides frustrated or unfrustrated preferences
 			A2A2A2: What are they?
 			A2A2A2: We can still run with the replacability argument by making it such that the potential child has the same "objective goods" that the victim will have
@@ -54,6 +55,6 @@ A person heavily values their autonomy as a rational agent, and frustrating that
 
 
 
-## Everybody is Replaceable
+# Everybody is Replaceable
 See [[Epicurus]]
 See Epicurus' position on death in [[What's Wrong With Death]]

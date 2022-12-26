@@ -1,5 +1,9 @@
 [[My Stance]] on mathematical realism: Either Full Blooded Platonism is true or fictionalism is true. Anything else is metaphysically or epistemically contradictory. The strongest argument for mathematical platonism is Quine's [[Indispensability Argument]], and the strongest for mathematical antiplatonism is [[Ockham’s Razor]]. Between these, I dont know what to choose
 
+"""
+As a note, this and [[Mathematical Antiplatonism]] should be put on one page if following the style guidelines in [[Pro-Con TEMP]], but since each is so long it wouldn't make sense to do so.
+"""
+
 # Antiplatonic Positive Case
 
 **As Albert Einstein once said, “The series of integers is obviously an invention of the human mind, a self-created tool which simplifies the ordering of certain sensory experiences.” Like Einstein, today I stand before you on the negative to propose that mathematics was invented, not discovered.
@@ -444,7 +448,7 @@ Problem of Infinity
 
 1.  This is untenable for a LOT of reasons. The first being that in order for our conception of infinity to exist, there has to be an infinite number of objects. Since there is only a limited number of matter in the universe, infinity can't exist, and our number system would end abruptly after a very certain number of atoms, and nothing else could possibly exist beyond it.
     
-2.  If math is an empirical study, I would be able to falsify it somehow. How would I go about falsifying math? (see [[Empiricism]])
+2.  If math is an empirical study, I would be able to falsify it somehow. How would I go about falsifying math? (see [[Rationalism, Empiricism, & Idealism]])
     
 3.  We only have direct empirical evidence of only a small fraction of the theories in math that we use. This means that we only have knowledge of a small number of theories. For example, we can empirically test 2+2=4, but for something like set theory or higher-order calculus, we have no empirical tests to prove or disprove it. Thus, under empiricism, things that mathematically hold such as set theory doesn’t mean truth.
     

@@ -1,1 +1,0 @@
-See [[J.S. Mill]], [[Bentham]], 

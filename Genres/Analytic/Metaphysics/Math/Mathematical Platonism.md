@@ -1,5 +1,9 @@
 [[My Stance]] on mathematical realism: Either Full Blooded Platonism is true or fictionalism is true. Anything else is metaphysically or epistemically contradictory. The strongest argument for mathematical platonism is Quine's [[Indispensability Argument]], and the strongest for mathematical antiplatonism is [[Ockham’s Razor]]. Between these, I dont know what to choose.
 
+"""
+As a note, this and [[Mathematical Antiplatonism]] should be put on one page if following the style guidelines in [[Pro-Con TEMP]], but since each is so long it wouldn't make sense to do so.
+"""
+
 # Platonic Positive Case
 
 

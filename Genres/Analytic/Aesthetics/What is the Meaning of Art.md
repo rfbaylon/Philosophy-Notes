@@ -1,4 +1,6 @@
-## The Author's Intention
+# The Author's Intention
+
+# The Eye of the Beholder
 
 ## The Eye of the Beholder
 See [[Barthes]], [[Foucault]]
@@ -20,6 +22,6 @@ To limit a work to merely what the author believes is to kill it. It is to allow
 	"We know that in order to restore writing to its future, we must reverse the myth: the birth of the reader must be requited by the death of the Author."
 		[[The Death of the Author]], 55
 
-## The Most Artistic Value
+# The Most Artistic Value
 
-## Art Shouldn't Seek Meaning
+# Art Shouldn't Seek Meaning

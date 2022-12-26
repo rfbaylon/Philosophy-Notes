@@ -51,3 +51,22 @@ Generalities are
 	B) Prototypical schemas for categories
 	C) Confusion between thinking and emotional states
 	D) Science reducing the world into as few fundamental laws as possible
+
+### [[Whitehead]]
+See [[Whitehead]]
+#WIP 
+ Greeks thought they could escape language; that they could learn the world by determining meaning of words
+		But the fault lies in the belief that language is well defined.
+	There are NO brute, self-contained facts outside of interpretation and language.
+
+### Argument from Private Language
+See [[Wittgenstein]]
+
+1. We can only learn language through other people
+2. For language to exist, it needs one other person
+3. Language is the communication of concepts
+	If i have the idea of an island in my mind, the way I put that image into your mind is by uttering "island" and hoping that you have the same image in your brain when I utter it. 
+	
+	"If I wish to explain to someone who does not know Greek the simple impression that a line of Home leaves upon me, I shall give the translation of the line,  then comment on my translation, then I shall develop my commentary, and from explanation to explanation I shall get closer to what I wish to express; but I shall never quite reach it." [[Discourse on Metaphysics]], 5
+
+[[Wittgenstein]]'s Beedle in a Box Experiment

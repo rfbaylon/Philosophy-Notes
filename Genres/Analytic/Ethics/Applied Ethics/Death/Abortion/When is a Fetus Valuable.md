@@ -15,6 +15,7 @@ A fetus is valuable in-itself when the sperm fertilizes the egg
 		1. If someone were to accidentally fertilize an egg without realizing a donor couldn't make it for their appointment and couldn't freeze it, they just killed a full human being.
 		2. The existence of these facilities creates one of largest moral failing in the history of the world. By creating *so many* fertilized eggs and freezing them, with many of them expiring or failing, IVF facilities kill millions of people every year. If one were truly pro-life, these labs would be the first place to protest, not abortion centers.
 	A2: Why does fertilization create personhood? Does this belief not just collapse into the potentiality argument above?
+		A2: This is because at conception is the first time a being is made that can rightfully be considered *you*.
 
 # Heartbeat
 A fetus is valuable in-itself when it develops a heartbeat

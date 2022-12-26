@@ -22,10 +22,18 @@ Even if it were the case that I took the conclusion to be true, I will still not
 
 In short, bad arguments can support good conclusions.
 
-## What Are Tags?
+## Best Practice
+
+* Authors get their own notes iff they either write a book or write 3 papers. 
+* Books are referred to by their title and get their own notes
+* Papers are referred to in the format of [Author(Year)], but do not get their own note. 
+	* Books are defined by being larger than 50 pages, papers are defined by being less.
+
+### What Are Tags?
 
 #Cite - Citation needed
 #WIP - Something that needs an (at most) 20 minute fix
+#Update - Large projects that I learned recently that need a note
 #Questions - Tangential questions that arise that I don't yet have an answer to.
 #MyArgument - An argument that I came up with myself. If something with this tag mirrors an already existing argument or idea, it is purely by coincidence.
 #Quote - Cool quotes that could come in handy. This does not apply to all quotes as some are incredibly narrow.

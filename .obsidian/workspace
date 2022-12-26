@@ -7,12 +7,8 @@
         "id": "599f4e6a29ea9e3d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biopowe",
+                "query": "climate",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,15 +130,15 @@
   },
   "active": "599f4e6a29ea9e3d",
   "lastOpenFiles": [
-    "Genres/Analytic/Mind/Cognition/Intelligence Tests.md",
-    "Genres/Analytic/Epistemology/What is Discovery.md",
-    "Genres/Analytic/Mind/Cognition/Do Machines Think.md",
-    "Genres/Analytic/Mind/Cognition/Mind Models/Materialism/Identity Theory.md",
-    "Genres/Analytic/Mind/Cognition/Mind Models/Materialism/Material Reductionism.md",
+    "Genres/Continental/Poststructualism/Deleuzian Dictionary.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Antipsychiatry.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/A2 Psychoanalysis.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Anti-Oedipus Graphs.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Schizoanalysis.md",
+    "Genres/Continental/Sociology/Foucault/Biopower.md",
+    "Genres/Analytic/Metaphysics/Misc. Metaphysics/On Nature (Metaphysics)/Against Nature (Metaphysics).md",
+    "Genres/Continental/Psychoanalysis/Lacanian Graphs of Desire.md",
     "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
-    "Genres/Continental/History - Politics/History/Dialectics.md",
-    "Genres/Analytic/Ethics/Normative Ethics/Normative Theories/Utilitarianism/Preferential - Hedonic.md",
-    "Philosophers/Hegel.md",
-    "Papers/Misc/Fiction/The Metamorphosis.md"
+    "Genres/Analytic/Mind/Cognition/Intelligence Tests.md"
   ]
 }

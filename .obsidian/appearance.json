@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 19,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Iterative Rainbow Folder Titles"
   ],
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "",
+  "translucency": true
 }

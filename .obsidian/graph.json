@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Environment,nature,eco",
-      "color": {
-        "a": 1,
-        "rgb": 9485933
-      }
-    },
-    {
       "query": "path:Genres/Analytic/Ethics",
       "color": {
         "a": 1,
@@ -26,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 2332359
-      }
-    },
-    {
-      "query": "path:Genres/Analytic/Mind",
-      "color": {
-        "a": 1,
-        "rgb": 5731728
       }
     },
     {
@@ -50,10 +36,24 @@
       }
     },
     {
-      "query": "path:Papers",
+      "query": "path:Book",
       "color": {
         "a": 1,
         "rgb": 16369487
+      }
+    },
+    {
+      "query": "path:Genres/Analytic/Epistemology",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Genres/Analytic/Mind",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -64,9 +64,9 @@
   "lineSizeMultiplier": 1.26994382022472,
   "collapse-forces": false,
   "centerStrength": 0.375,
-  "repelStrength": 10.2380952380952,
-  "linkStrength": 0.422619047619048,
-  "linkDistance": 390,
-  "scale": 0.16316007641995905,
+  "repelStrength": 9.99804305283757,
+  "linkStrength": 0.618884540117417,
+  "linkDistance": 250,
+  "scale": 0.16659057549653555,
   "close": false
 }

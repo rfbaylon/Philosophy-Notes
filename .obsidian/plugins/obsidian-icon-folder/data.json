@@ -5,14 +5,14 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarCircleQuestion",
       "FarSquarePlus",
       "FarFileZipper",
       "FarChartBar",
       "FarClipboard",
       "FarImage",
       "FarFaceGrinSquint",
-      "FarMap",
-      "FarCreditCard"
+      "FarMap"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -21,6 +21,12 @@
       "right": 2,
       "bottom": 2,
       "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
     }
   },
   "Images": "FarImages",
@@ -60,9 +66,9 @@
   "Genres/Continental/Religious Studies": "FarChessBishop",
   "Genres/Continental/Psychoanalysis": "FarEyeSlash",
   "Genres/Analytic/Aesthetics": "FarImage",
-  "Genres/Continental/Science": "FarClipboard",
   "Genres": "FarChartBar",
   "Genres/Continental/Economics": "FarMoneyBill1",
   "Genres/Continental/Sociology": "FarHandshake",
-  "Papers": "FarMap"
+  "Books": "FarMap",
+  "Random": "FarCircleQuestion"
 }

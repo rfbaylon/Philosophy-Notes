@@ -1,4 +1,7 @@
-## Argument for Democratic Discourse
+
+# Marketplace of Ideas-ish
+
+## Marketplace of Ideas-ish
 
 ### Argument from Contradiction
 See [[Vogel]]
@@ -11,3 +14,5 @@ By making an argument against democratic discourse and platforming, you are enga
 See [[Vogel]]
 Since a moral-legal system is necessarily social, there needs to be social discourse in order to determine such a system. If we live in a socially determined democracy, we need to (socially) reconstruct the social body in order to attain progress
 	"The environment around us is always the product of our social practices" [[Thinking like a Mall]], 231
+
+# Censorship

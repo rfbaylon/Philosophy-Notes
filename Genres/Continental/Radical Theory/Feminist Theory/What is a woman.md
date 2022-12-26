@@ -1,7 +1,11 @@
 [[My Stance]] on the definition of gender: I think Butler is right about gender performativity.
 
-## Biological Essentialism
+# Biological Essentialism
+
 #### A woman is an adult human female (female defined by one's disposition to create female gametes (ova))
+
+## Biological Essentialism
+
 
 ## A2 Biological Essentialism
 
@@ -12,8 +16,12 @@ Thus, chromosomal distinctions cannot be what makes a woman a woman as that leav
 
 ----
 
-## Psychological Essentialism
+# Psychological Essentialism
+
 #### A woman is someone who has the psychological predisposition to desire to fit the social role of femininity
+
+## Psychological Essentialism
+See [[Destiny]]
 
 ## A2 Psychological Essentialism
 
@@ -25,8 +33,12 @@ A2: If someone feels ambivalent about their gender but is assigned female at bir
 
 ----
 
-## Gender Performativism
+# Gender Performativism
+
 #### A woman is someone who performs the social role of "femininity"
+
+## Gender Performativism
+
 See [[Butler]], [[De Beauvoir]], [[Foucault]], [[Wittig]]
 See [[Becoming]]
 
@@ -38,28 +50,35 @@ See [[Becoming]]
 
 ## A2 Gender Performativism
 
-### A2 Performativism: Argument from Absurdity (Transracialism)
+### Argument from Absurdity (Transracialism)
 If you buy this, you also have to bite the bullet on [[transracialism]] existing, unless a successful symmetry breaker is found.
 	A2A2: [[Tuvel]]: Transracialism is true.
 
 ----
 
-## Gender Oppressionism
+# Gender Oppressionism
+
 #### A woman is someone who is oppressed by the patriarchy
+
+## Gender Oppressionism
+
 
 ## A2 Gender Oppressionism
 
-### A2 Oppressionism: Argument Universal Violence of Patriarchy
+### Argument Universal Violence of Patriarchy
 Are men not also oppressed by the patriarchy? Does the patriarchy not enforce rigid gender roles upon men and make it such that they cannot express emotions properly? Thus, are not *all* people oppressed by the patriarchy, including those that support it?
 
 ---
 
-## Self-Identificationism
+# Self-Identificationism
+
 #### A woman is someone who identifies as a woman
+
+## Self-Identificationism
 
 ## A2 Self-Identificationism
 
-### A2 Self-ID: Circularity Argument
+### Circularity Argument
 A2: This definition is circular. Lets abstract the general form to create an ad absurdum.
 	A {     } is someone who identifies as a {     }.
 	A  {{   }} is someone who identifies as a {     }.
@@ -70,13 +89,16 @@ A2: This definition is circular. Lets abstract the general form to create an ad 
 	A woman self identified self identified person is someone who identifies as identifying as identifying as a woman
 		Clearly the latter few are absurd, very few people if any identify as identifying as (...) a woman, meaning they are not women by this definition.
 
-### A2 Self-ID: Private Language Argument
+### Private Language Argument
 The author constructs a [[Private Language]] by creating such a definition, and thus the claim is unverifiable at best ([[Wittgenstein]])
 
 ---
 
-## Gender prescriptivism 
+# Gender prescriptivism 
+
 #### A woman is someone who society ought to treat as a woman
+
+## Gender Prescriptivism
 
 ## A2 Gender Prescriptivism
 
@@ -85,11 +107,13 @@ This view is not metaphysical in nature, but moral. Even if we ought to treat so
 
 ---
 
-## Gender Nihilism 
+# Gender Nihilism 
 #### Women don't exist; a 'woman' is an absurd concept.
 
-## A2 Nihilism
+## Gender Nihilism
 
-### A2 Nihilism: Feminisim implies Women
+## A2 Gender Nihilism
+
+### Feminism implies Women
 What exactly is feminism without the existence of women? How can one call themself a feminist if they have no understanding of what a woman is?
 	"The qualifications for being a subject (of feminism) must be met before representation can be extended" [[Gender Trouble]], 4

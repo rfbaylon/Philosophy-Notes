@@ -4,12 +4,9 @@ Just because other nonhuman animals do something doesnt mean that it is good. Th
 	I can't imagine seriously walking into a courtroom to defend yourself from charges of being a rapist, for example, with this logic. “Your honor, lions rape eachother, so why can't I? Are you going to stop lions from raping eachother?”
 	No. Nobody should base their moral system based off of what literary wild animals do. We are humans and we have the capability to rationalize and make moral decisions, unlike lions. 
 
-  
-
 ### Eating meat is a personal choice. Live and let live.
 Live and let live only works if you live and let live. Choosing chocolate ice cream over vanilla is a personal choice, but abusing an animal for your own benefit isn't your own whimsical personal choice. The animal you're eating is forced against their will to be on your plate, so it's not just your will we have to take into consideration.
 Continuing, “Abusing my dog is my personal choice, please don't force your views on me. I bought the dog, I bought the baseball bat, who are you to tell me what to do with my property? Live and let live, pushy dog rights activist” If this makes you uncomfortable, the same discomfort should be applied to eating meat. Just like the dog’s preferences should be valued in this situation, the cows or pigs should be valued in your decision to eat them.
-
 
 ### Plants feel pain.
 
@@ -18,8 +15,6 @@ When looking at the hard science, plants do not have a central nervous system to
 When making this point, people often point to one specific study of one certain plant. Even if this is true, I can easily say we shouldn't eat that plant, but we are still able to eat lettuce, kale, soy, apples, etc. Each of these plants would also have to be proven to feel pain. 
 
 Beyond this, even if this argument is bought, we kill more plants to feed livestock than we do to feed ourselves. Cows and other livestock eat 6x more plants to make a meal than if we just ate the plants directly. We kill 6x more plants under the omnivorous world, so even with this argument, you should go vegan because livestock eat so much plant.
-
-  
 
 We are smarter than animals.
 
