@@ -8,6 +8,12 @@
 See [[Kant]]
 Metaphysics can only be a syntehtic a priori judgement, otherwise it is merely physics. Ergo, all we know of metaphysics is as a result of our own understanding. This means that teh thing-in-itself will never be understood unless via our own human filter.
 Metaphysicians of the past have refused to ask the question *how* are a priori judgements possible, leading to dogma in the field.
+	Q: How is nature possible in the material sense?
+	A: By the constitution of our sensibility according to the Transcendental Aesthetic (See [[Space]], [[Time]])
+	Q: How is nature possible in the formal sense
+	A: By the constitution of our understanding according to laden a priori principles 
+	"The understanding does not derive its laws a priori from, but prescribes them to, nature" ([[Prolegomena to Any Future Metaphysics]], 67)
+	(See [[A Priori - A Posteriori]])
 
 
 

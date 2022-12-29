@@ -1,40 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "A Priori - A Posteriori",
+      "path": "Genres/Analytic/Logic/A Priori - A Posteriori.md"
     },
     {
-      "basename": "The Simulation Hypothesis",
-      "path": "Genres/Analytic/Metaphysics/The Simulation Hypothesis.md"
+      "basename": "Free Will & Determinism",
+      "path": "Genres/Analytic/Mind/Free Will & Determinism.md"
     },
     {
-      "basename": "Naive Hypotheses",
-      "path": "Naive Hypotheses.md"
+      "basename": "Theism & Atheism",
+      "path": "Genres/Analytic/Metaphysics/Theism & Atheism.md"
     },
     {
-      "basename": "Bostrom",
-      "path": "Bostrom.md"
+      "basename": "Substance",
+      "path": "Genres/Analytic/Metaphysics/Substance.md"
     },
     {
-      "basename": "Internalism & Externalism (Mind)",
-      "path": "Genres/Analytic/Mind/Cognition/Internalism & Externalism (Mind).md"
+      "basename": "Simples vs Infinite Composites",
+      "path": "Genres/Analytic/Metaphysics/Simples vs Infinite Composites.md"
     },
     {
-      "basename": "Mind Models",
-      "path": "Genres/Analytic/Mind/Cognition/Mind Models.md"
+      "basename": "Hard Problem of Consciousness",
+      "path": "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md"
+    },
+    {
+      "basename": "Nonidentity Problem",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Nonidentity Problem.md"
+    },
+    {
+      "basename": "Returning National Parks",
+      "path": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md"
+    },
+    {
+      "basename": "Nature (Metaphysics)",
+      "path": "Genres/Analytic/Metaphysics/Nature (Metaphysics).md"
+    },
+    {
+      "basename": "Principle of Sufficient Reason",
+      "path": "Genres/Analytic/Metaphysics/Principle of Sufficient Reason.md"
+    },
+    {
+      "basename": "Causation",
+      "path": "Genres/Analytic/Metaphysics/Causation.md"
+    },
+    {
+      "basename": "What is Conscious",
+      "path": "Genres/Analytic/Mind/Consciousness/What is Conscious.md"
+    },
+    {
+      "basename": "METAmetaphysics",
+      "path": "Genres/Analytic/Metaphysics/METAmetaphysics.md"
+    },
+    {
+      "basename": "Knowledge Co-Production",
+      "path": "Genres/Analytic/Epistemology/Knowledge Co-Production.md"
+    },
+    {
+      "basename": "Prolegomena to Any Future Metaphysics",
+      "path": "Books/Prolegomena to Any Future Metaphysics.md"
+    },
+    {
+      "basename": "Kant",
+      "path": "Philosophers/Kant.md"
     },
     {
       "basename": "Do Machines Think",
       "path": "Genres/Analytic/Mind/Cognition/Do Machines Think.md"
     },
     {
-      "basename": "On Nature (Ethics)",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/'Natural'/On Nature (Ethics).md"
+      "basename": "Folk Psychology",
+      "path": "Genres/Analytic/Mind/Cognition/Folk Psychology.md"
     },
     {
-      "basename": "Nature (Metaphysics)",
-      "path": "Genres/Analytic/Metaphysics/Nature (Metaphysics).md"
+      "basename": "Frame Problem",
+      "path": "Genres/Analytic/Mind/Cognition/Frame Problem.md"
+    },
+    {
+      "basename": "Internalism & Externalism (Mind)",
+      "path": "Genres/Analytic/Mind/Cognition/Internalism & Externalism (Mind).md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Mind Models",
+      "path": "Genres/Analytic/Mind/Cognition/Mind Models.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Genres/Analytic/Logic/Untitled.md"
+    },
+    {
+      "basename": "What is Discovery",
+      "path": "Genres/Analytic/Epistemology/What is Discovery.md"
+    },
+    {
+      "basename": "Sociology of Measurement",
+      "path": "Genres/Analytic/Epistemology/Sociology of Measurement.md"
+    },
+    {
+      "basename": "Altruism & Egoism",
+      "path": "Genres/Analytic/Mind/Action Theory/Altruism & Egoism.md"
+    },
+    {
+      "basename": "Prudence",
+      "path": "Genres/Analytic/Mind/Action Theory/Prudence.md"
+    },
+    {
+      "basename": "What is Desire",
+      "path": "Genres/Analytic/Mind/Action Theory/What is Desire.md"
+    },
+    {
+      "basename": "Naive Hypotheses",
+      "path": "Naive Hypotheses.md"
+    },
+    {
+      "basename": "The Simulation Hypothesis",
+      "path": "Genres/Analytic/Metaphysics/The Simulation Hypothesis.md"
+    },
+    {
+      "basename": "Bostrom",
+      "path": "Bostrom.md"
+    },
+    {
+      "basename": "On Nature (Ethics)",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/'Natural'/On Nature (Ethics).md"
     },
     {
       "basename": "A2 EA",
@@ -49,14 +141,6 @@
       "path": "Moral Measurement.md"
     },
     {
-      "basename": "Knowledge Co-Production",
-      "path": "Genres/Analytic/Philosophy of Science/Knowledge Co-Production.md"
-    },
-    {
-      "basename": "Sociology of Measurement",
-      "path": "Genres/Analytic/Philosophy of Science/Sociology of Measurement.md"
-    },
-    {
       "basename": "Gene Editing",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Gene Editing.md"
     },
@@ -67,18 +151,6 @@
     {
       "basename": "Power of Human  or Nature",
       "path": "Genres/Continental/Sociology/Environmental Sociology/Power of Human  or Nature.md"
-    },
-    {
-      "basename": "Returning National Parks",
-      "path": "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md"
-    },
-    {
-      "basename": "Folk Psychology",
-      "path": "Genres/Analytic/Mind/Cognition/Folk Psychology.md"
-    },
-    {
-      "basename": "Frame Problem",
-      "path": "Genres/Analytic/Mind/Cognition/Frame Problem.md"
     },
     {
       "basename": "The Problem of the Self",
@@ -95,10 +167,6 @@
     {
       "basename": "Space",
       "path": "Genres/Analytic/Metaphysics/Space & Time/Space.md"
-    },
-    {
-      "basename": "Hard Problem of Consciousness",
-      "path": "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md"
     },
     {
       "basename": "Churchland",
@@ -121,14 +189,6 @@
       "path": "Random/Where tf do I categorize these/Noumena.md"
     },
     {
-      "basename": "METAmetaphysics",
-      "path": "Genres/Analytic/Metaphysics/METAmetaphysics.md"
-    },
-    {
-      "basename": "Prolegomena to Any Future Metaphysics",
-      "path": "Books/Prolegomena to Any Future Metaphysics.md"
-    },
-    {
       "basename": "The Semiotic Chain",
       "path": "Genres/Analytic/Language/The Semiotic Chain.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "Responsibility for Different Types of Animals",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Responsibility for Different Types of Animals.md"
-    },
-    {
-      "basename": "Causation",
-      "path": "Genres/Analytic/Metaphysics/Causation.md"
-    },
-    {
-      "basename": "Environmental Philosophy",
-      "path": "Books/!Currently Reading/Environmental Philosophy.md"
-    },
-    {
-      "basename": "What is Conscious",
-      "path": "Genres/Analytic/Mind/Consciousness/What is Conscious.md"
-    },
-    {
-      "basename": "Measuring Morality",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Measuring Morality.md"
-    },
-    {
-      "basename": "Theism & Atheism",
-      "path": "Genres/Analytic/Metaphysics/Theism & Atheism.md"
-    },
-    {
-      "basename": "Sentience Hierarchies",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Sentience Hierarchies.md"
-    },
-    {
-      "basename": "Theories of Wellbeing",
-      "path": "Genres/Analytic/Ethics/Meta Ethics/Theories of Wellbeing.md"
-    },
-    {
-      "basename": "Preference & Hedonic Utilitarianism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Preference & Hedonic Utilitarianism.md"
-    },
-    {
-      "basename": "Rule & Act Utilitarianism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Rule & Act Utilitarianism.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Utilitarianism.md"
-    },
-    {
-      "basename": "Sentimentalism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Antirealism/Sentimentalism.md"
-    },
-    {
-      "basename": "My Util Proof",
-      "path": "Random/My Util Proof.md"
-    },
-    {
-      "basename": "Respect For Nature",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Respect For Nature.md"
-    },
-    {
-      "basename": "Categorical Imperative",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Categorical Imperative.md"
-    },
-    {
-      "basename": "Virtue Ethics",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md"
     }
   ],
   "omittedPaths": [

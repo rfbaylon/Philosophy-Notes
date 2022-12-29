@@ -5,13 +5,24 @@ God is defined as an Omnipotent, Omniscient, Omnipresent, Omnitemporal, and Omni
 ## Cosmological Arguments
 Any argument that argues for God via synthetic a priori argumentation
 
-### [[W.L. Craig]]'s' Kalam Cosmological Argument
+### The Kalam Cosmological Argument
+See [[W.L. Craig]]
 (i) Whatever begins to exist has a cause of its existence
 (ii) The universe began to exist
 (iii) Therefore, the universe has a cause of its existence.
 
 Imagine walking through a forest and finding a smooth floating orb on your path. You ask in amazement, pondering the reason this orb exists here and now, but your hiking friend merely says "Oh, its here for no reason at all." This would obviously leave you frustrated, and unsatisfied as this orb could not have merely popped into existence for no reason at all.
 [[W.L. Craig]] compares the theist to person A, the atheist to person B, and the orb to the universe itself. The princple demonstrated here seems to be the [[Principle of Sufficient Reason]]. Thus, [[W.L. Craig]] seems to claim that the PSR points to (not necessarily proves) God's existence.
+
+### The First Mover
+See [[Aristotle]]
+#WIP
+	A2: [[Kant]]: Whether the world is infinite in its regress or finite with God as its cause, neither assertion can possibly be learned in experience because infinitude for finite creatures is impossible to experience. Thus the question of if there is a first mover is literally unanswerable as it belongs to the realm of [[Noumena]].
+		The argument for this is the same rational Kant uses in his discussion of [[Simples vs Infinite Composites]]
+		([[Prolegomena to Any Future Metaphysics]], 89)
+	A2: [[Kant]]: In the world of appearances, there needs to be a first cause as cause is necessary. In the world of things-in-themselves though, causation does not apply meaning that the true metaphysical answer of a first mover is impossible to know
+		The argument for this is the same rational Kant uses in his discussion of [[Free Will & Determinism]] and [[Simples vs Infinite Composites]]
+		([[Prolegomena to Any Future Metaphysics]], 90-92)
 
 ### [[Spinoza]]'s Proof of God as Substance
 See [[Spinoza]], [[Whitehead]], [[Einstein]]
@@ -43,6 +54,18 @@ See [[Spinoza]], [[Whitehead]], [[Einstein]]
 	A2: [[Hume]]: logically, something *could* be a cause, but not an effect and visa versa. Thus, the [[Principle of Sufficient Reason]] fails since there is nothing *necessarily* connecting event A and event B (See [[Genres/Analytic/Metaphysics/Causation/Causation]])
 
 Note: [[Leibniz]] has to bite the bullet that this is the best world possible because God is omnibenevolent and has a reason to choose this world over all other possible worlds. Is a good argument for [[Problem of Evil]].
+
+### Transcendental Primal Being
+See [[Kant]]
+I dont understand this argument very well, but perhaps it seems ontological? #WIP 
+([[Prolegomena to Any Future Metaphysics]], 96)
+
+God is far beyond our understanding and thus can only be [[Noumena]]l. The closest thing we can conceive of is a form of diesm ([[Prolegomena to Any Future Metaphysics]], 104)
+
+### Argument from Possibility
+See [[Kant]]
+Nothing can be conceived of as possible unless all of its necessary components actually exist. If this wasn't the case, then nothing would be possible.
+"Here again the central idea is that possibility presupposes something actual, and so there is a being which, if it did not exist, then nothing would be possible; but such a being is absolutely necessary" [SEP](https://plato.stanford.edu/entries/kant-religion/#KantOwnArguForGodsExis)
 
 ## Ontological Arguments
 

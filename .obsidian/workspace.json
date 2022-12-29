@@ -8,67 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b5573d6023c0fc",
+            "id": "2f2632624e5fbca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Mind/Cognition/Mind Models.md",
+                "file": "Genres/Analytic/Metaphysics/Substance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e503d41505bd605d",
+            "id": "bfbab9e642aa1838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Mind/Cognition/Internalism & Externalism (Mind).md",
+                "file": "Genres/Analytic/Metaphysics/Simples vs Infinite Composites.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53608607b0871ec3",
+            "id": "7099f8f792c9d8f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Genres/Analytic/Metaphysics/Theism & Atheism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5ac03a59f814ec6",
+            "id": "8fe94691ce240fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naive Hypotheses.md",
+                "file": "Genres/Analytic/Mind/Free Will & Determinism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "460f7e5bfd8d211b",
+            "id": "d26356c8de90a64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bostrom.md",
+                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a5324334d7e5b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genres/Analytic/Mind/Consciousness/What is Conscious.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chinese room",
+                "query": "hard pr",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md"
               }
             }
           },
@@ -207,17 +219,79 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "53608607b0871ec3",
+  "floating": {
+    "id": "cb749ff93e13f3ef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3be4064c7280cc09",
+        "type": "window",
+        "children": [
+          {
+            "id": "5930b6ead097e728",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67e914ed1aa03e55",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Genres/Analytic/Metaphysics/Causation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "018fea2b3d1db8f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "795149884a5d87b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Genres/Analytic/Metaphysics/Substance.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 1214,
+        "y": 50,
+        "width": 1730,
+        "height": 1032,
+        "maximize": true,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "d26356c8de90a64b",
   "lastOpenFiles": [
-    "Genres/Analytic/Metaphysics/The Simulation Hypothesis.md",
-    "Naive Hypotheses.md",
-    "Bostrom.md",
-    "Genres/Analytic/Mind/Cognition/Internalism & Externalism (Mind).md",
-    "Genres/Analytic/Mind/Cognition/Mind Models.md",
-    "Genres/Analytic/Mind/Cognition/Do Machines Think.md",
-    "Books/Analytic/Epistemology/!Epistemology Papers.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/'Natural'/On Nature (Ethics).md",
+    "Genres/Analytic/Mind/Free Will & Determinism.md",
+    "Genres/Analytic/Metaphysics/Theism & Atheism.md",
+    "Genres/Analytic/Metaphysics/Substance.md",
+    "Genres/Analytic/Metaphysics/Simples vs Infinite Composites.md",
+    "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Nonidentity Problem.md",
+    "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
     "Genres/Analytic/Metaphysics/Nature (Metaphysics).md",
-    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md"
+    "Genres/Analytic/Metaphysics/Principle of Sufficient Reason.md",
+    "Genres/Analytic/Logic/A Priori - A Posteriori.md"
   ]
 }

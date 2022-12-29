@@ -11,7 +11,19 @@ A substance is a being so complete that it allows the deduction of all of its mo
 The number of substances is always the same, as substances cannot interact with one another.
 Each substance imperfectly mirrors the substance of Gods
 
+# Necessary Substance
 
+## The Necessity Claim
+
+## A2 The Necessity Claim
+
+### [[Noumena]]l Argument
+See [[Kant]]
+The order of nature are all constructs of the mind. [[Time]], [[Space]], and the laws of [[Causation]] all need to be filters that the understanding overlays upon our experience. Because causation can only be understood as a part of the mind, the true and real nature of substance-in-itself cannot be beholden to the laws of [[Causation]]. Thus, the answer to whether or not there is a necessary substance is outside of the bounds of human understanding, making it [[Noumena]]l
+	([[Prolegomena to Any Future Metaphysics]], 95)
+	The argument for this is the same rationale [[Kant]] uses in his discussion of [[Free Will & Determinism]]
+
+---
 # Monism
 See [[Berkeley]], [[Kant]], [[Hegel]], [[Rationalism, Empiricism, & Idealism]] , [[Spinoza]] , [[Dennett]]
 

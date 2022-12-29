@@ -90,9 +90,11 @@ Feeling of pain is an instance of a specific neurobiological property (e.g, C-fi
 			I think this is a knockdown argument. 
 
 
-
-
 ## A2 Physicalism
 
 ### [[Wittgenstein]] on Private Language
 If someone says "I feel a sensation in the frontal lobe of my brain," we have no way of disproving her. Who are we to say that they do not feel this feeling. The same goes for a water diviner who *feels* water *n* feet below the ground ([[The Blue and Brown Books]], 9) .
+
+### Argument from [[Space]] and [[Time]]
+See [[Kant]]
+Because the Transcendental Aesthetic is true, we cant possibly experience objects outside of us because the term 'outside of ourselves' implies a concept of space which is impossible except as a factor of our own understanding. 

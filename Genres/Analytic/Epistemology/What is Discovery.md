@@ -33,3 +33,10 @@ meaningful data collection is guided and constrained
 Bacon, designed by Langley et al, is a computer system based on a weak algorithm which claims to create scientific discoveries based on heuristics and 
 	"BACON exhibits a set of processes when executed actually make scientific discoveries" ; BACON specifically found the inverse square law by connecting data, similar to how Kepler discovered it. BACON did the same with Maxwell's law and Faraday's law. 
 		A2: Whewell: Scientific discovery requires *concepts* not just computation of raw data. Machines cannot use concepts so thus machines cannot make any discoveries. Inputting the specific data into BACON (that BACON would not have otherwise) is incredibly crucial to the scientific process; and its unique to humans. 
+
+## Kant
+#### Judgements of Perception and Experience
+Judgements of perception; The room is warm, this sugar is sweet
+Judgments of experience; Air is elastic, chairs have mass
+	"That I and everybody else should nalways connect necessarily the same perceptions under the same circumstance" ([[Prolegomena to Any Future Metaphysics]], 47)
+	This also means that Objective validity and Necessary Universality are synonyms. Necessary universality arises from the similarly constructed nature of a priori understanding. A priority -> Judgement of experience

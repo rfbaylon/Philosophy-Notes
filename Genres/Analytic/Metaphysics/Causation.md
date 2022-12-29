@@ -7,6 +7,7 @@ From [[Mumford+Anjum]] (date)
 [[Causation A Very Short Introduction]]
 
 #### Causal Eliminativism
+See [[Russell]], [[Hume]]
 Causation is nonexistent; all we see are succession/ correlation NOT causes
 	[[Russell]]: If causes are anterior to effects then there is an asymmetry between causes and effects which is found nowhere else in physics. Therefore, we ought not hold a double standard for causation.
 	Math: A <-> B  Causation: A-> B
@@ -14,13 +15,14 @@ Causation is nonexistent; all we see are succession/ correlation NOT causes
 		A2: This is outdated. Since Russell, we have discovered the one way flow of entropy: everything moves to chaos and not the other way
 		A2: Statements about physics come after, NOT BEFORE, philosophy
 			Related to [[Quine]] [[Indispensability Argument]] ([[Mathematical Platonism]])
-	[[Hume]]: As a fan of [[Rationalism, Empiricism, & Idealism]], Hume claims that the only thing we can learn from the world is that one thing tends to follow another thing. We have NO evidence of causal connection between A and B, only a repeated correlation. "It would not be contrary to reason that the sun wont rise tomorrow."
+	[[Hume]]: As a fan of empericism (See [[Rationalism, Empiricism, & Idealism]]), Hume claims that the only thing we can learn from the world is that one thing tends to follow another thing. We have NO evidence of causal connection between A and B, only a repeated correlation. "It would not be contrary to reason that the sun wont rise tomorrow."
 		A2: The thing that would disprove this are the existences of necessary laws of the universe.
 		A2: Does Hume have too high of an epistemic standard?
 		A2: what is the causal difference between betting on a really good horse and winning vs wearing a lucky tie to the racing tracks? To Hume, these have to be the same.
 		A2: If something 'causes' something once, that is not enough to say that it caused it. It could be a freak accident. Hume bit this bullet
 
 #### Causal Necessitarianism
+See [[Spinoza]]
 When event A happens, event B *necessarily* happens after.
 	Causes are *genuinley productive.* (anti [[Hume]]) Event A leads to event B in all possible worlds
 	[[Spinoza]]: From a given definite cause, an effect necessarily follows (Ethics I, Axiom III) [[Spinoza's Proof of God (Simple)]]
@@ -65,3 +67,10 @@ Things have dispositions to behave in certain conditions, and two things with me
 		A2: Absences of things can be causes in themself (absence of water -> dehydration)
 			A2A2: Couldn't a [[Hume]]an metaphysics account for this by which vacuums dont exist? 
 		A2: this seems like a reformulated necessitarianism
+
+#### Constructivism
+See [[Kant]]
+Causation is an a priori filter within the understanding that our judgement imposes upon objects.
+	Because conditional statements are a priori (If -> Then) there is a notion of cause within the understanding.
+	Causation is a judgement of experience that holds objective validity as it appears to all understandings universally (See [[What is Discovery]]
+	([[Prolegomena to Any Future Metaphysics]], 59)

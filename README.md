@@ -1,5 +1,5 @@
 # Philosophy-Notes
-Running since #WIP 
+**Running since July 26, 2022**
 
 This is a constantly-publishing datafile of every note I have taken in philosophy for the past few years. Im still filling out a lot of the details, formatting, and actual data, so check back frequently if a certain subject hasnt been filled out yet. These notes can be viewed in either Obsidian or Notion as .md's
 
@@ -22,6 +22,12 @@ Even if it were the case that I took the conclusion to be true, I will still not
 
 In short, bad arguments can support good conclusions.
 
+# Formatting
+
+## Terms
+* A2: Answer To
+
+
 ## Best Practice
 
 * Authors get their own notes iff they either write a book or write 3 papers. 
@@ -29,7 +35,7 @@ In short, bad arguments can support good conclusions.
 * Papers are referred to in the format of [Author(Year)], but do not get their own note. 
 	* Books are defined by being larger than 50 pages, papers are defined by being less.
 
-### What Are Tags?
+## What Are Tags?
 
 #Cite - Citation needed
 #WIP - Something that needs an (at most) 20 minute fix
