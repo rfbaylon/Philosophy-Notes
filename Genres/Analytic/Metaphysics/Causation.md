@@ -45,7 +45,8 @@ Causation is counterfactual dependence between events.
 	Physicalism is symmetrical: effects gain energy, causes lose it (A2 [[Russell]]). Both cause and effect happen at the same time, ditching temproal priority
 		A2: This also means that EVERYTHING EVER is caused by energy transfer, which dualists will disagree with
 
-Pluralism: Causation is theory A, B, C, D, OR E depending on the context (See [[Wittgenstein]]). There is no one essence of 'causation' and to look for it is a mistake. 
+#### Pluralism
+Causation is theory A, B, C, D, OR E depending on the context (See [[Wittgenstein]]). There is no one essence of 'causation' and to look for it is a mistake. 
 	Ex. Even though there is no one essence to every member of a family, there can be characteristics each of them share that make them generally alike
 		A2: resemblance includes impostors that arent actual members of the group
 		A2: Definition A and definition B (e.g.) are mutually exclusive definitions; they contradict one another.

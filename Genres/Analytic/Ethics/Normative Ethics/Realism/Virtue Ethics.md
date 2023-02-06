@@ -1,7 +1,23 @@
-# Virtue Ethics
+# Aristotelean Virtue Ethics
 
-## Virtue Ethics
+![[virtues.webp]]
+
+
+## Aristotelean Virtue Ethics
 See [[Plato]], [[Aristotle]], [[McIntyre]]
+
+## A2 Aristotelean Virtue Ethics
+
+# Contemporary Virtue Ethics
+See [[McIntyre]], [[Hursthouse]], [[Sandler]]
+
+## Contemporary Virtue Ethics
+
+## A2 Contemporary Virtue Ethics
+
+# General Virtue Ethics
+
+## General Arguments for VE
 
 ### Moral Uncodifiability Argument
 Morality cannot be codified as per [[Gödel's Incompleteness Theorem]].

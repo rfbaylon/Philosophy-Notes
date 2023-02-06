@@ -27,7 +27,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "emojiStyle": "none"
   },
   "Images": "FarImages",
   "Philosophers": "FarCircleUser",

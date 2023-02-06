@@ -1,4 +1,4 @@
-What is Space?
+What is Time?
 
 ## Time is an actual thing
 #WIP 
@@ -10,3 +10,10 @@ What is Space?
 
 ## Time is a filter of the Intuition
 See [[Kant]]
+
+# Presentism Vs Eternalism
+
+
+# Implications
+ Implicataions for Moral Theory:
+ If 

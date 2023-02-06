@@ -18,7 +18,7 @@ Scientism is the belief that science has all of the answers; but this idea puts 
 	Blue, G. (2018). Scientism: A problem at the heart of formal public engagement with climate change. ACME: An International Journal for Critical Geographies, 17(2), 544–560. Retrieved from https://acme-journal.org/index.php/acme/article/view/1554
 
 ### Case Study: Gene Editing
-See [[Gene Editing]]
+See [[Human Gene Editing]]
 
 #### CRISPR Projects that Happen are Those With Funding
 All science relies on funding of some sort, but it just so happens that for research in the biomedical field, the only things that get funding are those that will bring a product to market, as that is pretty much the only way for the investors to get money back. Thus, the interests going into CRISPR are not concerned about the common good, but just that which will make substantial money from investors with a lot to gain. From this, important topics such as biosecurity go completely underfunded. Currently, we cannot trust the experts to make value judgements about their research as their projects are driven by profit. There needs to be substantially more research in safety before any more large projects appear.

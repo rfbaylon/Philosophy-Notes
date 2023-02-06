@@ -1,3 +1,70 @@
+
+# ConcernedEAs
+
+[Very Important Internal Critique](https://forum.effectivealtruism.org/posts/54vAiSFkYszTWWWv4/doing-ea-better-1)
+
+## EA is too homogenous, hierarchical, and insular
+[Very Important Internal Critique](https://forum.effectivealtruism.org/posts/54vAiSFkYszTWWWv4/doing-ea-better-1)
+"The Collective Intelligence literature suggests epistemic communities should be diverse, egalitarian, and open to a wide variety of information sources. EA, in contrast, is relatively homogenous, hierarchical, and insular. This puts EA at serious risk of epistemic blind-spots."
+
+### EA Values Orthodoxy
+
+#### The Orthodoxy
+EA is mostly comprised of people with very similar demographic, cultural, and eductational backgrounds
+EA also mistakes value-alignment and seniority with expertise
+<small>Orthodoxy includes (but is not limited to):
+Longtermism, (Total) Utilitarianism, Rationalist Epistemics, Progressivist view of History, Techno-Utopian Approach to X Risks</small>
+Hiring practices also HEAVILY favor those in the orthodoxy due to the rationalist epistemic groundwork
+
+#### The Solution
+Diveristy is studied to be one of the biggest determinants of collective intelligence
+
+### EA selectively hears critiques
+
+#### Shallow Vs Deep Critiques
+EA is incredibly open to shallow critiques (which is awesome), but the communitu is structuted such that deep critiques are sysyemically suppressed
+Shallow: 
+- Changes of emphasis or minor structural/methodological adjustments
+- Easily conceptualised as “optimising” “updates” rather than cognitively difficult qualitative switches
+Deep: 
+- Implying that people may have invested considerable amounts of time/effort/identity in something when they perhaps shouldn’t have
+
+Case Study: This article ([The Effective Altruism movement is not above conflicts of interest](https://medium.com/@sven_rone/the-effective-altruism-movement-is-not-above-conflicts-of-interest-25f7125220a5)) was not chosen for any awards and written under a pseudonym for fear of professional retaliation. Comments agreeing are heavily downvoted.
+
+#### The Importance of Anonymity
+Dee critiques drastically reduce funding odds [Source](https://forum.effectivealtruism.org/posts/54vAiSFkYszTWWWv4/doing-ea-better-1#fn-G9cEcNwwDByz6nEDu-22)
+
+"Zoe Cremer and Luke Kemp [lost](https://forum.effectivealtruism.org/posts/gx7BEkoRbctjkyTme/democratising-risk-or-how-ea-deals-with-critics-1) “sleep, time, friends, collaborators, and mentors” as a result of writing [Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225), a paper which was critical of some EA approaches to existential risk.[(Source)](https://forum.effectivealtruism.org/posts/54vAiSFkYszTWWWv4/doing-ea-better-1#fn-G9cEcNwwDByz6nEDu-23) Multiple senior figures in the field attempted to prevent the paper from being published, largely out of fear that it would offend powerful funders. This saga caused significant conflict within CSER throughout much of 2021."
+
+### Over-Quantification
+
+#### [[Bayes]]ianism
+"EA is highly culturally quantitative, which is optimal for some problem categories but not others. Trying to put numbers on everything causes information loss and triggers anchoring and certainty biases. Individual Bayesian Thinking, prized in EA, has significant methodological issues. Thinking in numbers, especially when those numbers are subjective “rough estimates”, allow one to justify anything comparatively easily, and can lead to wasteful and immoral decisions." (See [[Bayes]])
+	"For instance, Bayesian estimates are heavily influenced by one’s initial figure (one’s “prior”), which, especially when dealing with complex, poorly-defined, and highly uncertain and speculative phenomena, can become subjective (based on unspecified values, worldviews, and assumptions) to the point of arbitrary."
+There is not even evidence that individual Bayesian thinking is even more fruitful lol
+
+Research in existential risk is especially unreliable (What is the basis for priors?)
+
+## Many EA beliefs have very little support
+BOOKMARK: Expertise & Rigour
+
+### EA people speak with way too mjuch confidence, ignore debate
+People within the EA sphere are listened to, and a lot of credibility that EA researchers have are unfairly prioritized over non EA researchers. 
+Example: 80k Hours gave Sam Bankman Fried  a platform to discuss all EA issues, he doesnt know anything besides finance (at best)
+
+### Reading lists are Narrow
+All EA houses only have Msackkill, Ord, and Bostrom. Blog posts are favored over sholarly research
+
+### Reinventing the Wheel
+Diseaster Risk Reduction, Futures Studies and Science & Technology Studies are not a part of EA for some reason, despite having the necesssary framework to help with this research. (This is mostly for X risk research)
+
+
+
+
+## EA interests align suspiciously with donor interests
+
+## EA decision making is highly centralized, opaque, and unaccountable
+
 ## Over Demandingness
 
 For consider, even if global poverty were eliminated entirely, there will still always be causes to which you could contribute that would be more valuable than pursuing your own interests (such as generating benefits to future generations). This is the paradoxical over demandingness of utilitarianism identified by philosophers like [Bernard Williams](https://www.routledge.com/Ethics-and-the-Limits-of-Philosophy/Williams/p/book/9780415610148) and [Susan Wolf](https://www.pdcnet.org/jphil/content/jphil_1982_0079_0008_0419_0439): that a world of utilitarians would be a world incapable of happiness.
@@ -89,8 +156,6 @@ Between deciding whether or not to hire a professional company to build a well o
 Purely data based analyses miss the latter ‘good’ which is unfortunate.
 
   
-
-
 # Counterfactuals
 
 Would other people donatein your place if you don't?

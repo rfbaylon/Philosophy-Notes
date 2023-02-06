@@ -31,7 +31,7 @@ At some point though, as in chess, there are just way too many potential moves (
 
 ## A2 Classicism
 
-### The Chinese Room Experiment
+### The Chinese Room Argument
 See [[Searle]]
 [[Searle]] argues that Physical Symbol Systems (PSSs) cannot think as they are mere syntactic beings. PSSs only know how variables in a syntax interrelate, but can never understand what the variables actually mean. 
 He makes this argument though the Chinese Room analogy

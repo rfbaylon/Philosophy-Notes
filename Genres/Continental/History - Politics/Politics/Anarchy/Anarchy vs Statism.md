@@ -2,7 +2,7 @@
 See [[Kropotkin]], [[Stirner]], [[Chomsky]], [[Rocker]], [[Jensen]], [[Deleuze]] & [[Guattari]] (?)
 
 ## Non-economic forms of State Oppression
-### Argument from Beaurocracy
+### Argument from Bureaucracy
 [[Stirner]]: Bureaucracy is a form of non-economic state oppression
 	Juxtaposed to classical [[Marx]]ism that states that the state is reducible to economic forces
 [[Bakunin]] and [[Kropotkin]] also thought it was incredibly reductive to solely use a class based lens to analayze the state

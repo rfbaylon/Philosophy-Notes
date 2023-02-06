@@ -4,83 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "c503bfa6e5021d79",
+        "id": "97cb4798151a3860",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2632624e5fbca3",
+            "id": "4e900718e6fccb4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Metaphysics/Substance.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfbab9e642aa1838",
+            "id": "dd2aeff61e267c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Metaphysics/Simples vs Infinite Composites.md",
+                "file": "Philosophers/Hursthouse.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7099f8f792c9d8f3",
+            "id": "8023c28a61857119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Metaphysics/Theism & Atheism.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fe94691ce240fb7",
+            "id": "93ad7e3acc395e05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Mind/Free Will & Determinism.md",
+                "file": "How to Research.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d26356c8de90a64b",
+            "id": "d719698442d77a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
+                "file": "Research Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a5324334d7e5b7c",
+            "id": "93c63b4bf1f815c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7933e098c7413596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Mind/Consciousness/What is Conscious.md",
+                "file": "EA Retreat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hard pr",
+                "query": "retrea",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,11 +134,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332.0124969482422
+    "width": 200
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -146,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
+                "file": "EA Retreat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md",
+                "file": "EA Retreat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genres/Analytic/Logic/A Priori - A Posteriori.md"
+                "file": "EA Retreat.md"
               }
             }
           },
@@ -198,11 +207,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,84 +225,23 @@
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "cb749ff93e13f3ef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3be4064c7280cc09",
-        "type": "window",
-        "children": [
-          {
-            "id": "5930b6ead097e728",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "67e914ed1aa03e55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Genres/Analytic/Metaphysics/Causation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "018fea2b3d1db8f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "795149884a5d87b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Genres/Analytic/Metaphysics/Substance.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1214,
-        "y": 50,
-        "width": 1730,
-        "height": 1032,
-        "maximize": true,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "d26356c8de90a64b",
+  "active": "7933e098c7413596",
   "lastOpenFiles": [
     "Genres/Analytic/Mind/Free Will & Determinism.md",
-    "Genres/Analytic/Metaphysics/Theism & Atheism.md",
-    "Genres/Analytic/Metaphysics/Substance.md",
-    "Genres/Analytic/Metaphysics/Simples vs Infinite Composites.md",
-    "Genres/Analytic/Mind/Consciousness/Hard Problem of Consciousness.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Nonidentity Problem.md",
-    "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
-    "Genres/Analytic/Metaphysics/Nature (Metaphysics).md",
-    "Genres/Analytic/Metaphysics/Principle of Sufficient Reason.md",
-    "Genres/Analytic/Logic/A Priori - A Posteriori.md"
+    "Research Questions.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Replaceability.md",
+    "EA Retreat.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Retributive Animal Ethics.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Untitled.md",
+    "How to Research.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
+    "Philosophers/Hursthouse.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md"
   ]
 }
