@@ -10,6 +10,9 @@ See Early [[Marx]]
 According to [[Singer]], relativism sprung up in the colonial era as people learned that things considered immoral in Europe were wholesome in other countries across the world (E.g., promiscuous sex). The basis of this argument is that since there are so many different moral systems, it seems to point to the fact that what is good is determined by society. Since moral belief seems so varied, it seems to be impossible to pin one down as *the* moral system.+
 	A2: Just because a lot of people believe different things doesnt mean that there is no objective answer to a question. If a large amount of a poluation believed the earth were flat doesnt discredit the mathematics, physics, and scientific inquiry done to prove the earth is not flat. There can be a fact of the matter despite disagreement among people. 
 
+### We ought to respect other cultures
+Given that each individual is a part of a different culture with entirely varied systems of belief, we ought not impose ourselves over other cultures as there is no reason to value one system over another.
+	A2: this argument actually defeats moral relativism. By claiming that we *ought to* respect other cultures, independent of what our culture claims, we create a normative principle outside of cultural relativism, thus defeating cultural relativism. 
 
 ### Imperialist Critique of Universalism
 If we grant moral objectivism. then it will justify destruction of other nations and colonialism. This is heavily related to [[White Man's Burden]].  If there is a true universal moral truth, it creates a hierarchy of nations that would justify teaching third world nations to abandon their culture, tradition, etc., for a more moral way of life. This mode of thinking justified the entire colonization of Africa to make africans more 'civilized'

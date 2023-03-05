@@ -1,204 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "EA Retreat",
-      "path": "EA Retreat.md"
-    },
-    {
-      "basename": "Free Will & Determinism",
-      "path": "Genres/Analytic/Mind/Free Will & Determinism.md"
-    },
-    {
-      "basename": "Research Questions",
-      "path": "Research Questions.md"
-    },
-    {
-      "basename": "Replaceability",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Replaceability.md"
-    },
-    {
-      "basename": "Retributive Animal Ethics",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Retributive Animal Ethics.md"
-    },
-    {
-      "basename": "How to Research",
-      "path": "How to Research.md"
-    },
-    {
       "basename": "Wild Animal Ethics",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
     },
     {
-      "basename": "Hursthouse",
-      "path": "Philosophers/Hursthouse.md"
+      "basename": "Horta",
+      "path": "Horta.md"
+    },
+    {
+      "basename": "Regan",
+      "path": "Philosophers/Regan.md"
+    },
+    {
+      "basename": "Research Animal Ethics",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md"
+    },
+    {
+      "basename": "Animal Ethics Brainstorm",
+      "path": "Animal Ethics Brainstorm.md"
+    },
+    {
+      "basename": "Individualism Vs. Holism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Individualism Vs. Holism.md"
+    },
+    {
+      "basename": "Animal Ethics in Climate Change",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md"
     },
     {
       "basename": "A2 EA",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md"
     },
     {
-      "basename": "What Makes Discrimination Wrong",
-      "path": "Genres/Continental/Radical Theory/What Makes Discrimination Wrong.md"
-    },
-    {
-      "basename": "Causation",
-      "path": "Genres/Analytic/Metaphysics/Causation.md"
+      "basename": "Virtue Ethics",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md"
     },
     {
       "basename": "Savior Siblings",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethical Principles/Savior Siblings.md"
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Savior Siblings.md"
     },
     {
-      "basename": "Virtue Ethics",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md"
+      "basename": "EA Retreat",
+      "path": "Random/EA Retreat.md"
+    },
+    {
+      "basename": "Naive Hypotheses",
+      "path": "Random/Naive Hypotheses.md"
+    },
+    {
+      "basename": "How to Research",
+      "path": "Random/How to Research.md"
+    },
+    {
+      "basename": "Natalism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Natalism.md"
+    },
+    {
+      "basename": "Longtermism & Neutralism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Longtermism & Neutralism.md"
+    },
+    {
+      "basename": "Longtermism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md"
     },
     {
       "basename": "(Western) History of Animal Ethics",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md"
     },
     {
-      "basename": "Nonidentity Problem",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Nonidentity Problem.md"
+      "basename": "Social Epistemology",
+      "path": "Genres/Analytic/Epistemology/Social Epistemology.md"
     },
     {
-      "basename": "My Stance",
-      "path": "My Stance.md"
+      "basename": "Ethics of VR",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Ethics of VR.md"
     },
     {
-      "basename": "Naive Hypotheses",
-      "path": "Naive Hypotheses.md"
+      "basename": "Research Questions",
+      "path": "Research Questions.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Animal Biopower",
+      "path": "Genres/Continental/Radical Theory/Animal Theory/Animal Biopower.md"
     },
     {
-      "basename": "Human Gene Editing",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethical Principles/Human Gene Editing.md"
+      "basename": "Foucault",
+      "path": "Philosophers/Foucault.md"
     },
     {
-      "basename": "Time",
-      "path": "Genres/Analytic/Metaphysics/Space & Time/Time.md"
+      "basename": "Power and Koweldge",
+      "path": "Genres/Analytic/Epistemology/Power and Koweldge.md"
     },
     {
-      "basename": "Bioethical Principles",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethical Principles/Bioethical Principles.md"
+      "basename": "Intentionalism & Consequentialism",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Intentionalism & Consequentialism.md"
     },
     {
-      "basename": "Preference & Hedonic Utilitarianism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Preference & Hedonic Utilitarianism.md"
+      "basename": "Biocentrism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Biocentrism.md"
     },
     {
-      "basename": "Chalmers",
-      "path": "Philosophers/Chalmers.md"
+      "basename": "Plant Rights",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Plant Rights.md"
     },
     {
-      "basename": "Reality+",
-      "path": "Books/Analytic/Metaphysics/Reality+.md"
+      "basename": "Do plants feel pain",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Do plants feel pain.md"
     },
     {
-      "basename": "AI and Psychotherapy",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Artificial Intelligence/AI and Psychotherapy.md"
+      "basename": "Deep Ecology",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Deep Ecology.md"
     },
     {
-      "basename": "Pasted image 20221226124438",
-      "path": "Images/Pasted image 20221226124438.png"
+      "basename": "Nussbaum",
+      "path": "Philosophers/Nussbaum.md"
     },
     {
-      "basename": "Valuation of Disability",
-      "path": "Genres/Continental/Radical Theory/Disability Theory/Valuation of Disability.md"
+      "basename": "Justice for Animals",
+      "path": "Books/Justice for Animals.md"
     },
     {
-      "basename": "Searle",
-      "path": "Philosophers/Searle.md"
+      "basename": "Cultural Moral Relativism",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Antirealism/Cultural Moral Relativism.md"
     },
     {
-      "basename": "Mind Models",
-      "path": "Genres/Analytic/Mind/Cognition/Mind Models.md"
+      "basename": "Metaphysics of the Virtual",
+      "path": "Genres/Analytic/Metaphysics/Metaphysics of the Virtual.md"
     },
     {
-      "basename": "Frame Problem",
-      "path": "Genres/Analytic/Mind/Cognition/Frame Problem.md"
+      "basename": "Animal Welfare",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Animal Welfare.md"
     },
     {
-      "basename": "Folk Psychology",
-      "path": "Genres/Analytic/Mind/Cognition/Folk Psychology.md"
+      "basename": "Utilitarianism",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Utilitarianism.md"
     },
     {
-      "basename": "Do Machines Think",
-      "path": "Genres/Analytic/Mind/Cognition/Do Machines Think.md"
+      "basename": "On Virtue Ethics",
+      "path": "Books/!Currently Reading/On Virtue Ethics.md"
     },
     {
-      "basename": "AI Interpretability",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Artificial Intelligence/AI Interpretability.md"
+      "basename": "Language and Power",
+      "path": "Genres/Analytic/Language/Language and Power.md"
     },
     {
-      "basename": "Identified vs Statistical Lives",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethical Principles/Identified vs Statistical Lives.md"
+      "basename": "Frankfurt",
+      "path": "Philosophers/Frankfurt.md"
     },
     {
-      "basename": "Digital Persons",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Digital Persons.md"
+      "basename": "What is Queerness",
+      "path": "Genres/Continental/Radical Theory/Queer Theory/What is Queerness.md"
     },
     {
-      "basename": "Animal-Computer Interaction",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Animal-Computer Interaction.md"
+      "basename": "R.M. Hare",
+      "path": "Philosophers/R.M. Hare.md"
     },
     {
-      "basename": "Unadded Books to Goodreads",
-      "path": "Random/Unadded Books to Goodreads.md"
+      "basename": "De Beauvoir",
+      "path": "Philosophers/De Beauvoir.md"
     },
     {
-      "basename": "Pasted image 20221225160756",
-      "path": "Images/Pasted image 20221225160756.png"
+      "basename": "The Life You Can Save",
+      "path": "Books/Analytic/Morality/The Life You Can Save.md"
     },
     {
-      "basename": "Pasted image 20221224205341",
-      "path": "Images/Pasted image 20221224205341.jpg"
+      "basename": "Madness and Civilization",
+      "path": "Books/Continental/Critical Theory/Madness and Civilization.md"
     },
     {
-      "basename": "Pasted image 20220905214324",
-      "path": "Images/Pasted image 20220905214324.png"
+      "basename": "Technocracy vs Democracy",
+      "path": "Genres/Continental/History - Politics/Politics/Technocracy vs Democracy.md"
     },
     {
-      "basename": "virtues",
-      "path": "Images/virtues.webp"
+      "basename": "Sentience Hierarchies",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Sentience Hierarchies.md"
     },
     {
-      "basename": "Categorical Imperative",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Categorical Imperative.md"
-    },
-    {
-      "basename": "Pro-Con TEMP",
-      "path": "Templates/Pro-Con TEMP.md"
-    },
-    {
-      "basename": "Models & Scienctific Prediction",
-      "path": "Genres/Analytic/Epistemology/Philosophy of Science/Models & Scienctific Prediction.md"
-    },
-    {
-      "basename": "Presentism & Eternalism",
-      "path": "Genres/Analytic/Metaphysics/Space & Time/Presentism & Eternalism.md"
-    },
-    {
-      "basename": "Anarchy vs Statism",
-      "path": "Genres/Continental/History - Politics/Politics/Anarchy/Anarchy vs Statism.md"
-    },
-    {
-      "basename": "Anarcho-Communism",
-      "path": "Genres/Continental/History - Politics/Politics/Anarchy/Anarcho-Communism.md"
-    },
-    {
-      "basename": "Anarcho-Primitivism",
-      "path": "Genres/Continental/History - Politics/Politics/Anarchy/Anarcho-Primitivism.md"
+      "basename": "Thomson",
+      "path": "Philosophers/Thomson.md"
     },
     {
       "basename": "Egalitarianism",
       "path": "Genres/Continental/History - Politics/Politics/Egalitarianism.md"
     },
     {
-      "basename": "Power of Human  or Nature",
-      "path": "Genres/Continental/Sociology/Environmental Sociology/Power of Human  or Nature.md"
+      "basename": "Simulacra and Simulation",
+      "path": "Books/Continental/Critical Theory/Simulacra and Simulation.md"
+    },
+    {
+      "basename": "Substance",
+      "path": "Genres/Analytic/Metaphysics/Substance.md"
+    },
+    {
+      "basename": "I Have No Mouth But I Must Scream",
+      "path": "Books/Misc/Fiction/Short Stories/I Have No Mouth But I Must Scream.md"
     }
   ],
   "omittedPaths": [

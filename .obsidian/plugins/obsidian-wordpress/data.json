@@ -1,0 +1,11 @@
+{
+  "lang": "auto",
+  "apiType": "xml-rpc",
+  "endpoint": "ryanfbaylon.wordpress.com",
+  "xmlRpcPath": "/xmlrpc.php",
+  "saveUsername": false,
+  "savePassword": false,
+  "showRibbonIcon": true,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "closed"
+}

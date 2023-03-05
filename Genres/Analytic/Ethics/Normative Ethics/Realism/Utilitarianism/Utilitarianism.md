@@ -5,6 +5,12 @@ See [[J.S. Mill]], [[Bentham]], [[Singer]], [[Sidgwick]], [[CosmicSkeptic]], [[M
 
 ## A2 Utilitarianism
 
+### Utilitarianism boils down to Shrimp Genocide Studies
+See [[Tomasik]]
+See [[Wild Animal Ethics]]
+Given that we want to bolster the amount of happiness in the world and reduce suffering, we ought to be 100% focused on killing as many shrimp as possible. Because shrimp (specifically, copepods, barely bigger than a millimeter) are *so* numerous, any account of measuring suffering must outweigh any human or mammal interest with copepod interests. This is especially compounded as life in the wild is so filled with suffering that the vast vast majority of wild animals live lives not worth living. 
+Clearly, this is not what an ethical theory *ought* to be. It cant be the case that the person who kills the most amount of copepods wins ethics. 
+
 ### Demandingness Objection
 #### AKA "Happiness Pump" 
 See [[Wolf]]
@@ -13,7 +19,7 @@ If everyone were to be true utilitarians, nobody could do anything for themself.
 	A2: Even if there is what seems to many to be an incredibly high moral standard, that doesnt mean that the standard is wrong, it means the people judging it as 'too high' are wrong. Saying it is a high standard doesnt take down the reasons for accepting util, you just dont like the conclusion. 
 	A2: Utilitarianism is attacked at both sides claiming that the theory is base and groveling  while at the same time setting too high of a standard for human nature ([[The Methods of Ethics]], 87)
 
-### Util is a "doctrine of swine"
+### Utilitarianism is a "doctrine of swine"
 Utilitarianism results in believing that there are no higher pleasures. If eating ice cream or reading an academic paper bring the same amount of hedonistic joy, why choose one over the other?
 #Cite actual objection from ancient Greeks
 	A2: ([[J.S. Mill]]) There are higher and lower pleasures. The higher pleasures bring more joy and are more worth doing than eating a cone of ice cream. Higher pleasures include studying, reading, watching deep cinema, enjoying fine wines, etc #Cite 
@@ -29,7 +35,7 @@ Utilitarianism results in believing that there are no higher pleasures. If eatin
 ### Utility Monster
 If there were a being that could experience a happiness so great it outweighed every human being, it would follow from util that we ought to serve it in any way we can at the detriment of our own happiness
 	A2: Biting the bullet isn't a horrible thing to do here. The above is true. 
-	- Note that we are in a similar situation now given [[Longtermism]], and many people dedicate their lives to serving this utility monster.	
+	- Note that we are in a similar situation now given [[Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism]], and many people dedicate their lives to serving this utility monster.	
 
 ### Measuring Problem
 Since you cannot measure the amount of pain added to the world when someone does an action, you cannot tell if it is a bad action or not. Thus, utilitarian which makes claims based on measurable good must be rejected

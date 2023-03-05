@@ -8,7 +8,7 @@ A2 Preference Util: Parfit's Train Analogy
 #Cite 
 
 # Hedonic Utilitarianism
-See [[Theories of Wellbeing]]
+See [[Value Theory]]
 
 ## Hedonic Utilitarianism
 [[Parfit]], Late [[Singer]], [[Bentham]], [[Sidgwick]]

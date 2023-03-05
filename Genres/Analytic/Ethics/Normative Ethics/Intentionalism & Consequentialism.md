@@ -43,3 +43,13 @@ For example, if an action is taken (Euthanizing someone) in order to reduce thei
 
 ## Consequentialism
 See [[J.S. Mill]], [[Bentham]]
+
+## A2 Consequentialism
+
+### Many-Worlds Objection
+If the many-worlds interpretation of QM is correct (that all possible worlds *actually* exist), no matter what occurs, there is equal outcomes. If you cause icnredible amounts of suffering, it will not matter *morally* because by doing that, you prevented a different world from taking on the suffering caused in this one. If we value all actually existing, alike suffering equally, all outcomes are equally good. 
+
+### The Agent Matters
+See [[Hursthouse]]
+If there is a callous, cold, snarky, or pompous doctor who prescibes the same medicine as an empathetic and kind doctor it still seems like tehre is some point of failure on the part of the former. Despite the outcomes being the same, it there is still a failure to take serious the gravity and emotions of their patient. ([[On Virtue Ethics]], 48)
+	A2: The callous attitude can still be taken into consideration as a consequence of the doctors action. The emotional pain suffered by the patient due to the doctors coldness still needs to be considered in the mroal calculus, meaning that the consequentialist and the virtue ethicist stand on the same ground in the end.

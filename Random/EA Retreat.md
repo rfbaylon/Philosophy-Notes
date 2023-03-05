@@ -26,9 +26,9 @@ EA Office at Harvard Square
 - Prerequisite- Goals
 	- What are your most fundamental values?
 - Humans are not automatically strategic (Forum Post)
-	For example, nobody ever looks up how to study ebst despite it being incredibly important. 
-- Time and money are fungible: always try to compare opporitunity cost as a factor of time and money.
-- If something takes less than 2 minutes, do it immidiaely
+	For example, nobody ever looks up how to study best despite it being incredibly important. 
+- Time and money are fungible: always try to compare opportunity cost as a factor of time and money.
+- If something takes less than 2 minutes, do it immediately
 - If you have an issue set an arbitrary time limit to focus all energy on it (Maybe 5 min)
 
 ### How to make foolproof plans
@@ -141,3 +141,16 @@ H3 Focus on own career, community building might not be the best for me.
 H4 EA Opporitunity Board
 
 Keep options open!
+
+# Investagathon
+
+First weekend of marhc
+Varied questions
+Samples
+
+Need to figure out rubric
+Need to figure out funding
+Need to figure out date
+
+Links: Misha, Kuhan, Juan
+Noon-9

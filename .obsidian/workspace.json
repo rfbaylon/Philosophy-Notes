@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e900718e6fccb4f",
+            "id": "3c636cdbd246db40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd2aeff61e267c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophers/Hursthouse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8023c28a61857119",
+            "id": "131fbcf035a7ed0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,51 +32,31 @@
             }
           },
           {
-            "id": "93ad7e3acc395e05",
+            "id": "9f76af569a59a17e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Research.md",
+                "file": "Horta.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d719698442d77a42",
+            "id": "3685e2faae1762b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c63b4bf1f815c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7933e098c7413596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EA Retreat.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +85,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retrea",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -134,12 +102,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -155,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EA Retreat.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EA Retreat.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EA Retreat.md"
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
               }
             }
           },
@@ -228,20 +196,34 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "7933e098c7413596",
+  "active": "131fbcf035a7ed0e",
   "lastOpenFiles": [
-    "Genres/Analytic/Mind/Free Will & Determinism.md",
-    "Research Questions.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Replaceability.md",
-    "EA Retreat.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Retributive Animal Ethics.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Untitled.md",
-    "How to Research.md",
+    "Horta.md",
     "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
-    "Philosophers/Hursthouse.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md"
+    "Pasted image 20230303140134.png",
+    "Philosophers/Regan.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md",
+    "Untitled.md",
+    "Pasted image 20230223122746.jpg",
+    "Pasted image 20230223122758.jpg",
+    "Animal Ethics Brainstorm.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Individualism Vs. Holism.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md",
+    "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Savior Siblings.md",
+    "Random/EA Retreat.md",
+    "Random/Naive Hypotheses.md",
+    "Random/How to Research.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Natalism.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Longtermism & Neutralism.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md",
+    "Genres/Analytic/Epistemology/Social Epistemology.md",
+    "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Ethics of VR.md"
   ]
 }

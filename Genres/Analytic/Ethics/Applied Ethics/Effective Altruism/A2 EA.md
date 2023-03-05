@@ -162,8 +162,6 @@ Would other people donatein your place if you don't?
 
 “It is likely that big charities would pick up the slack of individuals”
 
-  
-
 Is this true? Gabriels paper doesnt cite any source for this, but it seems plausible
 
 Maybe here -----> (Ord op. cit.; MacAskill 2015 op. cit., pp. 59–62).

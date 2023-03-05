@@ -11,7 +11,7 @@ Egoism is predicated upon this:
 		1. by helping them, they will be more likely to help me in the future
 		2. The thought of myself in their position brings about a vivid emotional disgust
 Nagel argues that there are cases where neither of these are true, but people still act altruistically towards others
-	See [[Longtermism]], as there is no emotional connection to people who don't exist, and future people will never help me in return.
+	See [[Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism]], as there is no emotional connection to people who don't exist, and future people will never help me in return.
 	Why cant an individual increase their security in order to protect against violence against them self or drug themself such that they will not have an emotional response? These things could easily produce more good for yourself. ([[The Possibility of Altruism]], 82-83)
 
 ### [[Nagel]]'s Positive Parallel Argument

@@ -36,4 +36,4 @@ Consequences:
 - People, no matter whether they are future or present, are equally morally considerable
 	- 	"It is the condition that a person be equally real at all stages of his life; specifically, the fact that a particular stage is *present* cannot be regarded as conferring on it any special status" [[The Possibility of Altruism]], 60
 	- "The present is just a time among others, and confers no special status on the circumstances which occupy it" [[The Possibility of Altruism]], 61
-	- See [[Longtermism]]
+	- See [[Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism]]

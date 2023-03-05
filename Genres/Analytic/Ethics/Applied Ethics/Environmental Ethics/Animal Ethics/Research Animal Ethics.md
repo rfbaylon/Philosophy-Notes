@@ -1,14 +1,49 @@
 What do we owe nonhuman animals that have been harmed by human action?
 
+# Empirics
+
+
+### No Positive Evidence
+There is not much positive evidence that animal research offers a net benefit to humans
+	(Necessary Conditions for Morally Responsible Animal Research)
+
+### Counterfactuals
+An analysis cannot look towards past things solved by animal research, but needs to look counterfactually
+	(Necessary Conditions for Morally Responsible Animal Research)
+
+### New Tech Complicates
+We have incredible new tech (computer modeling and stem cell models) that further complicates positive analysis
+	(Necessary Conditions for Morally Responsible Animal Research)
+
+### Animal Research Harms Humans
+1.  It costs a lot of money to research
+2.  There are false toxicity positives, false toxicity negatives, false efficacy positives, and false efficacy negatives
+	(Necessary Conditions for Morally Responsible Animal Research)
+
+
 # Nothing
 
 # Something
 
-Research Animals
+### DeGrazia and Sebo
+1.  Expectation of net benefit
+2.  Subjects need to have a life worth living
+	1.  This is because whether human or nonhuman, it is wrong to bring a miserable life into the world. 
+	2.  This is also because we create special obligations to their kids by creating them, similar to how parents crate special obligations to their kids by creating them
+3.  Subjects need to endure no unnecessary harm
+	(Necessary Conditions for Morally Responsible Animal Research)
 
-Chimps
 
-By US law, retired research chimps may only be moved to federally funded chiump sanctuaries. At time of writing, there is only one (Chimp Haven)
+## Retired Animals
+
+#### Chimps
+
+P1 Chimps are beings that can be victims
+P2 The chimps in this case were victims of the US Government
+P3 Where harm is done to victims, perpetrators have a duty to remedy the harm as best as possible
+P4 The US Government has a duty to remedy the harm as best as possible
+
+By US law, retired research chimps may only be moved to federally funded chimp sanctuaries. At time of writing, there is only one (Chimp Haven)
 
 *Chimp Haven has capacity for a total of 230 animals, and as of 1 January, is home to 225 chimps. But the NIH still has 288 chimps in labs.*
 	https://www.nature.com/articles/d41586-018-01324-7
@@ -31,3 +66,10 @@ By US law, retired research chimps may only be moved to federally funded chiump 
 	*[CHIMP] also mandated the retirement of NIH-owned chimps no longer needed in biomedical research: “All surplus chimpanzees owned by the Federal Government shall be accepted into the sanctuary system.”*
 		https://www.science.org/content/article/nih-can-t-deny-former-research-chimps-sanctuary-retirement-federal-judge-rules
 
+*In December 2011, a [groundbreaking report](https://www.nap.edu/catalog/13257/chimpanzees-in-biomedical-and-behavioral-research-assessing-the-necessity) by the Institute of Medicine and National Research Council found agreement that the vast majority of biomedical and behavioral research on chimpanzees is unnecessary for human health. This report raised but did not address the serious ethical issues inherent in the use of chimpanzees in research.*
+	https://chimpstosanctuary.org/history-of-chimpanzees-in-research/
+	More importantly, read this >> https://nap.nationalacademies.org/read/13257/chapter/2
+
+*Of the 110 identified projects sponsored by the NIH between 2001 and 2010, 44 were for research on hepatitis; comparative genomics accounted for 13 projects; 11 projects were for neuroscience research; 9 projects were for AIDS/HIV studies; and 7 projects were for behavioral research.
+	https://nap.nationalacademies.org/read/13257/chapter/2#2
+	![[Pasted image 20230223122758.jpg]]
