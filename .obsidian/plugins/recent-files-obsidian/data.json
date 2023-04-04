@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "What's Wrong With Death",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md"
+    },
+    {
+      "basename": "The Simulation Hypothesis",
+      "path": "Genres/Analytic/Metaphysics/The Simulation Hypothesis.md"
+    },
+    {
+      "basename": "Savior Siblings",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Savior Siblings.md"
+    },
+    {
+      "basename": "Epistemic Bubbles",
+      "path": "Genres/Analytic/Epistemology/Epistemic Bubbles.md"
+    },
+    {
       "basename": "Wild Animal Ethics",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
     },
     {
+      "basename": "Camus",
+      "path": "Philosophers/Camus.md"
+    },
+    {
+      "basename": "The Stranger",
+      "path": "Books/Misc/Fiction/The Stranger.md"
+    },
+    {
+      "basename": "Virtue Ethics",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md"
+    },
+    {
+      "basename": "Cognitivism & Noncognitivism",
+      "path": "Genres/Analytic/Ethics/Meta Ethics/Cognitivism & Noncognitivism.md"
+    },
+    {
+      "basename": "Medical Fundraising",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Medical Fundraising.md"
+    },
+    {
+      "basename": "MacIntyre",
+      "path": "Philosophers/MacIntyre.md"
+    },
+    {
+      "basename": "Hume",
+      "path": "Philosophers/Hume.md"
+    },
+    {
+      "basename": "Pasted image 20230303140134",
+      "path": "Images/Pasted image 20230303140134.png"
+    },
+    {
+      "basename": "Longtermism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md"
+    },
+    {
       "basename": "Horta",
-      "path": "Horta.md"
+      "path": "Philosophers/Horta.md"
     },
     {
       "basename": "Regan",
@@ -15,10 +67,6 @@
     {
       "basename": "Research Animal Ethics",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md"
-    },
-    {
-      "basename": "Animal Ethics Brainstorm",
-      "path": "Animal Ethics Brainstorm.md"
     },
     {
       "basename": "Individualism Vs. Holism",
@@ -31,14 +79,6 @@
     {
       "basename": "A2 EA",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md"
-    },
-    {
-      "basename": "Virtue Ethics",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md"
-    },
-    {
-      "basename": "Savior Siblings",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Savior Siblings.md"
     },
     {
       "basename": "EA Retreat",
@@ -61,10 +101,6 @@
       "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Longtermism & Neutralism.md"
     },
     {
-      "basename": "Longtermism",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md"
-    },
-    {
       "basename": "(Western) History of Animal Ethics",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md"
     },
@@ -75,10 +111,6 @@
     {
       "basename": "Ethics of VR",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Ethics of VR.md"
-    },
-    {
-      "basename": "Research Questions",
-      "path": "Research Questions.md"
     },
     {
       "basename": "Animal Biopower",
@@ -167,34 +199,6 @@
     {
       "basename": "Madness and Civilization",
       "path": "Books/Continental/Critical Theory/Madness and Civilization.md"
-    },
-    {
-      "basename": "Technocracy vs Democracy",
-      "path": "Genres/Continental/History - Politics/Politics/Technocracy vs Democracy.md"
-    },
-    {
-      "basename": "Sentience Hierarchies",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Sentience Hierarchies.md"
-    },
-    {
-      "basename": "Thomson",
-      "path": "Philosophers/Thomson.md"
-    },
-    {
-      "basename": "Egalitarianism",
-      "path": "Genres/Continental/History - Politics/Politics/Egalitarianism.md"
-    },
-    {
-      "basename": "Simulacra and Simulation",
-      "path": "Books/Continental/Critical Theory/Simulacra and Simulation.md"
-    },
-    {
-      "basename": "Substance",
-      "path": "Genres/Analytic/Metaphysics/Substance.md"
-    },
-    {
-      "basename": "I Have No Mouth But I Must Scream",
-      "path": "Books/Misc/Fiction/Short Stories/I Have No Mouth But I Must Scream.md"
     }
   ],
   "omittedPaths": [

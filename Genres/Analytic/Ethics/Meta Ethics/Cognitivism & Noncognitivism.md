@@ -43,3 +43,18 @@ Branch of Noncognitivism
 Technically, moral statements dont talk about anything truth apt, but it still makes sesne to talk about moral propositions as if they were truth apt.
 
 ## A2 Noncognitivism
+
+### Emotivism Is Circular
+[[MacIntyre]]
+"Moral judgements express feelings or attitudes!" "Oh, what kind of feelinsg or attitudes?" "Feelings or attitudes of approval!" "Oh, what kind of approval?" "..." ([[After Virtue]], 12-13)
+
+### Emotivism Confuses Preference and Evaluation
+See [[MacIntyre]]
+Utterances of preference depend on who utters them while utterances of evaluation  are not similarly dependent on the context of their utterance. These are two incredibly distinct kinds of statements, and to collapse them gets rid of a lot of meaningful and important language. 
+
+### Emotivism confuses Use and Meaning
+See [[MacIntyre]], [[Ryle]]
+When an angry school teacher yells at a student that seven times seven equals forty-nine, the *meaning* of the statement is just descriptive. What the teacher uses the sentece for is to show their frustration, anger, and to make the child learn the sentence. When we are talking about ethics, we ought to focusing on the meaning of the statements such as "murder is bad" rather than what we use the phrase to do. ([[After Virtue]], 13). When someone attempts to make moral statements, they are describing the way the world is. 
+	I dont feel like I fully captured this argument, return later #WIP 
+
+

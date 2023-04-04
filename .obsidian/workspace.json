@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "97cb4798151a3860",
+        "id": "2381f3294cd1e4e2",
         "type": "tabs",
         "children": [
           {
-            "id": "3c636cdbd246db40",
+            "id": "599f4e6a29ea9e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131fbcf035a7ed0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f76af569a59a17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3685e2faae1762b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "NAGEL",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -102,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 288
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
+                "file": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md"
               }
             }
           },
@@ -175,55 +138,43 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 198,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-wordpress:WordPress Publish": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-wordpress:WordPress Publish": false
+      "random-note:Open random note": false
     }
   },
-  "active": "131fbcf035a7ed0e",
+  "active": "599f4e6a29ea9e3d",
   "lastOpenFiles": [
-    "Horta.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md",
-    "Pasted image 20230303140134.png",
-    "Philosophers/Regan.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md",
-    "Untitled.md",
-    "Pasted image 20230223122746.jpg",
-    "Pasted image 20230223122758.jpg",
-    "Animal Ethics Brainstorm.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Individualism Vs. Holism.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/A2 EA.md",
-    "Genres/Analytic/Ethics/Normative Ethics/Realism/Virtue Ethics.md",
+    "Genres/Analytic/Metaphysics/The Simulation Hypothesis.md",
     "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Savior Siblings.md",
-    "Random/EA Retreat.md",
-    "Random/Naive Hypotheses.md",
-    "Random/How to Research.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Natalism.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Longtermism & Neutralism.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Longtermism.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md",
-    "Genres/Analytic/Epistemology/Social Epistemology.md",
-    "Genres/Analytic/Ethics/Applied Ethics/Tech Ethics/Ethics of VR.md"
+    "Genres/Continental/Poststructualism/Deleuzian Dictionary.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Antipsychiatry.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/A2 Psychoanalysis.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Anti-Oedipus Graphs.md",
+    "Genres/Continental/Psychoanalysis/Anti-Psychoanalysis/Schizoanalysis.md",
+    "Genres/Continental/Sociology/Foucault/Biopower.md",
+    "Genres/Analytic/Metaphysics/Misc. Metaphysics/On Nature (Metaphysics)/Against Nature (Metaphysics).md",
+    "Genres/Continental/Psychoanalysis/Lacanian Graphs of Desire.md",
+    "Genres/Continental/Radical Theory/Race Theory/Native American Theory/Returning National Parks.md",
+    "Genres/Analytic/Mind/Cognition/Intelligence Tests.md"
   ]
 }

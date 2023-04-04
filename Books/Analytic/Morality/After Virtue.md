@@ -10,4 +10,4 @@ isbn10: 0268086923
 isbn13: 9780268086923
 ---
 
-[[McIntyre]]
+[[MacIntyre]]
