@@ -39,7 +39,7 @@ We clearly discriminate something from ones own happiness from moral duties. For
 
 ### Morality Presupposes Reason via the CI
 See [[Kant]]
-See [[Categorical Imperative]]
+See [[Deontology]]
 You create morality as a necessary condition of the rational will. By your own rational nature, you will yourself to fall in line with the categorical imperative, as doing so would be out of line of your wills own nature. The laws of the CI are both made by each individual and universal at the same time. ([[Groundwork of the Metaphysic of Morals]] 117)
 
 ### Argument from Circularity

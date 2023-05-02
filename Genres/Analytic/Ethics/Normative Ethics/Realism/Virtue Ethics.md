@@ -63,7 +63,7 @@ See [[Anscombe]], [[Hursthouse]]
 ## A2 Virtue Ethics
 
 ### VE is Agent Based, not Action Based
-Morality ought to tell me what actions I ought to do, not what kind of person I ought to be. Thus, it doesnt seem like VE can really be considered moral theory in the same way that [[Utilitarianism]] or following [[Categorical Imperative]] can be
+Morality ought to tell me what actions I ought to do, not what kind of person I ought to be. Thus, it doesnt seem like VE can really be considered moral theory in the same way that [[Utilitarianism]] or following [[Deontology]] can be
 	A2: [[Hursthouse]]: What actions one ought to do is of the concern of Virtue Ethicists, just one level deeper. While VE focuses on what kind of person one ought to become, the crucial part of that becoming is doing the actions that the kind of person one ought to be does. ([[On Virtue Ethics]], 27)
 	A2: [[Hursthouse]]: This same critique could be made of Act [[Utilitarianism]] or [[Kant]]ian Ethics (EG "An action is right iff it is in accordance with a correct moral rule or principle.")
 
@@ -99,7 +99,7 @@ Because Virtue Ethics self-admittedly forgoes principles, this means that there 
 	VE does have incredibly firm principles, just not in the way deontologists or utilitarains concieve of principles. The virtue ethicist has hard and fast principles that ought never be broken such as "Don't be dishonest" and "Be courageous" Even though VE doesnt have hard and fast *rules* of action, that doesnt mean the postion is unprincipled. ([[On Virtue Ethics]], 85)
 
 ### Virtue Ethics Fails in Motivation
-As outlined in [[Kant]]'s work, the proper moral motivation is acting purely from duty rather than in accordance with it (See [[Categorical Imperative]]). If something is done because it would please the agent to do so or because they have an emotional attatchment to it, that seems to be the wrong kind of motivation -- yet virtue ethics precisely supports these reasons for action. 
+As outlined in [[Kant]]'s work, the proper moral motivation is acting purely from duty rather than in accordance with it (See [[Deontology]]). If something is done because it would please the agent to do so or because they have an emotional attatchment to it, that seems to be the wrong kind of motivation -- yet virtue ethics precisely supports these reasons for action. 
 	A2: Something is virtuous insofar as it is done for a reason that supports the virtues. If someone does something because it was the courageous thing, the honest thing, or the charitable thing, then they have done so for the right reasons. The following is a decent definition of a virtuous action done for a virtuous reason from [[Hursthouse]] 
 		"'The virtuous agent chooses virtuous actions "for their own sake"' means 'the virtuous agent chooses virtuous actions for at least one of a certain type or range of reasons, X', where 'the type or range X' is typical of, and differs according to, whichever virtue is in question." ([[On Virtue Ethics]], 127-128).
 		Or, " The V agent chose the V act *qua* V" ([[On Virtue Ethics]], 129)

@@ -57,4 +57,4 @@ Since you cannot measure the amount of pain added to the world when someone does
 		If event A brings 25 'utils' for 4 people and has a 50% chance of occurring, it has a utility score of 50
 			(25 x 4 x 50% = 50)
 			QALYs (Quality Adjusted Life Years) use a similar calculation (See [[List of best charities]])
-	A2: *Every* ethical system has to deal with this issue. The [[Categorical Imperative]] has to weigh other's ends against one another, [[Virtue Ethics]] has to figure out the best way to bring about human perfection through helping others happy and successful. This issue isnt unique to Utilitarianism. Hell, economics, psychology, sociology, politics, and many *many* other fields rely on subjective data such as a 'happiness rating'
+	A2: *Every* ethical system has to deal with this issue. The [[Deontology]] has to weigh other's ends against one another, [[Virtue Ethics]] has to figure out the best way to bring about human perfection through helping others happy and successful. This issue isnt unique to Utilitarianism. Hell, economics, psychology, sociology, politics, and many *many* other fields rely on subjective data such as a 'happiness rating'

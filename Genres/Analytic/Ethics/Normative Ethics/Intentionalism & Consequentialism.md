@@ -22,7 +22,7 @@ See [[Kant]]
 The will, and broadly morality, is a priori
 Morality cannot be a posteriori
 	Why, according to Kant, cant morality be a posteriori? #Questions
-		"Kant thought the [[Categorical Imperative]] must be discovered _a priori_—through reason—because, as a fundamental moral law applying to all rational beings, it cannot be discovered through mere experience: one cannot learn how one _should_ act from how people _do_ act." ([Source](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#AnalPrio))
+		"Kant thought the [[Deontology]] must be discovered _a priori_—through reason—because, as a fundamental moral law applying to all rational beings, it cannot be discovered through mere experience: one cannot learn how one _should_ act from how people _do_ act." ([Source](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#AnalPrio))
 			([[Hume]]'s guillotine -  see [[Moral Realism & Antirealism]])
 Consequences are a posteriori
 Therefore consequences have no moral weight as they are outside of the apriority of the moral law. 

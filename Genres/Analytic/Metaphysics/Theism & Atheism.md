@@ -153,7 +153,7 @@ Cancer is here as a test for humans to solve
 
 A2:
 Animals do not matter morally, only as a means to human ends.
-	A2: [[Why animals matter]]
+	A2: [[Do Animals Matter]]
 
 
 ### Euthyphro Dilemma

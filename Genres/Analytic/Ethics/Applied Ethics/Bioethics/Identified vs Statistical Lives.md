@@ -6,7 +6,49 @@ A mine collapsed with someone in it, but the company only has enough money to ei
 
 Policy makers tend to prioritize identified lives. This bias is called the *identified lives bias*
 
-## Decreasing Marginal Utility
+
+## Pluralism
+
+### Mass Vaccination Vs Water Supply
+See Frick (2015)
+
+*Mass Vaccination*: We vaccinate 100 million children against some se rious,but nonfatal childhood disease, which each of these children is otherwise certain to contract. The vast majority of children will ben efit from the protection the vaccination offers. However, for every child there is also a very remote possibility of fatal side effects from the vacci nation itself. Specifically, we foresee that there will be roughly 100 statis tical deaths as a result of the vaccination drive.
+
+*Water Supply*: Water Everything is as in Mass Vaccination above, except that this time we know in advance which children will die as a result of being vaccinated and which will benefit. However, the only way of vaccinating the children who will benefit is by vaccinating those who will be harmed as well. For instance, assume (somewhat fancifully) that the only way of distributing the vaccine to any child is by putting it in the general water supply that all children must drink from.
+
+Clearly, these two situations are different as one targets certain indiviudals but the other gives an equal chance of death to everyone. 
+
+### A vs B
+See Frick (2015)
+
+Situation 1:
+A has a 100% chance of dying. B has a 20% chance of dying.
+Here, you should save A gievn the choice.
+
+Situation 2:
+A has a 100% chance of dying. B, C, D, and E all have a 20% chance of dying.
+Here, since we are committed to saving B in situation 1, we should do the same for C, D, and E independently. 
+
+Condition:
+Aggregating utility is a bad moral strategy
+
+Therefore, we should save A in situation 2. 
+
+Therefore, identified lives have stronger reasons for aid than statistical lives (even when chances of death are equal).
+
+
+## A2 Pluralism
+
+## Ex Ante View
+Pretty muich just act consequentialism ([[Utilitarianism]])
+
+## A2: Ex Ante View
+
+## Ex Post View
+
+## A2: Ex Post View
+
+#### Decreasing Marginal Utility
 See [[Parfit]]
 Welfare (along with commodities) have decreasing marginal value as well; or, decreasing marginal moral value (DMV)
 	#WIP Empirical evidence to support this is the curve of net money / happiness.
@@ -39,14 +81,14 @@ As an extension, [[Stefansson]] argues that increases in survival chances also f
 
 ### A2: Collapse into Ex Ante Prioritarianism
 This is not true
-[[Stefansson]]'s view would accept situation A, while priotitarianism necessarily prefers situation B
+Stefansson's view would accept situation A, while priotitarianism necessarily prefers situation B
 
 |     | State 1 (.5)     | State 2 (.5)     |
 | --- | ---------------- | ---------------- |
 | A   | Ann 39 , Bob 60  | Ann 60, Bob 39   |
 | B   | Anne 30 , Bob 70 | Ann 70 ,  Bob 30 |
 
-But [[Stefansson]] would not necessarily favor D over C
+But Stefansson would not necessarily favor D over C
 
 |     | State 1 (.5)       | State 2 (.5)       |
 | --- | ------------------ | ------------------ |

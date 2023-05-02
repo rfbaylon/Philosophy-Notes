@@ -3,7 +3,7 @@ If I kill a being, while at the same time bringing a being of equal happiness in
 
 # Nobody is Replaceable
 See [[Kant]]
-See [[Categorical Imperative]]
+See [[Deontology]]
 
 ### Rights Argument
 Because certain beings have certain rights not to be killed, the violation of such rights are bad in-themselves, whether or not more happiness is produces. 

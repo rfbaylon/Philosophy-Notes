@@ -74,7 +74,7 @@ See [[Benatar]], [[Schopenhauer]]
 - Not being born and avoiding a happy life is neutral
 - Not being born and avoiding a sad life is good
 
-### The [[Categorical Imperative]] (Strong Autonomy Argument)
+### The [[Deontology]] (Strong Autonomy Argument)
 The *only* reason one would bring a child into the world is to fulfill a prudential imperative (to make the parents happy). If someone decides that they want a child because it would make them fulfilled and because they think they can give their kids a good life, this fails the CI. By bringing a child into the world for your sake is using them as a pure means to an end, as they cannot consent to birth. You are abusing their rational potential for your own preference of being a parent.
 
 ### Autonomy (Weak Autonomy Argument)

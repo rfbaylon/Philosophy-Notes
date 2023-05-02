@@ -5,7 +5,7 @@ See [[Kant]], [[J.S. Mill]], [[Bentham]], [[Moore]], [[Aristotle]], [[Plato]], [
 
 ### 3 Approaches to Solving the Grounding Problem
 
-#### [[Categorical Imperative]]
+#### [[Deontology]]
 
 #### [[Utilitarianism]]
 

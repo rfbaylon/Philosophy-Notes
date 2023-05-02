@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "Animal Ethics in Climate Change",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md"
+    },
+    {
+      "basename": "Wild Animal Ethics",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
+    },
+    {
+      "basename": "Entangled Empathy",
+      "path": "Books/Entangled Empathy.md"
+    },
+    {
+      "basename": "Animal Ethics Brainstorm",
+      "path": "Animal Ethics Brainstorm.md"
+    },
+    {
+      "basename": "Care Ethics",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Care Ethics.md"
+    },
+    {
+      "basename": "DnP Essay",
+      "path": "Genres/Continental/Sociology/Foucault/DnP Essay.md"
+    },
+    {
+      "basename": "Kymlicka",
+      "path": "Philosophers/Kymlicka.md"
+    },
+    {
+      "basename": "Gruen",
+      "path": "Books/Gruen.md"
+    },
+    {
+      "basename": "Zoopolis",
+      "path": "Books/Zoopolis.md"
+    },
+    {
+      "basename": "Deontology",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Deontology.md"
+    },
+    {
+      "basename": "Value Theory",
+      "path": "Genres/Analytic/Ethics/Meta Ethics/Value Theory.md"
+    },
+    {
+      "basename": "Schopenhauer",
+      "path": "Philosophers/Schopenhauer.md"
+    },
+    {
+      "basename": "Domesticated Animal Ethics",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Domesticated Animal Ethics.md"
+    },
+    {
+      "basename": "Do Animals Matter",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Do Animals Matter.md"
+    },
+    {
+      "basename": "Name That Trait",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Veganism/Name That Trait.md"
+    },
+    {
+      "basename": "A2A2 Veganism",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Veganism/A2A2 Veganism.md"
+    },
+    {
+      "basename": "Capabilities Approach",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Capabilities Approach.md"
+    },
+    {
+      "basename": "Research Animal Ethics",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md"
+    },
+    {
+      "basename": "Causation",
+      "path": "Genres/Analytic/Metaphysics/Causation.md"
+    },
+    {
+      "basename": "(Western) History of Animal Ethics",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md"
+    },
+    {
+      "basename": "Identified vs Statistical Lives",
+      "path": "Genres/Analytic/Ethics/Applied Ethics/Bioethics/Identified vs Statistical Lives.md"
+    },
+    {
+      "basename": "Nussbaum",
+      "path": "Philosophers/Nussbaum.md"
+    },
+    {
+      "basename": "Social Contract Theory",
+      "path": "Genres/Analytic/Ethics/Normative Ethics/Antirealism/Social Contract Theory.md"
+    },
+    {
       "basename": "What's Wrong With Death",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Death/What's Wrong With Death.md"
     },
@@ -15,10 +107,6 @@
     {
       "basename": "Epistemic Bubbles",
       "path": "Genres/Analytic/Epistemology/Epistemic Bubbles.md"
-    },
-    {
-      "basename": "Wild Animal Ethics",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Wild Animal Ethics.md"
     },
     {
       "basename": "Camus",
@@ -65,16 +153,8 @@
       "path": "Philosophers/Regan.md"
     },
     {
-      "basename": "Research Animal Ethics",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Research Animal Ethics.md"
-    },
-    {
       "basename": "Individualism Vs. Holism",
       "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Individualism Vs. Holism.md"
-    },
-    {
-      "basename": "Animal Ethics in Climate Change",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics in Climate Change.md"
     },
     {
       "basename": "A2 EA",
@@ -101,10 +181,6 @@
       "path": "Genres/Analytic/Ethics/Applied Ethics/Population Ethics/Longtermism & Neutralism.md"
     },
     {
-      "basename": "(Western) History of Animal Ethics",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md"
-    },
-    {
       "basename": "Social Epistemology",
       "path": "Genres/Analytic/Epistemology/Social Epistemology.md"
     },
@@ -119,86 +195,6 @@
     {
       "basename": "Foucault",
       "path": "Philosophers/Foucault.md"
-    },
-    {
-      "basename": "Power and Koweldge",
-      "path": "Genres/Analytic/Epistemology/Power and Koweldge.md"
-    },
-    {
-      "basename": "Intentionalism & Consequentialism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Intentionalism & Consequentialism.md"
-    },
-    {
-      "basename": "Biocentrism",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Biocentrism.md"
-    },
-    {
-      "basename": "Plant Rights",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Plant Rights.md"
-    },
-    {
-      "basename": "Do plants feel pain",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Do plants feel pain.md"
-    },
-    {
-      "basename": "Deep Ecology",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Deep Ecology.md"
-    },
-    {
-      "basename": "Nussbaum",
-      "path": "Philosophers/Nussbaum.md"
-    },
-    {
-      "basename": "Justice for Animals",
-      "path": "Books/Justice for Animals.md"
-    },
-    {
-      "basename": "Cultural Moral Relativism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Antirealism/Cultural Moral Relativism.md"
-    },
-    {
-      "basename": "Metaphysics of the Virtual",
-      "path": "Genres/Analytic/Metaphysics/Metaphysics of the Virtual.md"
-    },
-    {
-      "basename": "Animal Welfare",
-      "path": "Genres/Analytic/Ethics/Applied Ethics/Effective Altruism/Cause X/Animal Welfare.md"
-    },
-    {
-      "basename": "Utilitarianism",
-      "path": "Genres/Analytic/Ethics/Normative Ethics/Realism/Utilitarianism/Utilitarianism.md"
-    },
-    {
-      "basename": "On Virtue Ethics",
-      "path": "Books/!Currently Reading/On Virtue Ethics.md"
-    },
-    {
-      "basename": "Language and Power",
-      "path": "Genres/Analytic/Language/Language and Power.md"
-    },
-    {
-      "basename": "Frankfurt",
-      "path": "Philosophers/Frankfurt.md"
-    },
-    {
-      "basename": "What is Queerness",
-      "path": "Genres/Continental/Radical Theory/Queer Theory/What is Queerness.md"
-    },
-    {
-      "basename": "R.M. Hare",
-      "path": "Philosophers/R.M. Hare.md"
-    },
-    {
-      "basename": "De Beauvoir",
-      "path": "Philosophers/De Beauvoir.md"
-    },
-    {
-      "basename": "The Life You Can Save",
-      "path": "Books/Analytic/Morality/The Life You Can Save.md"
-    },
-    {
-      "basename": "Madness and Civilization",
-      "path": "Books/Continental/Critical Theory/Madness and Civilization.md"
     }
   ],
   "omittedPaths": [

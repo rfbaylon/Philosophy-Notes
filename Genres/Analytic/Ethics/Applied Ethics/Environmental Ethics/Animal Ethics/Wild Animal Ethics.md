@@ -11,6 +11,7 @@ The dilemma: How do we parse the morality of these statements in a nonspeciesist
 (B) A mountain lion attacks a deer
 (C) A mountain lion attacks a human child
 	(Environmental Ethics, Animal Welfarism, and the Problem of Predation, 51)
+
 # Interventionism
 
 ## Strong Interventionism
@@ -29,11 +30,13 @@ There is a certain set of capabilities that all sentient beings ought to have th
 See [[Palmer]]
 Trying to fix one area in the wild will cause another area to blow up. By taking care of whooping cranes, you cause immense suffering of the prey animals that the cranes eat. By not taking care of whooping cranes, you bolster the prey species which causes them to over populate resulting more R strategist lives not worth living and fiercer competition for the prey species, potentially destroying the ecosystem as a whole. (Assisting Wild Animals Vulnerable to Climate Change, 187)
 
+
+
 ## Weak Interventionism
 
 ### [[Swart]]'s Care Ethical Approach
 Although [[Swart]] likes where [[Callicott]] and Wenz were thinking, both theories have terminal flaws. Instead of making an ethic around community first and foremost, he wants to make a theory that relies on relationships, not dissimilar from [[Palmer]]'s approach. 
-The way it is dissimilar though is that [[Swart]] wants to create an approach that creates special role based obligations (such as taking care of pets) BUT he also thinks that the existence of special obligations does not deny the existence of general oblgations for wild animals. There is also a place for specific care for beings that wont fuck up the ecosystem if alive. 
+The way it is dissimilar though is that [[Swart]] wants to create an approach that creates special role based obligations (such as taking care of pets) BUT he also thinks that the existence of special obligations does not deny the existence of general obligations for wild animals. There is also a place for specific care for beings that wont fuck up the ecosystem if alive. 
 ![[Pasted image 20230303140134.png]]
 
 ### Wild Sovereignty

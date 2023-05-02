@@ -32,7 +32,7 @@ Since informed consent cannot be given due to a childs age as they donate, it wo
 
 ### Kantian Arguments of Autonomy
 A person must not be treated merely or solely as a means to an end. Because these children are used soley for their marrow and their stem cells, and a child second, savior siblings are unethical.
-	A2: Conception relies on a misunderstanding of the [[Categorical Imperative]]'s second formulation. Under it, people can be used as a means so long as they are also treated as an end in their own right. Because savior siblings can be equally loved and equally treated as human, there is no issue. (Strong et al., 2011)
+	A2: Conception relies on a misunderstanding of the [[Deontology]]'s second formulation. Under it, people can be used as a means so long as they are also treated as an end in their own right. Because savior siblings can be equally loved and equally treated as human, there is no issue. (Strong et al., 2011)
 	A2: Parents who conceive in order to save a childs life are surely more moral than parents who conceive for self interested reasons. Why an issue with the former and not the latter? (Strong et al., 2011)
 
 ### Donor Harm

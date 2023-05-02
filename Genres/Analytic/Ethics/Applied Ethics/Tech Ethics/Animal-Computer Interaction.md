@@ -1,6 +1,6 @@
 # Animal-Computer Interaction (ACI)
 See [[Singer]], [[Mancini]]
-Entire page rests on assumptions of [[Why animals matter]]
+Entire page rests on assumptions of [[Do Animals Matter]]
 
 ###### "Many AI systems have significant impacts on animals, with the total number of animals affected annually likely to reach the tens or even hundreds of billions." AI Ethics: The case for including animals
 
