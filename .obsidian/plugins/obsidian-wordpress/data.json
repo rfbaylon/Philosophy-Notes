@@ -1,11 +1,27 @@
 {
   "lang": "auto",
-  "apiType": "xml-rpc",
-  "endpoint": "ryanfbaylon.wordpress.com",
-  "xmlRpcPath": "/xmlrpc.php",
-  "saveUsername": false,
-  "savePassword": false,
+  "profiles": [
+    {
+      "name": "Default",
+      "apiType": "xml-rpc",
+      "endpoint": "ryanfbaylon.wordpress.com",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": false,
+      "savePassword": false,
+      "isDefault": true,
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"RN8wSZ60uFUGHK8k64jYMW2_rM-GqdnVmrq3EPCj3Ns\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "6Io/AaZEMYH2Etyd",
+        "encrypted": "M0+bAFFcGRwFaVn30k4VCw=="
+      }
+    }
+  ],
   "showRibbonIcon": true,
   "defaultPostStatus": "draft",
-  "defaultCommentStatus": "closed"
+  "defaultCommentStatus": "closed",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": false,
+  "mathJaxOutputType": "svg",
+  "enableHtml": false,
+  "version": "2"
 }

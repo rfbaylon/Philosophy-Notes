@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "Images",
   "fileSortOrder": "alphabetical",
   "readableLineLength": true,
   "spellcheck": true,

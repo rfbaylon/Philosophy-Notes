@@ -309,7 +309,7 @@ var require_he = __commonJS({
 __export(exports, {
   default: () => ObsidianLinkEmbedPlugin
 });
-var import_obsidian4 = __toModule(require("obsidian"));
+var import_obsidian5 = __toModule(require("obsidian"));
 
 // node_modules/mustache/mustache.mjs
 var objectToString = Object.prototype.toString;
@@ -767,6 +767,7 @@ var mustache_default = mustache;
 
 // parser.ts
 var import_obsidian = __toModule(require("obsidian"));
+var import_obsidian2 = __toModule(require("obsidian"));
 var Parser = class {
   parseUrl(url) {
     return __async(this, null, function* () {
@@ -805,7 +806,7 @@ var JSONLinkParser = class extends Parser {
 var MicroLinkParser = class extends Parser {
   constructor() {
     super();
-    this.api = "https://api.microlink.io?url={{{url}}}";
+    this.api = "https://api.microlink.io?url={{{url}}}&palette=true&audio=true&video=true&iframe=true";
   }
   process(data) {
     var _a, _b;
@@ -830,23 +831,86 @@ var IframelyParser = class extends Parser {
     return { title, image, description };
   }
 };
+var LocalParser = class extends Parser {
+  process(data) {
+    throw new Error("Method not implemented.");
+  }
+  getTitle(doc, url) {
+    let element = doc.querySelector('head meta[property="og:title"]');
+    if (element instanceof HTMLMetaElement) {
+      return element.content;
+    }
+    element = doc.querySelector("head title");
+    if (element) {
+      return element.textContent;
+    }
+    return url.hostname;
+  }
+  getImage(doc, url) {
+    let element = doc.querySelector('head meta[property="og:image"]');
+    if (element instanceof HTMLMetaElement) {
+      return element.content;
+    }
+    element = doc.querySelector("body img");
+    if (element) {
+      let attribute = element.getAttribute("src");
+      if (attribute) {
+        if (attribute.startsWith("/")) {
+          attribute = new URL(attribute, url.origin).href;
+        }
+        return attribute;
+      }
+    }
+    return "";
+  }
+  getDescription(doc) {
+    let element = doc.querySelector('head meta[property="og:description"]');
+    if (element instanceof HTMLMetaElement) {
+      return element.content;
+    }
+    element = doc.querySelector('head meta[name="description"]');
+    if (element instanceof HTMLMetaElement) {
+      return element.content;
+    }
+    return "";
+  }
+  parse(url) {
+    return __async(this, null, function* () {
+      const html = yield (0, import_obsidian2.requestUrl)({ url }).then((site) => {
+        return site.text;
+      });
+      let parser = new DOMParser();
+      const doc = parser.parseFromString(html, "text/html");
+      let uRL = new URL(url);
+      if (this.debug) {
+        console.log("Link Embed: doc", doc);
+      }
+      let title = this.getTitle(doc, uRL);
+      let image = this.getImage(doc, uRL);
+      let description = this.getDescription(doc);
+      return { title, image, description, url };
+    });
+  }
+};
 var parseOptions = {
   jsonlink: "JSONLink",
   microlink: "MicroLink",
-  iframely: "Iframely"
+  iframely: "Iframely",
+  local: "Local"
 };
 var parsers = {
   jsonlink: new JSONLinkParser(),
   microlink: new MicroLinkParser(),
-  iframely: new IframelyParser()
+  iframely: new IframelyParser(),
+  local: new LocalParser()
 };
 
 // constants.ts
 var MarkdownTemplate = `\`\`\`embed
-title: '{{{title}}}'
-image: '{{{image}}}'
-description: '{{{description}}}'
-url: '{{{url}}}'
+title: "{{{title}}}"
+image: "{{{image}}}"
+description: "{{{description}}}"
+url: "{{{url}}}"
 \`\`\``;
 var HTMLTemplate = `<div
   style="
@@ -945,7 +1009,7 @@ var REGEX = {
 var SPINNER = "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibGRzLW1pY3Jvc29mdCIgd2lkdGg9IjgwcHgiICBoZWlnaHQ9IjgwcHgiICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoMCkiPjxjaXJjbGUgY3g9IjgxLjczNDEzMzYxMTY0OTQxIiBjeT0iNzQuMzUwNDU3MTYwMzQ4ODIiIGZpbGw9IiNlMTViNjQiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM0MC4wMDEgNDkuOTk5OSA1MCkiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49IjBzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9Ijc0LjM1MDQ1NzE2MDM0ODgyIiBjeT0iODEuNzM0MTMzNjExNjQ5NDEiIGZpbGw9IiNmNDdlNjAiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM0OC4zNTIgNTAuMDAwMSA1MC4wMDAxKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMDYyNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iNjUuMzA3MzM3Mjk0NjAzNiIgY3k9Ijg2Ljk1NTE4MTMwMDQ1MTQ3IiBmaWxsPSIjZjhiMjZhIiByPSI1IiB0cmFuc2Zvcm09InJvdGF0ZSgzNTQuMjM2IDUwIDUwKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMTI1cyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT48Y2lyY2xlIGN4PSI1NS4yMjEwNDc2ODg4MDIwNyIgY3k9Ijg5LjY1Nzc5NDQ1NDk1MjQxIiBmaWxsPSIjYWJiZDgxIiByPSI1IiB0cmFuc2Zvcm09InJvdGF0ZSgzNTcuOTU4IDUwLjAwMDIgNTAuMDAwMikiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49Ii0wLjE4NzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9IjQ0Ljc3ODk1MjMxMTE5NzkzIiBjeT0iODkuNjU3Nzk0NDU0OTUyNDEiIGZpbGw9IiM4NDliODciIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDM1OS43NiA1MC4wMDY0IDUwLjAwNjQpIj4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgY2FsY01vZGU9InNwbGluZSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiIGJlZ2luPSItMC4yNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iMzQuNjkyNjYyNzA1Mzk2NDE1IiBjeT0iODYuOTU1MTgxMzAwNDUxNDciIGZpbGw9IiNlMTViNjQiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDAuMTgzNTUyIDUwIDUwKSI+CiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGNhbGNNb2RlPSJzcGxpbmUiIHZhbHVlcz0iMCA1MCA1MDszNjAgNTAgNTAiIHRpbWVzPSIwOzEiIGtleVNwbGluZXM9IjAuNSAwIDAuNSAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxLjVzIiBiZWdpbj0iLTAuMzEyNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9jaXJjbGU+PGNpcmNsZSBjeD0iMjUuNjQ5NTQyODM5NjUxMTc2IiBjeT0iODEuNzM0MTMzNjExNjQ5NDEiIGZpbGw9IiNmNDdlNjAiIHI9IjUiIHRyYW5zZm9ybT0icm90YXRlKDEuODY0NTcgNTAgNTApIj4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgY2FsY01vZGU9InNwbGluZSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiIGJlZ2luPSItMC4zNzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxjaXJjbGUgY3g9IjE4LjI2NTg2NjM4ODM1MDYiIGN5PSI3NC4zNTA0NTcxNjAzNDg4NCIgZmlsbD0iI2Y4YjI2YSIgcj0iNSIgdHJhbnNmb3JtPSJyb3RhdGUoNS40NTEyNiA1MCA1MCkiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MzYwIDUwIDUwIiB0aW1lcz0iMDsxIiBrZXlTcGxpbmVzPSIwLjUgMCAwLjUgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS41cyIgYmVnaW49Ii0wLjQzNzVzIj48L2FuaW1hdGVUcmFuc2Zvcm0+CjwvY2lyY2xlPjxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBjYWxjTW9kZT0ic3BsaW5lIiB2YWx1ZXM9IjAgNTAgNTA7MCA1MCA1MCIgdGltZXM9IjA7MSIga2V5U3BsaW5lcz0iMC41IDAgMC41IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuNXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT48L2c+PC9zdmc+";
 
 // settings.ts
-var import_obsidian2 = __toModule(require("obsidian"));
+var import_obsidian3 = __toModule(require("obsidian"));
 var import_he = __toModule(require_he());
 var DEFAULT_SETTINGS = {
   popup: true,
@@ -957,7 +1021,7 @@ var DEFAULT_SETTINGS = {
   debug: false,
   delay: 0
 };
-var ObsidianLinkEmbedSettingTab = class extends import_obsidian2.PluginSettingTab {
+var ObsidianLinkEmbedSettingTab = class extends import_obsidian3.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -967,48 +1031,48 @@ var ObsidianLinkEmbedSettingTab = class extends import_obsidian2.PluginSettingTa
     containerEl.empty();
     containerEl.createEl("h2", { text: "Link Embed" });
     containerEl.createEl("h3", { text: "User Option" });
-    new import_obsidian2.Setting(containerEl).setName("Popup Menu").setDesc("Auto popup embed menu after pasting url.").addToggle((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Popup Menu").setDesc("Auto popup embed menu after pasting url.").addToggle((value) => {
       value.setValue(this.plugin.settings.popup).onChange((value2) => {
         this.plugin.settings.popup = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Remove Dismiss").setDesc("Remove dismiss from popup menu. You can always use ESC to dismiss the popup menu.").addToggle((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Remove Dismiss").setDesc("Remove dismiss from popup menu. You can always use ESC to dismiss the popup menu.").addToggle((value) => {
       value.setValue(this.plugin.settings.rmDismiss).onChange((value2) => {
         this.plugin.settings.rmDismiss = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Auto Embed").setDesc("Auto embed link when pasting a link into an empty line.").addToggle((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Auto Embed").setDesc("Auto embed link when pasting a link into an empty line.").addToggle((value) => {
       value.setValue(this.plugin.settings.autoEmbedWhenEmpty).onChange((value2) => {
         this.plugin.settings.autoEmbedWhenEmpty = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Primary Parser").setDesc("Select a primary parser to use for link embeds.").addDropdown((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Primary Parser").setDesc("Select a primary parser to use for link embeds.").addDropdown((value) => {
       value.addOptions(parseOptions).setValue(this.plugin.settings.primary).onChange((value2) => {
         this.plugin.settings.primary = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Secondary Parser").setDesc("Select a secondary parser. It will be used if the primary parser fails.").addDropdown((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Secondary Parser").setDesc("Select a secondary parser. It will be used if the primary parser fails.").addDropdown((value) => {
       value.addOptions(parseOptions).setValue(this.plugin.settings.backup).onChange((value2) => {
         this.plugin.settings.backup = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("In Place").setDesc("Always replace selection with embed.").addToggle((value) => {
+    new import_obsidian3.Setting(containerEl).setName("In Place").setDesc("Always replace selection with embed.").addToggle((value) => {
       value.setValue(this.plugin.settings.inPlace).onChange((value2) => {
         this.plugin.settings.inPlace = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Convert Old Embed").setDesc("Convert old html element into new code block. Warning: Use with caution.").addButton((component) => {
+    new import_obsidian3.Setting(containerEl).setName("Convert Old Embed").setDesc("Convert old html element into new code block. Warning: Use with caution.").addButton((component) => {
       component.setButtonText("Convert");
       component.setTooltip("Use with caution");
       component.setWarning();
       component.onClick(() => __async(this, null, function* () {
-        new import_obsidian2.Notice(`Start Conversion`);
+        new import_obsidian3.Notice(`Start Conversion`);
         let listFiles = this.app.vault.getMarkdownFiles();
         for (const file of listFiles) {
           let content = yield this.app.vault.read(file);
@@ -1044,7 +1108,7 @@ ${content.split(origin).join(embed)}`);
           }
           const errorMatch = content.match(new RegExp(REGEX.ERROR, "gm"));
           if (bReplace && errorMatch != null && errorMatch.length) {
-            new import_obsidian2.Notice(`Conversion Fail on ${file.path}`);
+            new import_obsidian3.Notice(`Conversion Fail on ${file.path}`);
             if (this.plugin.settings.debug) {
               console.log("Link Embed: Convert", content);
             }
@@ -1052,17 +1116,17 @@ ${content.split(origin).join(embed)}`);
             yield this.app.vault.modify(file, content);
           }
         }
-        new import_obsidian2.Notice(`Conversion End`);
+        new import_obsidian3.Notice(`Conversion End`);
       }));
     });
     containerEl.createEl("h3", { text: "Dev Option" });
-    new import_obsidian2.Setting(containerEl).setName("Debug").setDesc("Enable debug mode.").addToggle((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Debug").setDesc("Enable debug mode.").addToggle((value) => {
       value.setValue(this.plugin.settings.debug).onChange((value2) => {
         this.plugin.settings.debug = value2;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Delay").setDesc("Add delay before replacing preview.(ms)").addText((value) => {
+    new import_obsidian3.Setting(containerEl).setName("Delay").setDesc("Add delay before replacing preview.(ms)").addText((value) => {
       value.setValue(String(this.plugin.settings.delay)).onChange((value2) => {
         if (!isNaN(Number(value2))) {
           this.plugin.settings.delay = Number(value2);
@@ -1142,8 +1206,8 @@ var ExEditor = class {
 };
 
 // suggest.ts
-var import_obsidian3 = __toModule(require("obsidian"));
-var EmbedSuggest = class extends import_obsidian3.EditorSuggest {
+var import_obsidian4 = __toModule(require("obsidian"));
+var EmbedSuggest = class extends import_obsidian4.EditorSuggest {
   constructor(app, plugin) {
     super(app);
     this.app = app;
@@ -1211,7 +1275,7 @@ var EmbedSuggest = class extends import_obsidian3.EditorSuggest {
 };
 
 // main.ts
-var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
+var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
   getText(editor) {
     return __async(this, null, function* () {
       let selected = ExEditor.getSelectedText(editor, this.settings.debug);
@@ -1273,7 +1337,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
         });
       });
       this.registerMarkdownCodeBlockProcessor("embed", (source, el, ctx) => {
-        const info = (0, import_obsidian4.parseYaml)(source.trim());
+        const info = (0, import_obsidian5.parseYaml)(source.trim());
         const html = mustache_default.render(HTMLTemplate, {
           title: info.title,
           image: info.image,
@@ -1301,7 +1365,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
   }
   checkUrlValid(selected) {
     if (!(selected.text.length > 0 && ObsidianLinkEmbedPlugin.isUrl(selected.text))) {
-      new import_obsidian4.Notice("Need a link to convert to embed.");
+      new import_obsidian5.Notice("Need a link to convert to embed.");
       return false;
     }
     return true;
@@ -1346,7 +1410,13 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
           if (this.settings.debug) {
             console.log("Link Embed: meta data", data);
           }
-          const embed = mustache_default.render(template, data) + "\n";
+          const escapedData = {
+            title: data.title.replace(/"/g, '\\"'),
+            image: data.image,
+            description: data.description.replace(/"/g, '\\"'),
+            url: data.url
+          };
+          const embed = mustache_default.render(template, escapedData) + "\n";
           if (this.settings.delay > 0) {
             yield new Promise((f) => setTimeout(f, this.settings.delay));
           }
@@ -1354,7 +1424,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
           if (dummy == dummyEmbed) {
             editor.replaceRange(embed, startCursor, endCursor);
           } else {
-            new import_obsidian4.Notice(`Dummy preview has been deleted or modified. Replacing is cancelled.`);
+            new import_obsidian5.Notice(`Dummy preview has been deleted or modified. Replacing is cancelled.`);
           }
           break;
         } catch (error) {
@@ -1375,7 +1445,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian4.Plugin {
     if (this.settings.debug) {
       console.log("Link Embed: Failed to fetch data");
     }
-    new import_obsidian4.Notice(`Failed to fetch data`);
+    new import_obsidian5.Notice(`Failed to fetch data`);
   }
 };
 /*!

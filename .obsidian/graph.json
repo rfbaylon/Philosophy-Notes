@@ -1,72 +1,65 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Genres/Analytic/Ethics",
+      "query": "path:Bibliographical/Authors",
       "color": {
         "a": 1,
-        "rgb": 4434571
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Genres/Continental",
+      "query": "path:Bibliographical/Books",
       "color": {
         "a": 1,
-        "rgb": 2332359
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:Philosophers",
+      "query": "path:Analytic/Ethics",
       "color": {
         "a": 1,
-        "rgb": 16335172
+        "rgb": 15198614
       }
     },
     {
-      "query": "path:Genres/Analytic/Metaphysics",
+      "query": "path:Analytic",
       "color": {
         "a": 1,
-        "rgb": 16291358
+        "rgb": 9624917
       }
     },
     {
-      "query": "path:Book",
+      "query": "path:\"Self Improvement\"",
       "color": {
         "a": 1,
-        "rgb": 16369487
+        "rgb": 9339135
       }
     },
     {
-      "query": "path:Genres/Analytic/Epistemology",
+      "query": "path:Continental",
       "color": {
         "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Genres/Analytic/Mind",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 5419488
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.24241573033708,
-  "lineSizeMultiplier": 1.26994382022472,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.385416666666667,
-  "repelStrength": 9.99804305283757,
-  "linkStrength": 0.618884540117417,
+  "centerStrength": 0.609375,
+  "repelStrength": 13.2291666666667,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12468737856616668,
-  "close": true
+  "scale": 0.13908209628278576,
+  "close": false
 }
