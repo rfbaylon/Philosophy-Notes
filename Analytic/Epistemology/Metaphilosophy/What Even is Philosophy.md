@@ -1,3 +1,0 @@
-[[Deleuze]] & [[Guattari]]
-""
-

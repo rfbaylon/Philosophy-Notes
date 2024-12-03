@@ -1,6 +1,6 @@
 ---
 title: Gender Trouble
-author: Judith Butler
+author: "[[Butler]]"
 category: Literary Criticism
 publisher: Routledge
 total_page: 272
@@ -9,5 +9,3 @@ publish_date: 2011
 isbn10: 1136783245
 isbn13: 9781136783241
 ---
-
-[[Butler]]
