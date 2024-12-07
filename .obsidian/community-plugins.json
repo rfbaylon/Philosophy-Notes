@@ -1,21 +1,14 @@
 [
   "obsidian-command-palette-minus-plugin",
   "obsidian-focus-mode",
-  "highlightr-plugin",
   "obsidian-link-embed",
-  "note-folder-autorename",
   "obsidian-indent-lines",
-  "obsidian-admonition",
-  "sliding-panes-obsidian",
   "dataview",
   "obsidian-book-search-plugin",
   "templater-obsidian",
-  "media-extended",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-git",
   "recent-files-obsidian",
-  "obsidian-icon-folder",
   "quick-explorer",
   "better-word-count",
   "obsidian-citation-plugin",
@@ -23,5 +16,13 @@
   "url-into-selection",
   "janitor",
   "obsidian-kanban",
-  "obsidian-wordpress"
+  "copy-as-html",
+  "obsidian-style-settings",
+  "homepage",
+<<<<<<< HEAD
+  "obsidian-outliner",
+  "make-md"
+=======
+  "obsidian-outliner"
+>>>>>>> ec0d80c2cb0bd33053b8bd1412d79a242fec5e87
 ]

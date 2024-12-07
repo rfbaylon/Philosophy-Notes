@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "9710414270e977a6",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "347b550adc6a2e92",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "40551c0e1bd453ca",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Weapons.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,36 +48,47 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "query": "deont",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "50d9e2deeb7bdee0",
+            "id": "884847b8913874b1",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
-            "id": "838319bf5270bddf",
+            "id": "2b5c10b63d2d26f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 338.5
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -86,14 +97,58 @@
       {
         "id": "fd75b12495a64dcb",
         "type": "tabs",
+        "dimension": 31.73652694610778,
         "children": [
+          {
+            "id": "a1ae79db0a7c7584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Science/Environmental Studies/Industry and Environment/Electric Vehicles.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Electric Vehicles"
+            }
+          },
+          {
+            "id": "d49207a22a48c955",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90b39ef7b3753461",
+        "type": "tabs",
+        "dimension": 68.26347305389223,
+        "children": [
+          {
+            "id": "cb67616d790a8008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "-Misc/Aesthetics/Art.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Art"
+            }
+          },
           {
             "id": "174addba3623d84e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,113 +156,82 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "cb67616d790a8008",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Weapons.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f414b3cad9b15658",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "a1ae79db0a7c7584",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Weapons.md"
-              }
-            }
-          },
-          {
-            "id": "dd23171ea8361bdc",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "templater-obsidian:Templater": false,
-      "janitor:Janitor: scan vault": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-book-search-plugin:Create new book note": false,
+      "command-palette:Open command palette": true,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "janitor:Janitor: scan vault": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-wordpress:WordPress Publish": false
+      "templater-obsidian:Templater": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "homepage:Open homepage": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40551c0e1bd453ca",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Vehicles.md",
-    "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots/Autonomous Weapons.md",
-    "Science/Ecology/Urban Ecology/Urban Ecological Specialties.md",
-    "Analytic/Ethics/Applied Ethics/Tech Ethics/Autonomous Robots",
-    "Science/Ecology/Urban Ecology/General Urban Ecology.md",
-    "Science/Ecology/Urban Ecology",
-    "Science/Ecology",
-    "Science/Environmental Studies/Untitled",
-    "Science/Environmental Studies/Industry and Environment",
-    "Science/Environmental Studies/Impact of Climate Change",
-    "Code/Lists.md",
-    "Code/Operations.md",
-    "Code/Variables.md",
-    "Code/Functions.md",
-    "Code/Conditionals and Branching.md",
-    "Code/Dictionary.md",
-    "Code/Import.md",
-    "Code",
-    "Science/Environmental Studies/Industry and Environment/Food Production.md",
-    "Science/Environmental Studies/Renewable Energies.md",
-    "Science/Environmental Studies/Impact of Climate Change/Climate Change and People.md",
-    "Science/Environmental Studies/Impact of Climate Change/Climate Change and Ecosystems.md",
-    "Self Improvement/Focus & Work/College.md",
-    "Bibliographical/Foster Wallace.md",
-    "Self Improvement/Focus & Work/Multitasking.md",
-    "Analytic/Logic/Fallacy.md",
-    "Science/Environmental Studies/Impact of Climate Change/Broad Climate Changes.md",
-    "Analytic/Ethics/Normative Ethics/Realism/Greek Ethics/The Virtues.md",
-    "Analytic/Ethics/Normative Ethics/Realism/Greek Ethics/Virtue Ethics.md",
-    "Bibliographical/Authors/Murdoch.md",
-    "Analytic/Ethics/Normative Ethics/Realism/Greek Ethics",
-    "Science/Environmental Studies",
-    "Science",
-    "Continental/Critical Theory/Feminist Theory/Sexual Assult and Rape.md",
-    "Bibliographical/Books/Analytic/The Fight for Privacy.md",
-    "Analytic/Ethics/Applied Ethics/Tech Ethics/Privacy and Data/Privacy and Discrimination.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests (Rats).md",
+    "Critical Theory/Race Theory/Native American Theory/Returning National Parks.md",
+    "Critical Theory/Race Theory/Transracialism.md",
+    "Critical Theory/Race Theory/Neocolonialism.md",
+    "Critical Theory/Race Theory/Native American Theory",
+    "Critical Theory/Race Theory/Colonialism.md",
+    "Critical Theory/Queer Theory/What is Queerness.md",
+    "Critical Theory/Queer Theory/Gender Praxis.md",
+    "Critical Theory/Queer Theory/Are There More Than 2 Genders.md",
+    "Critical Theory/Disability Theory/Valuation of Disability.md",
+    "Critical Theory/Disability Theory/Disability Pride.md",
+    "Critical Theory/Feminism/What is a Woman.md",
+    "Critical Theory/Feminism/Vectors of Oppression (Feminism).md",
+    "Critical Theory/Feminism/Sexual Assult and Rape.md",
+    "Critical Theory/Feminism/Men's Issues.md",
+    "Critical Theory/Feminism/Gender Abolition.md",
+    "Critical Theory/Feminism/Feminist Critique of Psychoanalysis.md",
+    "Critical Theory/Feminism/Female Representation.md",
+    "Critical Theory/Animal Theory/Linguistic Animal Violence.md",
+    "Critical Theory/Animal Theory/Animal Biopower.md",
+    "Critical Theory/What Makes Discrimination Wrong.md",
+    "Critical Theory/Race Theory",
+    "Critical Theory/Queer Theory",
+    "Critical Theory/Disability Theory",
+    "Critical Theory/Feminism",
+    "Critical Theory/Critical Theory.md",
+    "Critical Theory/Animal Theory",
+    "Critical Theory",
+    "Ethics/Normative Ethics/Personhood.md",
+    "Ethics/Normative Ethics/Moral Measurement.md",
+    "CIC/Research Questions.md",
+    "CIC/CS Retention + Attraction.md",
+    "CIC/60 != 2.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups",
+    "Tags/#+#book",
+    "Tags/#+#owned",
     "Untitled.canvas",
+    "Bibliographical/Misc/Images/Pasted image 20241104120342.png",
+    "Bibliographical/Misc/Images/Leibniz' Heriarchy.png",
+    "203494bd-3714579608.jpg",
+    "Bibliographical/Misc/Images/Pasted image 20231112132109.png",
+    "Bibliographical/Misc/Images/Pasted image 20231112132057.png",
+    "Bibliographical/Misc/Images/e88081f3a3cc427db26811220e98575a.jpg",
+    "Bibliographical/Misc/Images/Concept-of-integrated-research-in-urban-ecology-The-main-focus-must-be-on-the-human.png",
     "Pasted image 20230223122746.jpg",
     "Pasted image 20230223122758.jpg"
   ]
