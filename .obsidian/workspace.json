@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statewide Research.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statewide Research"
+              "title": "README.md"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "4df06719e487ab48",
   "lastOpenFiles": [
-    "README.md.md",
     "Statewide Research.md",
+    "README.md.md",
     "MassTransfer Paper Feedback.md",
     "CIC/CC Demographics + Trends.md",
     "CIC/Articulation Agreements.md",
