@@ -1,6 +1,7 @@
 [
   "obsidian-command-palette-minus-plugin",
   "obsidian-focus-mode",
+  "highlightr-plugin",
   "obsidian-link-embed",
   "obsidian-indent-lines",
   "dataview",
@@ -19,10 +20,5 @@
   "copy-as-html",
   "obsidian-style-settings",
   "homepage",
-<<<<<<< HEAD
-  "obsidian-outliner",
-  "make-md"
-=======
   "obsidian-outliner"
->>>>>>> ec0d80c2cb0bd33053b8bd1412d79a242fec5e87
 ]

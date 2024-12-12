@@ -89,8 +89,11 @@ See [[Fodor]], [[Pylyshyn]]
 it perforce treats them not as a generated set but as a list. But lists, qua lists, have no structure; any collection of items is a possible list. And, correspondingly, on connectionist principles, any collection of (causally connected) representational states is a possible mind."
 (Pg 334, [[Fodor]] & [[Pylyshyn]], 1998)
 
-# Behaviorism / Functionalism
+# Functionalism
 
+Beliefs = states produced by sense perception or inference from other beliefs
+desires = states produced with certain causal or counterfactual relations to the systems goals/needs
+	[SEP](https://plato.stanford.edu/entries/functionalism/#ConsPlauFuncTheo)
 ## Behaviorism / Functionalism
 See [[Dewey]]
 
@@ -101,8 +104,15 @@ We use mind, primarily, as a verb. The mother minds her baby, we are re*mind*ed 
 ## A2 Behaviorism
 See [[Murdoch]]
 
+###
+
 ### Doesnt capture Internal Changes
 See [[Murdoch]]
 
 M is the mother in law to D, her daughter in law. Since M met D, she felt as though she was rude, brash, and childlike. Because M was polite, she never let any of this show and treated D with respect when she visited. Recently, D died and M has been considering D quite a lot. While before she had seen D in a cold light, recently M has grown and seen her joy and love of life not as childish, but as pure and fun. M has had a change of heart. But because D is dead, M cannot act differently to D. Under a behaviorist lens, M cannot have had any change of heart as her behaviors towards D are not loving or caring since D is no longer alive. How can we capture this change of heart with behaviorism? 
 	[[Sovereignty of Good]], ###
+
+### Some Counterexamples
+
+- "It will snow tomorrow" -- need my behavior change
+	counterfactually, you would act a different way

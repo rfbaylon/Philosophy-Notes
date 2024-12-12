@@ -16,8 +16,24 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "c951f1506100a577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transfer ReadMe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transfer ReadMe"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deont",
+                "query": "functionalism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 200
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -149,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MassTransfer Paper Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MassTransfer Paper Feedback"
             }
           }
         ],
@@ -166,10 +183,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -182,12 +201,21 @@
       "obsidian-kanban:Create new board": true,
       "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c951f1506100a577",
   "lastOpenFiles": [
+    "Transfer ReadMe.md",
+    "MassTransfer Paper Feedback.md",
+    "Metaphysics/Mind/Cognition/Mind Models.md",
+    "Metaphysics/Mind/Cognition/Internalism & Externalism (Mind).md",
+    "Epistemology/Philosophy of Science.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Liminal Animals.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Politics.md",
+    "Home/Home.md",
+    "Bibliographical/Books/Analytic/Ethics/Zoopolis.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests (Rats).md",
     "Critical Theory/Race Theory/Native American Theory/Returning National Parks.md",
     "Critical Theory/Race Theory/Transracialism.md",
@@ -205,22 +233,12 @@
     "Critical Theory/Feminism/Men's Issues.md",
     "Critical Theory/Feminism/Gender Abolition.md",
     "Critical Theory/Feminism/Feminist Critique of Psychoanalysis.md",
-    "Critical Theory/Feminism/Female Representation.md",
-    "Critical Theory/Animal Theory/Linguistic Animal Violence.md",
-    "Critical Theory/Animal Theory/Animal Biopower.md",
-    "Critical Theory/What Makes Discrimination Wrong.md",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
     "Critical Theory/Disability Theory",
     "Critical Theory/Feminism",
-    "Critical Theory/Critical Theory.md",
     "Critical Theory/Animal Theory",
     "Critical Theory",
-    "Ethics/Normative Ethics/Personhood.md",
-    "Ethics/Normative Ethics/Moral Measurement.md",
-    "CIC/Research Questions.md",
-    "CIC/CS Retention + Attraction.md",
-    "CIC/60 != 2.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups",
     "Tags/#+#book",
     "Tags/#+#owned",
