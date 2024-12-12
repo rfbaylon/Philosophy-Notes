@@ -7,6 +7,7 @@ My account currently isnt connected to anything CIC related (could never figure 
 
 User: baylon.r@northeastern.edu
 Pass: CIC123
+
 # LaTeX
 
 ## main.tex
@@ -121,6 +122,3 @@ In: 'Four-Year Heatmap.xlsx'
 - Auto parses just the MassTransfer column from 'Four-Year Heatmap.xlsx' 
 Out:  masstransfer.png
 ---
-
-
-# Notes
