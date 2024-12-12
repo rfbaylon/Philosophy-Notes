@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transfer ReadMe.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transfer ReadMe"
+              "title": "README.md"
             }
           }
         ]
@@ -196,6 +196,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "MassTransfer Paper Feedback.md",
+    "README.md.md",
+    "CIC/CC Demographics + Trends.md",
+    "CIC/Articulation Agreements.md",
+    "CIC/Transfer Barriers.md",
+    "CIC/Research Questions.md",
+    "CIC/CS Retention + Attraction.md",
     "Transfer ReadMe.md",
     "Metaphysics/Mind/Cognition/Mind Models.md",
     "Metaphysics/Mind/Cognition/Internalism & Externalism (Mind).md",
@@ -216,12 +222,6 @@
     "Critical Theory/Queer Theory/Are There More Than 2 Genders.md",
     "Critical Theory/Disability Theory/Valuation of Disability.md",
     "Critical Theory/Disability Theory/Disability Pride.md",
-    "Critical Theory/Feminism/What is a Woman.md",
-    "Critical Theory/Feminism/Vectors of Oppression (Feminism).md",
-    "Critical Theory/Feminism/Sexual Assult and Rape.md",
-    "Critical Theory/Feminism/Men's Issues.md",
-    "Critical Theory/Feminism/Gender Abolition.md",
-    "Critical Theory/Feminism/Feminist Critique of Psychoanalysis.md",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
     "Critical Theory/Disability Theory",
