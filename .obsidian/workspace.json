@@ -11,16 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c951f1506100a577",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Transfer ReadMe.md",
@@ -32,8 +22,7 @@
               "title": "Transfer ReadMe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +193,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c951f1506100a577",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Transfer ReadMe.md",
     "MassTransfer Paper Feedback.md",
+    "Transfer ReadMe.md",
     "Metaphysics/Mind/Cognition/Mind Models.md",
     "Metaphysics/Mind/Cognition/Internalism & Externalism (Mind).md",
     "Epistemology/Philosophy of Science.md",

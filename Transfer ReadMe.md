@@ -1,5 +1,14 @@
 
-****
+# LaTeX
+
+## main.tex
+The main paper.
+
+## transfer_bib.bib
+The bibliography, in BibTex format. 
+
+## Image
+
 # Spreadsheets
 ## Pathways
 #### All Pathways
@@ -56,24 +65,36 @@ Green (I like green)
 - Green (if in row one): Elective *and* Upper Division
 - Green (if in column A): MassTransfer
 - Green (else): True
-
 ---
-
-
 # Code
 
 ## Pathways
 ### ch_currcomp.ipynb
-### course_distribution.ipynb
+In: 'Pathways Master.xlsx'
+- Each tab creates a different graph for a different metric
+- Also creates some combined graphs comparing metrics together
+Out:
+- Metrics
+	- cost.png
+	- curr_comp.png
+	- pct_as.png
+	- total_ch.png
+- Comparisons
+	- total-curr_comp.png
+	- total-cost.png
+	- pct-curr_comp.png
+	- pct-total.png
+
 
 ## Heatmap
-
 ### course_distribution.ipynb
-In: The 'Tallys' tab of 'Four-Year Heatmap.xlsx' 
+In: 'Four-Year Heatmap.xlsx' 
+- Parses only the 'Tallys' tab of 'Four-Year Heatmap.xlsx' 
 Out: field_distribution.png
 
 ### heatmap.ipynb
-In: All university tabs of 'Four-Year Heatmap.xlsx' 
+In: 'Four-Year Heatmap.xlsx' 
+	Parses only and all university tabs of 'Four-Year Heatmap.xlsx' 
 Out: 
 - lowdiv_heatmap.png (all lower division articulations)
 - all_heatmap.png (all lower+upper division articulations)
@@ -82,3 +103,8 @@ Out:
 In: 'Four-Year Heatmap.xlsx' 
 - Auto parses just the MassTransfer column from 'Four-Year Heatmap.xlsx' 
 Out:  masstransfer.png
+---
+
+
+
+
