@@ -1,3 +1,9 @@
+CIC Last Day 
+- [ ] Email Liz Miller
+- [ ] Export Overleaf to Desktop
+- [ ] Canvas Assignment +Phone Call
+
+
 ### [Effectiveness of Statewide AAs](https://www.researchgate.net/publication/236781952_Effectiveness_of_Statewide_Articulation_Agreements_on_the_Probability_of_Transfer_A_Preliminary_Policy_Analysis)
 Anderson et al., 2006
 
