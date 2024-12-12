@@ -1,13 +1,30 @@
+# Misc.
+## Notes
+Bits and bobs of papers Ive read. After reading, Id write down important parts on markdowns. I didnt do much, but this is what I have in case its helpful. 
+## Curricular Analytics
+Though you can easily recreate it in your own account, you can feel free to use my login for [Curricular Analytics](https://curricularanalytics.org/). The most recent and the most relevant are the uploads with the tag "12/11 final bulk" or something like that. Should be obvious.
+My account currently isnt connected to anything CIC related (could never figure it out lol) so this shouldnt be a security leak.
 
+User: baylon.r@northeastern.edu
+Pass: CIC123
 # LaTeX
 
 ## main.tex
-The main paper.
+The main paper :D
 
 ## transfer_bib.bib
-The bibliography, in BibTex format. 
+The bibliography, in BibTex format. I used zotero to make the bibtex, but you should be able to easily edit the file with any reference manager.
 
-## Image
+## Images (Folder)
+
+### Images
+These are all of the images produced by the code under the [Code Heading](#Code). Be sure to keep the same names as those are the ones linked throughout the paper and so they can be easily replaced with new graphs.
+
+### ben's viz
+These are the visualizations that ben made. They arent in the paper as of now (12/12) as the data may change slightly. IMO put them in before sending the paper off. For now just use the code generated images.
+
+### Useless
+Useless stuff that came from the ACM formatting download. Im not sure if any of the formatting is dependent on stuff in there or if its all found in the preamble. 
 
 # Spreadsheets
 ## Pathways
@@ -106,5 +123,4 @@ Out:  masstransfer.png
 ---
 
 
-
-
+# Notes
