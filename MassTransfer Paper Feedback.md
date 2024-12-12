@@ -7,11 +7,6 @@
 - Bring money into this
 
 
-two audiences
-- MACCs and 4ys
-- CS Educators
-	- Make the paper this first, and then rewrite it similarly for other states
-- Researchers
 
 Acknowledge the myriad reasons people go to community college
 
