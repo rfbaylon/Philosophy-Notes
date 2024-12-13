@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Statewide Research.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Statewide Research"
             }
           }
         ]
@@ -190,10 +195,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home/QUOTES.md",
     "README.md.md",
-    "Statewide Research.md",
     "MassTransfer Paper Feedback.md",
+    "Home/QUOTES.md",
+    "Statewide Research.md",
     "CIC/CC Demographics + Trends.md",
     "CIC/Articulation Agreements.md",
     "CIC/Transfer Barriers.md",
