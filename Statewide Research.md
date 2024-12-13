@@ -15,3 +15,7 @@ Provides some evidence that transfer rate was uncorrelated with statewide articu
 Education Commission of the States, 2022
 
 Aggregates all state policies into one database. There are 35 states with statewide transfer agreements (of some sort), but not all of them are at all strong. 
+
+
+### Unread, but maybe still good leads
+[Statewide Transfer and Student Success](https://direct.mit.edu/edfp/article-abstract/13/4/449/12319/Statewide-Transfer-Policies-and-Community-College) (In depth look at Ohio's System)
