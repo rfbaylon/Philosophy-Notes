@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/QUOTES.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "QUOTES"
+              "title": "New tab"
             }
           }
         ]
@@ -195,6 +190,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home/QUOTES.md",
     "README.md.md",
     "Statewide Research.md",
     "MassTransfer Paper Feedback.md",
@@ -221,7 +217,6 @@
     "Critical Theory/Queer Theory/What is Queerness.md",
     "Critical Theory/Queer Theory/Gender Praxis.md",
     "Critical Theory/Queer Theory/Are There More Than 2 Genders.md",
-    "Critical Theory/Disability Theory/Valuation of Disability.md",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
     "Critical Theory/Disability Theory",
