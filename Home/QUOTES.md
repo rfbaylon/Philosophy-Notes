@@ -9,3 +9,5 @@
 "The poetical character... lives in gusto, be it fair or foul, high or low, rich or poor, mean or elevated... What shocks the virtuous philosopher delights the chameleon poet"
 	- Keats
 
+Bill dropped his keys on the counter and stood there staring at them suddenly thinking about all the times hed thrown them there before, and how many days of his life hed wasted repeating the same tasks and rituals in his apartment over and over again. Then he wondered if, realistically, this *was* his life and the unusual part was his time spent other things.
+	Its such a beautiful day (film) 
