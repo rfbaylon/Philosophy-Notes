@@ -2,8 +2,9 @@ CIC Last Day
 - [x] Email Liz Miller
 - [x] Export Overleaf to Desktop
 - [x] Canvas Assignment
-- [ ] Resolve comments in overleaf
+- [x] Resolve comments in overleaf
 
+Im logging off for the day since I worked through lunch. Its been really awesome working with you :); youve been a wonderful supervisor
 
 ### [Effectiveness of Statewide AAs](https://www.researchgate.net/publication/236781952_Effectiveness_of_Statewide_Articulation_Agreements_on_the_Probability_of_Transfer_A_Preliminary_Policy_Analysis)
 Anderson et al., 2006
