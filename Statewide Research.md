@@ -3,8 +3,9 @@ CIC Last Day
 - [x] Export Overleaf to Desktop
 - [x] Canvas Assignment
 - [x] Resolve comments in overleaf
+- [x] one more readthrough
 
-Im logging off for the day since I worked through lunch. Its been really awesome working with you :); youve been a wonderful supervisor
+Im logging off for the day since I worked through lunch. The bit of state stuff I found is attached as markdown. Its been really awesome working with you :); youve been a wonderful supervisor and I wont forget my time here. If you need anything (even after the paper is in drawer-mode!), feel free to reach out! I should be around for the next while. Thanks again for making these past 6 months or so awesome, Ive learned so much and had a lot of fun getting to know the CIC. Thanks again for everything and happy holidays!!
 
 ### [Effectiveness of Statewide AAs](https://www.researchgate.net/publication/236781952_Effectiveness_of_Statewide_Articulation_Agreements_on_the_Probability_of_Transfer_A_Preliminary_Policy_Analysis)
 Anderson et al., 2006
