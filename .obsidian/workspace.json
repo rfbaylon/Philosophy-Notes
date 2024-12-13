@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -196,9 +197,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md.md",
+    "Statewide Research.md",
     "MassTransfer Paper Feedback.md",
     "Home/QUOTES.md",
-    "Statewide Research.md",
     "CIC/CC Demographics + Trends.md",
     "CIC/Articulation Agreements.md",
     "CIC/Transfer Barriers.md",
