@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Life/Focus & Work/Goals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Goals"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functionalism",
+                "query": "wild",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -190,6 +195,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
+    "Daily Life/Focus & Work/Goals.md",
     "Statewide Research.md",
     "README.md.md",
     "MassTransfer Paper Feedback.md",
@@ -215,8 +222,6 @@
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory/Colonialism.md",
     "Critical Theory/Queer Theory/What is Queerness.md",
-    "Critical Theory/Queer Theory/Gender Praxis.md",
-    "Critical Theory/Queer Theory/Are There More Than 2 Genders.md",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
     "Critical Theory/Disability Theory",

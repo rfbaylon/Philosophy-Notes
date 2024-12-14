@@ -18,6 +18,8 @@ The dilemma: How do we parse the morality of these statements in a nonspeciesist
 See [[Horta]], [[Nussbaum]]
 See [[Utilitarianism]]
 
+[[Horta]]'s Reading List
+	(Sapontzis 1984; Ng 1995; Bonnardel 1996; Kirkwood and Sinsbury 1996; Bovenkerk et al. 2003; Clement 2003; Cowen 2003; Fink 2005; Clarke and Ng 2006; Nussbaum 2006: ch. 6; Dawrst 2009; Simmons 2009; Horta 2010a; McMahan 2010a, 2010b; Palmer 2010; Cunha 2011; Torres Aldave 2011)
 ### The Capabilities Approach
 See [[Nussbaum]]
 See [[Justice for Animals]]
@@ -29,9 +31,6 @@ There is a certain set of capabilities that all sentient beings ought to have th
 ### Wild Animal Welfare is Intractable
 See [[Palmer]]
 Trying to fix one area in the wild will cause another area to blow up. By taking care of whooping cranes, you cause immense suffering of the prey animals that the cranes eat. By not taking care of whooping cranes, you bolster the prey species which causes them to over populate resulting more R strategist lives not worth living and fiercer competition for the prey species, potentially destroying the ecosystem as a whole. (Assisting Wild Animals Vulnerable to Climate Change, 187)
-
-
-
 ## Weak Interventionism
 
 ### [[Swart]]'s Care Ethical Approach
@@ -64,9 +63,15 @@ Each sentient being is a subject of a life, meaning that they have intrinsic inv
 		[[Zoopolis]] 64
 
 
-### Contextual View
+### Relational View
 See [[Palmer]]
 See [[Killing Vs. Letting Die]]
+
+“It is impossible to fix any wild animal suffering. When we do anything to fix wild animal suffering, we make the animals not wild. The suffering is baked into the property of wildness.”
+
+“_Our lives are not entangled with theirs – in particular, we are not causally responsible for their suffering – so we are not required to free them from snowdrifts, slake their thirst in a drought, nor rescue them from predators. We can think of them as in some sense living in “sovereign” autonomous communities (Goodin et al. 1997).”_
+	Against the View… 207
+
 The suffering of others is only our responsibility so far as I cause it. If I create a causal barrier to a wild animal such that it cannot properly flourish, I owe it some sort of retribution. Thus, this view captures the important parts of the 'contingent consequentialist' view (not abject disregard for nonhuman animals) while not taking on the more unfavorable consequences (turning the wild into a zoo).
 	A2: After climate change, there is no 'wilderness' any more. Everything in the world is causally related to human beings. Does this mean that we actually have the same practical outcome as the contingent consequentialist?
 		A2A2: Not necessarily: Just because something humans have done to nonhumans impacts them in some way, it doesn't mean that we made their life worse off. By dipping our toes into a pond, that does not make us responsible for everything in the pond. 
@@ -120,6 +125,14 @@ For Wenz' model, negative rights (rights to not be harmed, eg) are not affected 
 ### Argument from value of species
 See [[Sunstein]]
 Humans care a lot about being able to view a wide variety of animals, meaning that protecting biodiverity is probably important in some sense.
+
+### Competence / Sovereignty
+[[Regan]]
+Animals know best.
+_“In my view (see The Case for Animal Rights, 1983, 357, 361), our ruling obligation with regard to wild animals is to let them be, an obligation grounded in the recognition of their general competence to get on with the business of living, a competence that we find among members of both predator and prey species. After all, if members of prey species, including the young, were unable to survive without our assistance, there would not be prey species. And the same applies to predators. In short, we honour the competence of animals in the wild by permitting them to use their natural abilities, even in the face of their competing needs. As a general rule, they do not need help from us in their struggle for survival, and we do not fail to discharge our duty when we choose not to lend our assistance.”_
+	A2: Rests on Evolutionary Explanation. Regan makes the claim that the reason there are prey species at all is because members already get by without our assistance. Implied is a normative claim that individual members of a species get along fine without our assistance. He conflates the species thriving and the individuals in the species thriving — especially as it relates to r-species.
+	A2: Empirical Falsity. There are a lot of things that hinder nonhuman interests that are outside of individual wild animal control (disease, natural disaster, starvation). It is not an issue of competence that wild animals are harmed by these instances, though it is rather inarguably bad for them.
+	A2: Weaker Claim. The other interpretation of Regan’s claim is that _in general_ wild animals are good at satisfying their interests. This interpretation severely weakens Regan’s position as it would imply that in cases where animals are incompetent at fulfilling their interests, we _ought_ to intervene, meeting the same conclusion as the contingent interventionist
 
 ## Noninterventionism
 
