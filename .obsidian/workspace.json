@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Statewide Research.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Statewide Research"
             }
           }
         ]
@@ -120,9 +125,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0c01c0ee0f8b7a6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "90b39ef7b3753461",
@@ -149,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MassTransfer Paper Feedback.md",
+                "file": "Statewide Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MassTransfer Paper Feedback"
+              "title": "Backlinks for Statewide Research"
             }
           }
         ],
@@ -190,10 +205,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md.md",
     "Daily Life/Focus & Work/Goals.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
     "Statewide Research.md",
-    "README.md.md",
     "MassTransfer Paper Feedback.md",
     "Home/QUOTES.md",
     "CIC/CC Demographics + Trends.md",
