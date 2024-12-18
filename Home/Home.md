@@ -5,6 +5,9 @@
 [[QUOTES]]
 
 ---
+[[Why I Don't Read the News]]
+[[On Social Media]]
+
 [[Zoopolis]]
 - [[Donaldson]] & [[Kymlicka]]
 
@@ -12,8 +15,3 @@
 - [[Barnes]]
 
 
-
-
-*CIC*
-- [[CC Demographics + Trends]]
-- [[Transfer Barriers]]
