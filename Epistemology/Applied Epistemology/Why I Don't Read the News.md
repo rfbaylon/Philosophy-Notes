@@ -7,5 +7,14 @@ In my experience, this pressure isn't unique to Speech and Debate. Part of parti
 
 Here, I am going to argue that this ideal is vastly overstated. I will argue that the position that one is ethically obliged to keep up with current events is fairly untenable. I will then argue an even stronger position that, at least for most of the people that will be reading this piece, consuming the news is more harmful than beneficial. 
 
+News is a broad word. For my purposes here, I want to talk only about the kind of news that crowds the headlines of the New York Times or the Washington Post. Mostly, these are state, national, and global news. Later, I will explicitly sidebar two kinds of news I think are important. My reasons for carving these kinds of news out will be revealed, but I believe these reasons generate a general principle of good information consumption. 
 # Epistemic Obligation
 
+In this section, I only aim to argue against the idea that there is an ethical obligation to consume news, even if one has the time and resources to do so. 
+
+
+# Good Information Consumption
+
+The first is local news. 
+
+The second is specialty news; news related to the interests and passions of the reader. It would be prudent for people interested in computer parts to know when new processers are released, people interested in movies to know when their favorite director is going to release a new movie. Insofar as these projects are important, relevant news should probably be consumed. Obviously, with this kind of news there is no obligation to consume it, but I would not go as far as to argue that this news is harmful.
