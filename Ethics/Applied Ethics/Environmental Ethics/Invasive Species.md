@@ -1,18 +1,17 @@
 # Politics of Invasion
 
 ### Colonial Wilderness
-See [[o
+See [[Wilderness]]
 The dubbing of some species as invasive is a remnant of Colonial wilderness. 
 - Fetishizes an arbitrary “starting point” of nature before humans interfered.
 - Ignores that humans have been moving plants and animals around forever.
 	- State tree of Hawaii (the Kukui) is “invasive” as it was brought by early Polynesian travellers, but today serves a crucial role in Hawaiian ecosystems and culture.
 	- Kiore (Rattus Exulans) were introduced by Maori to what is now New Zealand as culturally and ecologically important.
 
-
+### Pest is Political
+See [[Pests]]
 There are weird lines between what makes something belong vs Invasive. What makes rats invasive, but not feral cats? What makes lanternflies invasive, but not New Zealand hogs? Why aren't industrialized humans invasive? 
-(I think) Anthropocentrism is the reason.
-The protection of ecosystems is important, but this needs to be cached out in terms of resilience, ecosystem functioning, and biodiversity rather than a “return” to untouched wilderness.
-
+It seems that the only animals deemed invasive are the ones that dont directly benefit humans. 
 
 # Case Study: Barred Owls
 

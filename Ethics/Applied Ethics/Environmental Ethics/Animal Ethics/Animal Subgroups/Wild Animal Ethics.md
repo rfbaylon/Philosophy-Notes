@@ -167,6 +167,6 @@ Objectifying an animal is wrong insofar as it denies its interests, autonomy, or
 Playing God is wrong because as we begin to control more and more things with more and more power, it has historically lead to poor outcomes for the problems we attempt to solve. Mary Shelly's Frankenstein deals with this motif, but more philosophically [[Foucault]] or [[Scott]] could use this argument. 
 
 ### Modifying Wild Animals is Unnatural
-See [[On Nature (Ethics)]], [[Nature (Metaphysics)]]
+See [[Wilderness]], [[Nature (Metaphysics)]]
 By invoking the unnaturalness-objection in this context, critics mean that by adapting animals, we are doing something which is artificial and/or we are turning the animal into an artifact. The argument is therefore related to the instrumentalization objection as discussed earlier. ([[Bovenkerk]], 2020)
 ## A2 Anti-Interventionism

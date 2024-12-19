@@ -1,4 +1,4 @@
-See [[Nature (Metaphysics)]], [[On Nature (Ethics)]]
+See [[Nature (Metaphysics)]], [[Wilderness]]
 
 “Braudel and Adams saw natural landscapes as foundational-the "vast uncontrollables," as Braudel described them, in human history. Cronon and Merchant gave near-absolute agency to commercial capitalist culture.” (Second Nature; Environmental History of New England, 8-9)
 

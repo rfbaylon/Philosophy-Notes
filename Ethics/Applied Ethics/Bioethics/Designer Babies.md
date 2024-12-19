@@ -57,7 +57,7 @@ Some parents will choose to select, others wont. The natural kids will face disc
 ### Intrinsic Inequality
 Allowing people to select based on race or sex will allow people to exercises biases (even unbeknownst to them!). People will select 
 ### Unnatrural
-See [[On Nature (Ethics)]]
+See [[Wilderness]]
 ### Monoculture
 Monoculture is bad for population stability and broader health. 
 Also, alternatively, diversity may be valuable for a society.

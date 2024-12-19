@@ -7,7 +7,7 @@ using the same word to mean two different things between premises
 	4. Ergo, P (2) is Q
 
 ### Naturalistic Fallacy
-Inferring that something 'natural' is good based on its natural-ness (See [[On Nature (Ethics)]])
+Inferring that something 'natural' is good based on its natural-ness (See [[Wilderness]])
 	1.  P is natural
 	2. Ergo, P is good
 

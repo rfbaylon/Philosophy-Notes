@@ -19,7 +19,7 @@ See [[Leopold]], [[Naess]], [[Rolston III]]
 ## Holism
 ### Species as Natural Historical Value
 See [[Rolston III]]
-See [[On Nature (Ethics)]]
+See [[Wilderness]]
 "To superkill (make extinct) a particular species is to shut down a story of many millennia and leave no future possibilities"
 	Cited in [[Ecological Justice and the Extinction Crisis]], 146
 
