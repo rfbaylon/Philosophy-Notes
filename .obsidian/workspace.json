@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invasive Species"
+              "title": "README"
             }
           }
         ],
@@ -135,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           }
         ],
@@ -248,8 +248,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d49207a22a48c955",
+  "active": "b566d6438360cdaf",
   "lastOpenFiles": [
+    "Epistemology/Applied Epistemology/Why I Don't Read the News.md",
+    "High.md",
     "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Metaphysics/Nature (Metaphysics).md",
     "Bibliographical/Books/Analytic/Ethics/Wild Souls.md",
@@ -265,7 +267,6 @@
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Do Animals Matter.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Ethics.md",
     "Home/Home.md",
-    "Epistemology/Applied Epistemology/Why I Don't Read the News.md",
     "Daily Life/Technology/On Social Media.md",
     "Daily Life/Research & Writing/Writing Process.md",
     "-Misc/CIC/README.md.md",
@@ -275,7 +276,6 @@
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
     "-Misc/CIC/MassTransfer Paper Feedback.md",
     "Home/QUOTES.md",
-    "-Misc/CIC/CC Demographics + Trends.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
