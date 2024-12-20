@@ -8,6 +8,9 @@ The dubbing of some species as invasive is a remnant of Colonial wilderness.
 	- State tree of Hawaii (the Kukui) is “invasive” as it was brought by early Polynesian travellers, but today serves a crucial role in Hawaiian ecosystems and culture.
 	- Kiore (Rattus Exulans) were introduced by Maori to what is now New Zealand as culturally and ecologically important.
 
+“The Barred Owl case brings up an uncomfortable fact: Many people see species as having final value, but the border between species can be fuzzy because the term ‘species’ itself has several possible meanings… Ultimately, ‘species’ is a human concept rather than a biological reality”
+	[[Wild Souls]], 184
+
 ### Pest is Political
 See [[Pests]]
 There are weird lines between what makes something belong vs Invasive. What makes rats invasive, but not feral cats? What makes lanternflies invasive, but not New Zealand hogs? Why aren't industrialized humans invasive? 
@@ -27,6 +30,8 @@ In 2015, The US Fish and Wildlife Service began a bounty program to kill 3,135 B
 The Bolder 500k Owl Plan
 - The US Fish and Wildlife Service is drafting a plan to kill 500,000 Barred Owls in the Pacific Northwest
 
+Barred Owls and Spotted Owls do create fertile offspring. This ‘dilution’ of the Spotted Owl gene pool counts as making the Spotted Owl extinct, despite the offspring being best adapted to the Pacific Northwest environment.
+
  *the dilemma*:
 Ecologists claim that the culling of Barred Owls at this scale is the only way to protect the Northern Spotted Owls. Protection of the Old Growths they inhabit have been really good, and Barred Owls are already there.
 
@@ -34,11 +39,24 @@ Ecologists claim that the culling of Barred Owls at this scale is the only way t
 
 ### Indicator Species
 Northern Spotted Owls are important indicator species for the forests themselves. Without them, we would be much worse at protecting the old growth forests. 
+
+### Restitutive Justice
+Since 1950, humans have reduced the Northern Spotted owl's habitat to just 10% of what it was through logging, wildfires, and forest clearing.
+	Owl vs Owl 304
+
 ## Against the Slaughter
 
+### Sheer Numbers
 Similar to the famous orchid example mentioned as an A2 [[Deep Ecology]]
 
-Barred Owls and Spotted Owls do create fertile offspring. This ‘dilution’ of the Spotted Owl gene pool counts as making the Spotted Owl extinct, despite the offspring being best adapted to the Pacific Northwest environment.
+There are 4520 Northern Spotted Owls, there are 
 
-“The Barred Owl case brings up an uncomfortable fact: Many people see species as having final value, but the border between species can be fuzzy because the term ‘species’ itself has several possible meanings… Ultimately, ‘species’ is a human concept rather than a biological reality”
-	[[Wild Souls]], 184
+
+
+
+## Other Plans
+
+### Live Capture and Release
+Didnt work since no state wants the birds
+
+### Expand Protection of the Forest
