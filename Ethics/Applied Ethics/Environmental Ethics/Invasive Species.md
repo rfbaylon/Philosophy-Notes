@@ -17,6 +17,10 @@ There are weird lines between what makes something belong vs Invasive. What make
 It seems that the only animals deemed invasive are the ones that dont directly benefit humans. 
 
 # Case Study: Barred Owls
+Resources
+[What We Owe Owls](https://www.ledonline.it/index.php/Relations/article/view/3183/1689) 
+[Owl vs Owl](https://philpapers.org/rec/ODEOVO)
+
 
 Barred Owls, traditionally found in the Eastern United States, have been moving Westward since the 60s. The reasons for this move are contested, but there are two main theories:
 - The owls naturally moved West
@@ -49,10 +53,7 @@ Since 1950, humans have reduced the Northern Spotted owl's habitat to just 10% o
 ### Sheer Numbers
 Similar to the famous orchid example mentioned as an A2 [[Deep Ecology]]
 
-There are 4520 Northern Spotted Owls, there are 
-
-
-
+There are 4520 Northern Spotted Owls, there are 3 million Barred Owls. So far, we have killed over 3000 Barred Owls as of 2021, and are drafting plans to kill 500,000. 500k is absolutely incomparable to 4k -- especially since there is no end in sight.
 
 ## Other Plans
 

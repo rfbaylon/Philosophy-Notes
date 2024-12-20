@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "90b39ef7b3753461",
@@ -211,7 +211,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Invasive Species"
+              "title": "Backlinks"
             }
           }
         ],
@@ -249,12 +248,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b566d6438360cdaf",
+  "active": "d49207a22a48c955",
   "lastOpenFiles": [
+    "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Metaphysics/Nature (Metaphysics).md",
     "Bibliographical/Books/Analytic/Ethics/Wild Souls.md",
     "Ethics/Applied Ethics/Environmental Ethics/'Natural'/Wilderness.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Deep Ecology.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests (Rats).md",
