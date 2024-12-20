@@ -30,10 +30,11 @@ The Bolder 500k Owl Plan
  *the dilemma*:
 Ecologists claim that the culling of Barred Owls at this scale is the only way to protect the Northern Spotted Owls. Protection of the Old Growths they inhabit have been really good, and Barred Owls are already there.
 
-### For the Slaughter
+## For the Slaughter
 
-Northern Spotted Owls are important indicator species for the forests them
-### Against the Slaughter
+### Indicator Species
+Northern Spotted Owls are important indicator species for the forests themselves. Without them, we would be much worse at protecting the old growth forests. 
+## Against the Slaughter
 
 Similar to the famous orchid example mentioned as an A2 [[Deep Ecology]]
 
