@@ -21,6 +21,9 @@ Disabled people have always had awful representation in the media. Like awful aw
 Queer communities are analgous in this sense, especially since queerness was medicalized in the mid 20th century. It seems like queer communities operate alright without the perview of the medical establishment nowadays. Acceptance or rejection isnt based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd.
 Transness especially faces this since gender dysphoria is in the DSM. 
 
-### Expensive
+### Access
+Medical Diagnoses are incredibly expensive in the United States
+
 
 ### Stigma
+Often, a medical diagnoses will mean that someone will get denied a job or overlooked for a promotion. When something is on your medical record, it takes on an entirely different meaning which isnt always possible
