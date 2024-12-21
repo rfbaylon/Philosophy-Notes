@@ -6,7 +6,9 @@
 
 ---
 Ethics Bowl
-[[
+[[Self Diagnosis]]
+[[Invasive Species]]
+
 
 [[Why I Don't Read the News]]
 [[On Social Media]]

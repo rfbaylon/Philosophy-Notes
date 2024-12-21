@@ -23,6 +23,7 @@ James promises that pragmatism can marry the tender and tough. To have the rigor
 ## The Pragmatic Method
 While watching some of his friends argue about a man chasing a squirrel around a tree (the metaphysical question being "Does the man go around the squirrel?"), James steps in and gives a definite answer: "Which party is right depends on what you *practically mean* by 'going round' the squirrel. If you mean passing from the north of him to the east, then to the south, then to the west, and then to the north of him again, obviously the man does go round him, for he occupies these successive positions." But if on the contrary you mean first being in front of him, then on the right of him, then behind him, then on his left, and finally in front again, it is quite as obvious that the man fails to go round him,  for by the compensating movements the squirrel makes, he keeps his belly turned toward the man all the time, and his back turned away. Make the distinction and there is no occasion for further dispute. You are both right and both wrong according as you conceive the verb 'to go round' in one practical fashion or the other."
 	[[Pragmatism and Other Writings]], 24
+
 # Blending of Reason and Emotion
 
 William [[James]] compared the course of a conscious experience to the alternate flights and perchings of a bird
