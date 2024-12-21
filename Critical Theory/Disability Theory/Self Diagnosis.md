@@ -4,7 +4,7 @@
 ### Doctors have Expertise
 Doctors go to medical school for a very long time to learn about symptoms for whatever condition you are self diagnosing you as. If a doctor doesnt diagnose you as something, it would be a substantial act of hubris to go against them. 
 
-### As a Hoop
+###As a Hoop
 If a condition was actually as present as self diagnosers claim, then they would have gotten a diagnoses early on. The fact that it has been long enough for one to be able to diagnose themselves shows that it doenst really impact them much. 
 
 ### Self-Bias
@@ -21,9 +21,10 @@ Disabled people have always had awful representation in the media. Like awful aw
 Queer communities are analgous in this sense, especially since queerness was medicalized in the mid 20th century. It seems like queer communities operate alright without the perview of the medical establishment nowadays. Acceptance or rejection isnt based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd.
 Transness especially faces this since gender dysphoria is in the DSM. 
 
+### Anti-Psychiatry
+See [[A2 Psychoanalysis]]
 ### Access
-Medical Diagnoses are incredibly expensive in the United States
-
+Medical Diagnoses are incredibly expensive in the United States ( #WIP How expensive?). In addition, for those outside of large metropolitan areas, specialists are far harder to come across, making diagnosis far more difficult. 
 
 ### Stigma
 Often, a medical diagnoses will mean that someone will get denied a job or overlooked for a promotion. When something is on your medical record, it takes on an entirely different meaning which isnt always possible
