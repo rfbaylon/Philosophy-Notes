@@ -6,5 +6,6 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "trashOption": "system",
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "showLineNumber": false
 }
