@@ -39,3 +39,11 @@ Often, a medical diagnoses will mean that someone will get denied a job or overl
 
 ### Demographic Bias
 Autism and ADHD have been conditions studied primarily in rich, young, white boys. This demographic has a very particular way of acting, meaning the further one is from this demographic, the less likely they are to be diagnosed as having the conditions. All of the knowledge regarding these conditions are designed for one demographic, meaning that access to accurate diagnoses are unavailable to everyone equally. 
+
+# The Medium
+
+The Ethics Bowl case cites a lot of diagnoses coming from TikTok specifically. Many of the worries that come from self diagnosis are bolstered by TikTok, not necessarily by self diagnosis. 
+
+TikTok is used first and foremost for short-form content, usually around 15 seconds at most. This is not a place where nuanced discussions of disability can happen. We should not at all be suprised that many kids are getting an either narrow or just incorrect picture of what a community looks like since the medium itself disincentivizes nuanced content. 
+
+This is to say that self diagnosis through education and familiarity with a community could very well be possible, though TikTok self diagnosis is problematic. 
