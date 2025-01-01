@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/Travel/Northeast Skiing.md",
+                "file": "Daily Life/Travel/Hawaii.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Northeast Skiing"
+              "title": "Hawaii"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Life/Travel/Northeast Skiing.md",
+                "file": "Daily Life/Travel/Hawaii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Northeast Skiing"
+              "title": "Backlinks for Hawaii"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "516f7a975f837987",
   "lastOpenFiles": [
+    "Daily Life/Travel/Northeast Skiing.md",
     "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
     "Home/Home.md",
@@ -245,7 +246,6 @@
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Individual Responsibility for Climate Change.md",
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Animal Ethics in Climate Change.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Welfare.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Do Animals Matter.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
