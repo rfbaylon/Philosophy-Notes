@@ -37,8 +37,7 @@
               "title": "What is a Woman"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Theory/Feminism/What is a Woman.md",
+                "file": "Critical Theory/Disability Theory/Self Diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is a Woman"
+              "title": "Backlinks for Self Diagnosis"
             }
           }
         ],
@@ -221,8 +219,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "285e2191cd08e995",
+  "active": "d667ddde43e5d5c5",
   "lastOpenFiles": [
+    "Critical Theory/Feminism/What is a Woman.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
     "Hacking.md",
     "Daily Life/Travel/Hawaii.md",
@@ -248,7 +247,6 @@
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests (Rats).md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Liminal Animals.md",
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Extinctions.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Individual Responsibility for Climate Change.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
