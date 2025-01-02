@@ -1,3 +1,5 @@
+#MyStance 
+
 ## Against Self Diagnosis
 
 ### Doctors have Expertise
@@ -20,9 +22,9 @@ There are three main strands to justifying self-diagnosis. Firstly, an official 
 	Fellowes 2024, p5
 
 ### Self-Identity, not Self-Diagnosis
-Autism is not a disease, but an identity. To self diagnose is just to self identify. Identification with the autistic community is all it takes to be 'legitimately'  autisitc. 
+Autism is not a disease, but an identity. To self diagnose is just to self identify. Identification with the autistic community is all it takes to be 'legitimately' autistic. 
 	A2: See A2 Self Identification in [[Critical Theory/Feminism/What is a Woman|What is a Woman]]
-	A2: Autism includes a small set of individuals who dont have the linguistic capacity to self-identify, therefore excluding these people from the autistic community (Chapman cited in Fellowes 2024)
+	A2: Autism includes a small set of individuals who don't have the linguistic capacity to self-identify, therefore excluding these people from the autistic community (Chapman cited in Fellowes 2024)
 
 ### Analogous Communities
 #MyArgument Queer communities are analogous in this sense, especially since queerness was medicalized in the mid-20th century. It seems like queer communities operate alright without the purview of the medical establishment nowadays. Acceptance or rejection isn't based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd. Transness especially faces this since gender dysphoria is in the DSM.
@@ -61,4 +63,4 @@ The Ethics Bowl case cites a lot of diagnoses coming from TikTok specifically. M
 
 TikTok is used first and foremost for short-form content, usually around 15 seconds at most. This is not a place where nuanced discussions of disability can happen. We should not at all be surprised that many kids are getting an either narrow or just incorrect picture of what a community looks like since the medium itself disincentivizes nuanced content.
 
-This is to say that self-diagnosis through education and familiarity with a community could very well be possible, though TikTok self-diagnosis is problematic. While Tiktok may serve as a useful tool in getting a conversation started, it can’t be relied upon for a diagnosis.
+This is to say that self-diagnosis through education and familiarity with a community could very well be possible, though TikTok self-diagnosis is problematic. While Tiktok may serve as a useful tool in getting a conversation started, it can’t be relied upon for intimate knowledge of autism. 
