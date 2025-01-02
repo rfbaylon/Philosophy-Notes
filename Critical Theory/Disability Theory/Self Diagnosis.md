@@ -14,6 +14,7 @@ Disabled people have always had awful representation in the media. Like awful aw
 	Biocertification and Biocitizenship, 29
 
 ## For Self Diagnosis
+ “Autistics know autism better than anybody else” (Enright, 2021)
 
 There are three main strands to justifying self-diagnosis. Firstly, an official diagnosis is inaccessible. Secondly, being diagnosed can be harmful or not helpful. Thirdly, that the official diagnostic process is inaccurate whereas self-diagnosis is accurate.
 	Fellowes 2024, p5
@@ -22,7 +23,6 @@ There are three main strands to justifying self-diagnosis. Firstly, an official 
 #MyArgument Queer communities are analogous in this sense, especially since queerness was medicalized in the mid-20th century. It seems like queer communities operate alright without the purview of the medical establishment nowadays. Acceptance or rejection isn't based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd. Transness especially faces this since gender dysphoria is in the DSM.
 
 ### Stems from Testimonial Injustice
-
 Autistic folk are constantly berated by disbelief of their experiences. They are considered to be in some sense cognitively disabled and have issues with self-awareness, leading to their self-diagnosis being questioned far more than membership in other analogous communities.
 
 ### Anti-Psychiatry
@@ -35,15 +35,20 @@ When knowledge about a group of people changes, the population also changes. Whe
 
 ### Access
 
-Medical Diagnoses are incredibly expensive and inaccessible in the United States ( \#WIP How expensive?). In addition, for those outside of large metropolitan areas, specialists are far harder to come across, making diagnosis far more difficult. Especially in adulthood, access to specialists is limited (can vary based on insurance providers, and waitlists).
+- Medical Diagnoses are incredibly expensive and inaccessible in the United States ( #WIP How expensive?). 
+- In addition, for those outside of large metropolitan areas, specialists are far harder to come across, making diagnosis far more difficult. Especially in adulthood, access to specialists is limited (can vary based on insurance providers, and waitlists). Long waiting times are also an issue. 
+- In addition, it may be difficult for the individuals themelves to navigage the medical system. It may additionally be difficult for individuals to describe their symptoms to diagnosticians.
+
 
 ### Stigma
 Often, a medical diagnosis will mean that someone will get denied a job or overlooked for a promotion. When something is on your medical record, it takes on an entirely different meaning which isn't always possible
 
 ### Demographic Bias
-Autism and ADHD have been conditions studied primarily in rich, young, white boys. This demographic has a very particular way of acting, meaning the further one is from this demographic, the less likely they are to be diagnosed as having the conditions. All of the knowledge regarding these conditions is designed for one demographic, meaning that access to accurate diagnoses is unavailable to everyone equally.
+Autism and ADHD have been conditions studied primarily in rich, young, white boys. This demographic has a very particular way of acting, meaning the further one is from this demographic, the less likely they are to be diagnosed as having the conditions. All of the knowledge regarding these conditions is designed for one demographic, meaning that access to accurate diagnoses is unavailable to everyone equally. For example, diagnosticians are far more likely to look for special interests in computers and trains than for special interests in horses.
+	A2: This is an incredibly well noted issue, to the point where its explicitly included in the DSM 5. It was medical professionals that discovered the underreporting, and it 
+	A2: These days, autism is generally diagnosed by a team of interdisciplinary experts. It could be possible that all of the diagnosticians hold misleading ideas about autism, but this seems implausible.
 
-# The Medium
+# The Medium Matters
 
 The Ethics Bowl case cites a lot of diagnoses coming from TikTok specifically. Many of the worries that come from self diagnosis are bolstered by TikTok, not necessarily by self diagnosis.
 
