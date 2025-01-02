@@ -33,7 +33,7 @@ Autism is not a disease, but an identity. To self diagnose is just to self ident
 Autistic folk are constantly berated by disbelief of their experiences. They are considered to be in some sense cognitively disabled and have issues with self-awareness, leading to their self-diagnosis being questioned far more than membership in other analogous communities.
 	A2: Autism is an incredibly wide spectrum. This means that autism exists outside of the individuals experience and has a benchmark of comparison. 
 		Fellowes 2024, p13
-	A2: Self knowledge is incredibly 
+	A2: Self knowledge is widely considered to be inaccurate in most psychological fields. These are demonstrated in [[Cognitive Biases]] and in emperical psychological tests. 
 
 ### Anti-Psychiatry
 See [[A2 Psychoanalysis]]
