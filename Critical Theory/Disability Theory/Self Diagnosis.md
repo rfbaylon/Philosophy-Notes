@@ -19,14 +19,23 @@ Disabled people have always had awful representation in the media. Like awful aw
 There are three main strands to justifying self-diagnosis. Firstly, an official diagnosis is inaccessible. Secondly, being diagnosed can be harmful or not helpful. Thirdly, that the official diagnostic process is inaccurate whereas self-diagnosis is accurate.
 	Fellowes 2024, p5
 
+### Self-Identity, not Self-Diagnosis
+Autism is not a disease, but an identity. To self diagnose is just to self identify. Identification with the autistic community is all it takes to be 'legitimately'  autisitc. 
+	A2: See A2 Self Identification in [[Critical Theory/Feminism/What is a Woman|What is a Woman]]
+	A2: Autism includes a small set of individuals who dont have the linguistic capacity to self-identify, therefore excluding these people from the autistic community (Chapman cited in Fellowes 2024)
+
 ### Analogous Communities
 #MyArgument Queer communities are analogous in this sense, especially since queerness was medicalized in the mid-20th century. It seems like queer communities operate alright without the purview of the medical establishment nowadays. Acceptance or rejection isn't based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd. Transness especially faces this since gender dysphoria is in the DSM.
 
-### Stems from Testimonial Injustice
+### Autistic People Know Best
+“if someone is autistic then they will have direct access to autism so will be the best person to judge if they are autistic.”
+	Fellowes 2024, p 12
 Autistic folk are constantly berated by disbelief of their experiences. They are considered to be in some sense cognitively disabled and have issues with self-awareness, leading to their self-diagnosis being questioned far more than membership in other analogous communities.
+	A2: Autism is an incredibly wide spectrum. This means that autism exists outside of the individuals experience and has a benchmark of comparison. 
+		Fellowes 2024, p13
+	A2: Self knowledge is incredibly 
 
 ### Anti-Psychiatry
-
 See [[A2 Psychoanalysis]]
 
 ### Looping Effect
@@ -34,11 +43,9 @@ See [[Hacking]]
 When knowledge about a group of people changes, the population also changes. When one self-diagnoses, rather than making up a certification, it should be seen as posing a case that medicine misses. Using conceptual engineering, the autistic community can make people autistic, redefining what it means to take on the label. Autistic people are the experts, not psychiatrists.
 
 ### Access
-
 - Medical Diagnoses are incredibly expensive and inaccessible in the United States ( #WIP How expensive?). 
 - In addition, for those outside of large metropolitan areas, specialists are far harder to come across, making diagnosis far more difficult. Especially in adulthood, access to specialists is limited (can vary based on insurance providers, and waitlists). Long waiting times are also an issue. 
 - In addition, it may be difficult for the individuals themelves to navigage the medical system. It may additionally be difficult for individuals to describe their symptoms to diagnosticians.
-
 
 ### Stigma
 Often, a medical diagnosis will mean that someone will get denied a job or overlooked for a promotion. When something is on your medical record, it takes on an entirely different meaning which isn't always possible
