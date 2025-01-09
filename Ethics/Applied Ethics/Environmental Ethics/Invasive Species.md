@@ -55,6 +55,8 @@ Similar to the famous orchid example mentioned as an A2 [[Deep Ecology]]
 
 There are 4520 Northern Spotted Owls, there are 3 million Barred Owls. So far, we have killed over 3000 Barred Owls as of 2021, and are drafting plans to kill 500,000. 500k is absolutely incomparable to 4k -- especially since there is no end in sight.
 
+### Unintended Consequences
+Lead poisoning
 ## Other Plans
 
 ### Live Capture and Release
