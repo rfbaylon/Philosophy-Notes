@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Theory/Disability Theory/Self Diagnosis.md",
+                "file": "Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Self Diagnosis"
+              "title": "Backlinks for Home"
             }
           }
         ],
@@ -219,10 +219,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d667ddde43e5d5c5",
+  "active": "884847b8913874b1",
   "lastOpenFiles": [
-    "Critical Theory/Feminism/What is a Woman.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
+    "Critical Theory/Feminism/What is a Woman.md",
     "Hacking.md",
     "Daily Life/Travel/Hawaii.md",
     "Home/Home.md",
