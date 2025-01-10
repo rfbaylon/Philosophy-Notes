@@ -30,6 +30,9 @@ Autism is not a disease, but an identity. To self diagnose is just to self ident
 ### Analogous Communities
 #MyArgument Queer communities are analogous in this sense, especially since queerness was medicalized in the mid-20th century. It seems like queer communities operate alright without the purview of the medical establishment nowadays. Acceptance or rejection isn't based on a medical document. And it seems like any benefit to gatekeeping for autism could be equally applied to queerness. But if applied to queerness, it becomes absurd. Transness especially faces this since gender dysphoria is in the DSM.
 
+### Gaming the Test
+I could ace an autism exam and receive a diagnosis
+
 ### Autistic People Know Best
 “if someone is autistic then they will have direct access to autism so will be the best person to judge if they are autistic.”
 	Fellowes 2024, p 12
