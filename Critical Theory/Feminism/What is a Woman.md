@@ -96,6 +96,10 @@ Are men not also oppressed by the patriarchy? Does the patriarchy not enforce ri
 
 ## A2 Self-Identificationism
 
+
+### Not all Women (can) Identify
+Young girls and severely mentally disabled people lack the ability to identify as a woman at all, but clearly we would not say that young girls are not girls or someone could be so disabled that they no longer have a gender. 
+
 ### Circularity Argument
 A2: This definition is circular. Lets abstract the general form to create an ad absurdum.
 	A {     } is someone who identifies as a {     }.
