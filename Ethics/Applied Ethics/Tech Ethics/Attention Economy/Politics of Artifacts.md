@@ -2,6 +2,13 @@
 # Artifacts Themselves Have Politics
 Use [[Internet and Knowledge Production]] as a case study for this position
 
+There are 4 ways technology impacts human behavior
+1. augmenting physical strength (plow, darning needle, fighter jet)
+2. augmenting sensitivity (microscope, speakers)
+3. reshaping nature (birth control pill, dams, gmos)
+4. augmenting intellectual strength (book, typewriter, globe) (see [[Internet and Knowledge Production]])
+	[[The Shallows]] 49
+
 ### The medium is the message
 See [[The Shallows]], [[McLuhan]]
 "Our conventional response to all media, namely that it is how they are used that counts, is the numb stance of the technological idiot. The content of a medium is just the juicy piece of meat carried by the burglar to distract the watchdog of the mind"
@@ -38,4 +45,6 @@ Mechanical tomato harvesters became the new norm as they saved money by not requ
 	Do Artifacts Have Politics, 126
 
 ### Clocks
-The desire for accurate time keeping came from Christian monks
+The desire for accurate time keeping came from Christian monks in the Middle Ages, who maintained a rigorous schedule of prayer. As clocks spread, bells came to not just signify, but define meal times, market closures, assemblies, and cleanings. As each town became standardized, they then looked to standardize among other towns. 
+
+The miniturization of clocks (watches) made life more private, as well as acted as a constant monitor of time spent, time lost stimulating the early industrial culture.
