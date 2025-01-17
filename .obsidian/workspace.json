@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliographical/Books/2025/The Shallows.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Shallows"
+              "title": "Politics of Artifacts"
             }
           }
         ]
@@ -193,13 +193,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f6a9cbe9fb423a3",
+  "active": "a2fdd8b069eb30cc",
   "lastOpenFiles": [
-    "Bibliographical/Books/2025",
-    "Bibliographical/Books/2025/The Shallows.md",
-    "Bibliographical/Books/2025/The Shallows.md",
-    "The Shallows.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
+    "Ethics/Applied Ethics/Tech Ethics/Ethics of Digital Piracy.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
+    "Ethics/Applied Ethics/Tech Ethics/Untitled.md",
     "Home/Home.md",
+    "Bibliographical/Books/2025/The Shallows.md",
+    "Bibliographical/Books/2025",
+    "The Shallows.md",
     "Critical Theory/Animal Theory/Animal Biopower.md",
     "Critical Theory/Animal Theory/Linguistic Animal Violence.md",
     "Bibliographical/Authors/Hacking.md",
@@ -219,8 +223,6 @@
     "-Misc/CIC/Transfer Barriers.md",
     "-Misc/CIC/Statewide Research.md",
     "-Misc/CIC/Research Questions.md",
-    "-Misc/CIC/README.md.md",
-    "-Misc/CIC/MassTransfer Paper Feedback.md",
     "-Misc/CIC",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
@@ -229,8 +231,6 @@
     "Critical Theory/Feminism",
     "Critical Theory/Animal Theory",
     "Critical Theory",
-    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups",
-    "Tags/#+#book",
     "Untitled.canvas",
     "Bibliographical/Misc/Images/Pasted image 20241104120342.png",
     "Bibliographical/Misc/Images/Leibniz' Heriarchy.png",

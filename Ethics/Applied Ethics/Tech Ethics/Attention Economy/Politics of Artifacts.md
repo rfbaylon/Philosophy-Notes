@@ -1,5 +1,11 @@
 
-# Artifacts Inherently Have Politics
+# Artifacts Themselves Have Politics
+Very linked with 
+
+### The medium is the message
+See [[The Shallows]], [[McLuhan]]
+"Our conventional response to all media, namely that it is how they are used that counts, is the numb stance of the technological idiot. The content of a medium is just the juicy piece of meat carried by the burglar to distract the watchdog of the mind"
+	[[McLuhan]] cited in [[The Shallows]], p15
 
 ### Tech is designed for settling issues
 See Winner
