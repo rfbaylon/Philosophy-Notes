@@ -1,6 +1,6 @@
 
 # Artifacts Themselves Have Politics
-Very linked with 
+Use [[Internet and Knowledge Production]] as a case study for this position
 
 ### The medium is the message
 See [[The Shallows]], [[McLuhan]]
