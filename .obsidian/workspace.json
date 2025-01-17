@@ -8,36 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2fdd8b069eb30cc",
+            "id": "10e069be82de0efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Internet and Knowledge Production"
             }
           },
           {
-            "id": "3311ddeee7ac3bcf",
+            "id": "19044259fd4ec7cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliographical/Heidegger.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heidegger"
+              "title": "Politics of Artifacts"
+            }
+          },
+          {
+            "id": "34ef81aa411b3c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliographical/Books/2025/The Shallows.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Shallows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functionalism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,18 +224,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a2fdd8b069eb30cc",
+  "active": "1f6a9cbe9fb423a3",
   "lastOpenFiles": [
-    "Home/QUICKNOTES.md",
-    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
+    "Bibliographical/Books/2025/The Shallows.md",
     "Home/Home.md",
-    "Bibliographical/Heidegger.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
+    "Science/Math/Data Types.md",
+    "Science/Psychology",
+    "Science/Math/Linear Regressions.md",
+    "Home/QUICKNOTES.md",
+    "README.md",
+    "Bibliographical/Heidegger.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
     "Ethics/Applied Ethics/Tech Ethics/Ethics of Digital Piracy.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Ethics/Applied Ethics/Tech Ethics/Untitled.md",
-    "Bibliographical/Books/2025/The Shallows.md",
     "Bibliographical/Books/2025",
     "The Shallows.md",
     "Critical Theory/Animal Theory/Animal Biopower.md",
@@ -227,7 +247,6 @@
     "Bibliographical/Authors/Hacking.md",
     "Untitled Kanban.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Animal Ethics in Climate Change.md",
     "Ethics/Applied Ethics/Environmental Ethics/'Natural'/Wilderness.md",
@@ -235,9 +254,6 @@
     "Epistemology/Applied Epistemology/Why I Don't Read the News.md",
     "Daily Life/Travel/Northeast Skiing.md",
     "Daily Life/Psychology/Positive Psychology.md",
-    "Daily Life/Focus & Work/Goals.md",
-    "Critical Theory/Disability Theory/Self Diagnosis.md",
-    "-Misc/Political Philosophy/Uncivil Disobedience.md",
     "-Misc/CIC",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
@@ -245,7 +261,6 @@
     "Critical Theory/Disability Theory",
     "Critical Theory/Feminism",
     "Critical Theory/Animal Theory",
-    "Critical Theory",
     "Untitled.canvas",
     "Bibliographical/Misc/Images/Pasted image 20241104120342.png",
     "Bibliographical/Misc/Images/Leibniz' Heriarchy.png",
