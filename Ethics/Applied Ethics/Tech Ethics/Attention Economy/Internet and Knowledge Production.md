@@ -5,7 +5,7 @@ Thinking has taken on a 'staccato quality' ([[The Shallows]] 18)
 ## Folk-y Evidence
 ### [[Nietzsche]]'s Writing Ball
 In 1882, Nietzsche ordered a ball shaped typewriter due to his failing vision. Though Nietzsche resumed writing, his writing now had tighter, more telegraphic prose. A friend wrote to Nietzsche noting the change, and he replied "you are right,  our writing equipment  takes part in the forming of our thoughts"
-	[[The Shallows]] 28
+	[[The Shallows]] 28z
 
 ## Neuro-scientific Evidence
 
@@ -14,3 +14,6 @@ As monkeys were trained to use tools to grab food, scientists monitored the monk
 	[[The Shallows]] 38
 
 This is pretty much exact neurological evidence for [[Heidegger]]'s hammer case.
+
+### London Cabbies
+Before GPS, London Cabbies knew all of the streets by memory, but after, there were measured changes in the hippocampus and other brain areas involved in spatial modelling and memory due to a reliance on GPS. The area previously used for mapping shrank while the area used for rapidly deciphering information likely grew. 

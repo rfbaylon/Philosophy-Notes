@@ -9,6 +9,11 @@ There are 4 ways technology impacts human behavior
 4. augmenting intellectual strength (book, typewriter, globe) (see [[Internet and Knowledge Production]])
 	[[The Shallows]] 49
 
+#### Misc. Quotes
+"The windmill gives you society with the feudal lord; the steam-mill, society with the industrial capitalist" - [[Marx]]
+
+"Things are in the saddle/And ride mankind" - [[Emerson]]
+
 ### The medium is the message
 See [[The Shallows]], [[McLuhan]]
 "Our conventional response to all media, namely that it is how they are used that counts, is the numb stance of the technological idiot. The content of a medium is just the juicy piece of meat carried by the burglar to distract the watchdog of the mind"
