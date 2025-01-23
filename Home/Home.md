@@ -8,7 +8,7 @@
 ## Ethics Bowl
 - [[Self Diagnosis]]
 - [[Invasive Species]]
-- [[Gore in Journalism]]
+- [[Visceral Journalism]]
 ## Blogs
 (pubbed or WIP)
 - [[Why I Don't Read the News]]
