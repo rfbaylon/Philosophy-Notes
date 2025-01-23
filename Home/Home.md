@@ -5,13 +5,20 @@
 [[QUOTES]]
 
 ---
-Ethics Bowl
-[[Self Diagnosis]]
-[[Invasive Species]]
+## Ethics Bowl
+- [[Self Diagnosis]]
+- [[Invasive Species]]
+- [[Gore in Journalism]]
+## Blogs
+(pubbed or WIP)
+- [[Why I Don't Read the News]]
+- [[On Social Media]]
 
-
-[[Why I Don't Read the News]]
-[[On Social Media]]
+## Books
+#### [[The Shallows]]
+- [[Carr]]
+- [[Internet and Knowledge Production]]
+- [[Politics of Artifacts]]
 
 [[Zoopolis]]
 - [[Donaldson]] & [[Kymlicka]]

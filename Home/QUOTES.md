@@ -11,3 +11,6 @@
 
 Bill dropped his keys on the counter and stood there staring at them suddenly thinking about all the times hed thrown them there before, and how many days of his life hed wasted repeating the same tasks and rituals in his apartment over and over again. Then he wondered if, realistically, this *was* his life and the unusual part was his time spent other things.
 	Its such a beautiful day (film) 
+
+"All great men have qritten proudly, nor cared to explain. They knew that the intellgient reader would come at last, and would thank them"
+	[[Emerson]]

@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -88,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -198,14 +204,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f6a9cbe9fb423a3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Epistemology/Information Ethics/Visceral Journalism.md",
+    "Daily Life/Recipes/Mom's Banana Bread.md",
+    "Daily Life/Recipes/Cookie.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
+    "Bibliographical/Heidegger.md",
+    "Bibliographical/Books/2025/The Shallows.md",
+    "Bibliographical/Books/2025",
+    "Bibliographical/Authors/Hacking.md",
     "Science/Environmental Studies/Impact of Climate Change/Climate Change and People.md",
     "Science/Environmental Studies/Impact of Climate Change/Broad Climate Changes.md",
     "Science/Environmental Studies/Impact of Climate Change/Climate Change and Ecosystems.md",
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Animal Ethics in Climate Change.md",
     "Home/Home.md",
-    "Epistemology/Information Ethics/Gore in Journalism.md",
     "-Misc/Political Philosophy/Uncivil Disobedience.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
     "Critical Theory/Feminism/What is a Woman.md",
@@ -217,15 +234,6 @@
     "Daily Life/Travel/Northeast Skiing.md",
     "Epistemology/Pragmatism.md",
     "Daily Life/Psychology/Positive Psychology.md",
-    "Critical Theory/Critical Theory.md",
-    "-Misc/Psychoanalysis/Anti-Psychoanalysis/Schizoanalysis.md",
-    "-Misc/Psychoanalysis/Anti-Psychoanalysis/A2 Psychoanalysis.md",
-    "Bibliographical/Books/Continental/Critical Theory/Madness and Civilization.md",
-    "Cogntitive Wheels 2006.md",
-    "Bibliographical/Misc/Images/Color Palette.md",
-    "README.md",
-    "Epistemology/Applied Epistemology/Why I Don't Read the News.md",
-    "High.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
@@ -234,8 +242,6 @@
     "Critical Theory/Animal Theory",
     "Critical Theory",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups",
-    "Tags/#+#book",
-    "Tags/#+#owned",
     "Untitled.canvas",
     "Bibliographical/Misc/Images/Pasted image 20241104120342.png",
     "Bibliographical/Misc/Images/Leibniz' Heriarchy.png",
