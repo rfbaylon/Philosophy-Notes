@@ -30,3 +30,7 @@ There is the famous [[Nozick]] quote regarding deontology for humans, utilitaria
 
 [[Donaldson]] & [[Kymlicka]]'s approach rests on two ideas:
 1. Domesticated animals must be seen as members of our community as we have intentionally molded them into human society
+2. The appropriate conceptual framework for domesticated animals is [[Citizenship]].
+In both respects, [[Donaldson]] & [[Kymlicka]] argue that domestic animals are similar to slaves, indentured workers, and foreign migrants who were brought to a society as a suboridinate caste, but who rightly demand inclusion.
+
+## A2 Pet Citizenship
