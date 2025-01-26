@@ -1,4 +1,4 @@
-# Philosophical Rats
+# The Philosophical Rat
 
 "The contemporary rat, as interspecies figure knotted up with humans and as living creature, is not just a canary in the coalmine for the Anthropocene that marks the paradoxical triumph of the human; rather, it is the kind of ground on which conditions of awkward life in the Anthropocene are being reworked, in ways both violent and accommodating."
 	Interspecies Politics and the Global Rat, 244
@@ -6,7 +6,17 @@
 "Caring for bees without protective clothing can be a transformative act for committed beekeepers, but also remains to be a poignant reminder of the vulnerability of human bodies. Green and Ginn conclude this can have ethical implications: “becoming less uncomfortable with vulnerability and seeking to put ourselves at risk can be a productive ethical practice. We might learn to accept the risks more, to loosen the hegemonic idea of a self-certain subject to whom an outsider arrives to disrupt.” #Quote 
 	https://read.dukeupress.edu/environmental-humanities/article/4/1/113/2testing
 
-# Emperical Case Study: Rats
+"We humans are always looking for a species to despise. We shake our heads as rates overpopuilate, fight over limited food supplies, and then go to war until the population is killed down, but then proceed to follow the same battle plan"
+	[[Rats (Book)]] 221
+
+# The Historical Rat
+Rats were a large fornt for the animal liberation movement in the 40s-50s in New York, as Henry Bergh, the founder of ASPCA, was intensely focused on making rat fights illegal. Banning this practice was one of the first animal rights laws in the US. 
+	[[Rats (Book)]] 81
+
+Look into documentary film: The Rats
+	[[Rats (Book)]] 146
+
+# The Emperical Rat
 
 **鼠目寸光** (_shǔ mù cùn guāng_): "Rats are shortsighted." A metaphor for people who only care about short-term benefits. – [The Bejinger, 2020](https://www.thebeijinger.com/blog/2020/01/06/know-your-rats-complicated-image-problem-rats-chinese-culture)
 
@@ -23,7 +33,7 @@ See Rikers Island case study
 - https://onlinelibrary.wiley.com/doi/full/10.1002/ps.6137
 - https://vt.audubon.org/news/are-we-burning-down-our-house-kill-rat-why-use-second-generation-anti-coagulant-rodenticides
 - https://www.nbcboston.com/news/local/wildlife-advocates-lawmakers-seek-to-restrict-rat-poison-thats-killing-other-animals/2932087/[
-- MA Bill from Bald Eagle Dead](https://malegislature.gov/Bills/193/HD577)
+- [MA Bill from Bald Eagle Dead](https://malegislature.gov/Bills/193/HD577)
 
 Info:
 SGARs are anticoagulate rat poisons that 
