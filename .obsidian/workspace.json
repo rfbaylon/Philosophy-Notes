@@ -43,17 +43,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Misc/Political Philosophy/Citizenship.md",
+                "file": "Science/Environmental Studies/Industry and Environment/Food Production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Citizenship"
+              "title": "Food Production"
+            }
+          },
+          {
+            "id": "6ee509135d70fca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pests"
+            }
+          },
+          {
+            "id": "89bf7168bc6d9454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliographical/Books/2024/Rats (Book).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rats (Book)"
+            }
+          },
+          {
+            "id": "a6eeff032aacd761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rats.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rats"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "threshold",
+                "query": "food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,8 +165,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Misc/Political Philosophy/Citizenship.md",
+                "file": "Rats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Citizenship"
+              "title": "Backlinks for Rats"
             }
           }
         ],
@@ -244,9 +288,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34c5e645c5b28fea",
+  "active": "a6eeff032aacd761",
   "lastOpenFiles": [
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests.md",
+    "Rats.md",
+    "Science/Environmental Studies/Industry and Environment/Food Production.md",
+    "Bibliographical/Books/2024/Rats (Book).md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
+    "Science/Math/Linear Regressions.md",
+    "Science/Math/Data Types.md",
     "-Misc/Political Philosophy/Citizenship.md",
     "Home/Home.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Politics.md",
@@ -267,13 +318,6 @@
     "Science/Environmental Studies/Impact of Climate Change/Climate Change and Ecosystems.md",
     "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Animal Ethics in Climate Change.md",
     "-Misc/Political Philosophy/Uncivil Disobedience.md",
-    "Critical Theory/Disability Theory/Self Diagnosis.md",
-    "Critical Theory/Feminism/What is a Woman.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Climate Ethics/Extinctions.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Deep Ecology/Individualism Vs. Holism.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
-    "Hacking.md",
-    "Daily Life/Travel/Hawaii.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
