@@ -68,6 +68,21 @@
             }
           },
           {
+            "id": "eb545bb24588ef63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Critical Theory/Decolonial Studies/Decolonization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decolonization"
+            }
+          },
+          {
             "id": "e5b49ed9df724280",
             "type": "leaf",
             "state": {
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "national park",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
+                "file": "Critical Theory/Decolonial Studies/Decolonization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Indigenous Ethics"
+              "title": "Backlinks for Decolonization"
             }
           }
         ],
@@ -273,14 +288,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "43d57cd9fcab04dd",
+  "active": "eb545bb24588ef63",
   "lastOpenFiles": [
+    "Critical Theory/Decolonial Studies/Colonial Ideology.md",
+    "Critical Theory/Decolonial Studies/Decolonization.md",
+    "Ethics/Normative Ethics/Justice/General Justice.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/Love.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/General Care Ethics.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/Ecofeminism.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/Capabilities Approach.md",
     "Ethics/Normative Ethics/Realism/Deontology.md",
-    "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
     "Misc/Images/Pasted image 20250126105650.png",
     "Misc/Images",
     "Misc",
@@ -303,9 +321,6 @@
     "Science/Math/Data Types.md",
     "-Misc/Political Philosophy/Citizenship.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
-    "conflict-files-obsidian-git.md",
-    "Epistemology/Information Ethics/Visceral Journalism.md",
-    "Daily Life/Recipes/Cookie.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",
     "Critical Theory/Race Theory/Native American Theory",
