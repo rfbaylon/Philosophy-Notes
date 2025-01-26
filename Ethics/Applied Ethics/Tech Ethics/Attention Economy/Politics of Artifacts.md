@@ -19,6 +19,9 @@ There are 4 ways technology impacts human behavior
 
 "Our tools end up 'numbing' whatever part of our body they 'amplify.' - [[McLuhan]]
 
+"The tide of technological revolution (could) "so captivate, bewitch, dazzle, and beguile man that calculative thinking may someday come to be accepted and practiced as the *only way of thinking*... The frenziedness of technology threatens to entrench itself everywhere" - [[Heidegger]]
+	[[The Shallows]] 193
+
 ### The medium is the message
 See [[The Shallows]], [[McLuhan]]
 "Our conventional response to all media, namely that it is how they are used that counts, is the numb stance of the technological idiot. The content of a medium is just the juicy piece of meat carried by the burglar to distract the watchdog of the mind"
@@ -59,7 +62,8 @@ The desire for accurate time keeping came from Christian monks in the Middle Age
 
 The miniturization of clocks (watches) made life more private, as well as acted as a constant monitor of time spent, time lost stimulating the early industrial culture.
 
-In deciding when to eat to work, to sleep, to wake up, we stopped listening to our senses and started obeying the clock
+"In deciding when to eat to work, to sleep, to wake up, we stopped listening to our senses and started obeying the clock. We became a lot more scientific, but we became a lot more mechanical as well."
+	[[The Shallows]] 285
 
 ### Computers
 

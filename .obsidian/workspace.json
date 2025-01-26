@@ -52,8 +52,7 @@
               "title": "Kimmerer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Politics of Artifacts"
+              "title": "Backlinks for Internet and Knowledge Production"
             }
           }
         ],
@@ -243,10 +242,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2de1bde39889c0ee",
+  "active": "1aa6a4323c4803fd",
   "lastOpenFiles": [
-    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
     "Critical Theory/Decolonial Studies/Returning National Parks.md",
     "Critical Theory/Race Theory/Neocolonialism.md",
     "Critical Theory/Race Theory/Colonialism.md",
