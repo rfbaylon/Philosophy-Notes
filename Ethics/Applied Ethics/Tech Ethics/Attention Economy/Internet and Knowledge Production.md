@@ -14,6 +14,9 @@ Much of other media has also become more weblike. Jimmy Fallon's show caters tow
 David Levy in *Scrolling Forward* describes the release of multiple windowed computers. To demonstrate, Xerox, the company releasing it, showed a popup email message and quickly replied to it before returning to coding. Half the audience welcomed it, touting its effeciency. The other recoiled. "Why in the world would you want to be interrupted and distracted by email while programming??"
 	[[The Shallows]] 106
 	The point here isnt to say one is better than the other -- its just to say that the invisible choice has been made to reject the solitary concentration in favor of the juggler. 
+
+"The internet, as its proponents rightly remind us, makes for variety and convinience; it does not force anything on you. Only it turns out it doesnt feel like that at all. We dont *feel* as if we had freely chosen our online practices. We feel instead that theyt are havbits we have helplessly picked up or that history has enforced, that we are not distributing our attention as we intend or even like to"
+	[[The Shallows]] 175
 ## The case
 Once information is digitized, we lose specialization. Think mobile phones that replace GPS, cameras, cell phones, MP3 players, TVs, etc. The information on the internet is similar, where there are no boundaries between tools. 
 
