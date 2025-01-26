@@ -2,6 +2,10 @@
 
 Thinking has taken on a 'staccato quality' ([[The Shallows]] 18)
 
+"Music albums are split apart, their songs sold through iTunes or streamed through Spotoify. Even the songs themselves are broken into pieces, with their riffs and hooks packaged as ringtones for ell phones. Theres much to be said for what economists call the "unbundling" of content. It provides people with more choices and frees them from unwanted purchases. but it also illustrates and reinforces the changing patterns of media consumption promoted by the Web. "When access to information is easy, we tend to favor the short, the sweet, and the bitty.""
+	[[The Shallows]] 90
+
+Much of other media has also become more weblike. Jimmy Fallon's show caters towards being clipped for YouTube, the WSJ and NYT both have begun shortening thier paragraphs and adding more images.s
 ## The case
 Once information is digitized, we lose specialization. Think mobile phones that replace GPS, cameras, cell phones, MP3 players, TVs, etc. The information on the internet is similar, where there are no boundaries between tools. 
 

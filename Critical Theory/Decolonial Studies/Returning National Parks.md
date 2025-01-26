@@ -1,5 +1,5 @@
 # Returning National Parks
-See [[Land Back]]
+See [[Decolonization]]
 ## Ought the United States return National Parks to the tribes who owned them originally?
 
 

@@ -8,78 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1aa6a4323c4803fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Politics.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animal Politics"
+              "title": "Internet and Knowledge Production"
             }
           },
           {
-            "id": "89bf7168bc6d9454",
+            "id": "2de1bde39889c0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliographical/Books/2024/Rats (Book).md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rats (Book)"
-            }
-          },
-          {
-            "id": "a6eeff032aacd761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Critical Theory/Race Theory/Native American Theory/Returning National Parks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Returning National Parks"
-            }
-          },
-          {
-            "id": "43d57cd9fcab04dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indigenous Ethics"
-            }
-          },
-          {
-            "id": "eb545bb24588ef63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Critical Theory/Decolonial Studies/Decolonization.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decolonization"
+              "title": "Politics of Artifacts"
             }
           },
           {
@@ -97,8 +52,7 @@
               "title": "Kimmerer"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Theory/Decolonial Studies/Decolonization.md",
+                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decolonization"
+              "title": "Backlinks for Internet and Knowledge Production"
             }
           }
         ],
@@ -288,10 +242,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb545bb24588ef63",
+  "active": "1aa6a4323c4803fd",
   "lastOpenFiles": [
-    "Critical Theory/Decolonial Studies/Colonial Ideology.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
+    "Critical Theory/Decolonial Studies/Returning National Parks.md",
+    "Critical Theory/Race Theory/Neocolonialism.md",
+    "Critical Theory/Race Theory/Colonialism.md",
     "Critical Theory/Decolonial Studies/Decolonization.md",
+    "Bibliographical/Books/2024/Rats (Book).md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Politics.md",
+    "Home/Home.md",
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
+    "Critical Theory/Decolonial Studies/Colonial Ideology.md",
     "Ethics/Normative Ethics/Justice/General Justice.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
     "Ethics/Normative Ethics/Realism/Other Approaches/Love.md",
@@ -306,21 +268,13 @@
     "Ethics/Normative Ethics/Realism/Other Approaches",
     "Kimmerer.md",
     "-Misc/Political Philosophy/Sovereignty.md",
-    "Home/Home.md",
     "Critical Theory/Decolonial Studies/Land Back.md",
-    "Critical Theory/Race Theory/Native American Theory/Returning National Parks.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Politics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests.md",
     "Science/Environmental Studies/Industry and Environment/Food Production.md",
     "Critical Theory/Decolonial Studies",
     "Rats.md",
-    "Bibliographical/Books/2024/Rats (Book).md",
     "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
-    "Science/Math/Linear Regressions.md",
-    "Science/Math/Data Types.md",
-    "-Misc/Political Philosophy/Citizenship.md",
-    "Daily Life/Recipes/Mom's Banana Bread.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",
     "Critical Theory/Race Theory/Native American Theory",
