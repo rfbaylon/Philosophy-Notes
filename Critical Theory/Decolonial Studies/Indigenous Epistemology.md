@@ -23,4 +23,4 @@ There are 5 parts of knowing
 4. Emotion
 5. Relationality (w/ the environment)
 [[Kimmerer]] claims that Western epistemology only cares about the first two. It tries to distance itself from politics, action, culture, and motivation to remain 'objective,' but misses important information in doing so. Everything is interrelated.
-
+./d.
