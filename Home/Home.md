@@ -9,6 +9,8 @@
 - [[Self Diagnosis]]
 - [[Invasive Species]]
 - [[Visceral Journalism]]
+- [[Child Labor]]
+- 
 ## Blogs
 (pubbed or WIP)
 - [[Why I Don't Read the News]]
@@ -22,6 +24,8 @@
 
 [[Zoopolis]]
 - [[Donaldson]] & [[Kymlicka]]
+- [[Animal Politics]]
+- [[Pet Ethics]]
 
 [[The Minority Body]]
 - [[Barnes]]
