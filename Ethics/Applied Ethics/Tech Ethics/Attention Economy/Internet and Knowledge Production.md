@@ -40,3 +40,20 @@ This is pretty much exact neurological evidence for [[Heidegger]]'s hammer case.
 
 ### London Cabbies
 Before GPS, London Cabbies knew all of the streets by memory, but after, there were measured changes in the hippocampus and other brain areas involved in spatial modelling and memory due to a reliance on GPS. The area previously used for mapping shrank while the area used for rapidly deciphering information likely grew. 
+
+### Working Memory
+Imagine filling a bathtub with a thimble. Thats what moving information from working memory into long term memory is.
+While a book supplies a steady drip of information, it can slowly allow for information to accumulate in the bathtub. With the Web, we face many informational faucets going at full blast. The information frlowing into working memory is the cognitive load. When the load wexcceeds our minds abiliyt to store and process the information, we are unable to retain the infromation or draw fonnections with the information stored in long term memory. 
+	[[The Shallows]] 116
+
+### Hypertext
+A 1990 study revealed that hypertext readers "cound not remember what they had and had not read. A similar study compared hypertext with text and found that hypertext readers took longer to read a short story and had substantially worse comprehension of the story. This test was repeated again with the same results a few years later.
+	[[The Shallows]] 117
+
+### Specific Harms
+- Distraction
+- Switching costs
+- Cognitive load
+- Speed
+	- "When you add verbiage to a page, you can assume costomers will read 18% of it -- and thats an overstatement" [[The Shallows]] 123
+	- "How do users read the web?" "They dont" [[The Shallows]] 124  
