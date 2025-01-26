@@ -2,10 +2,18 @@
 
 Thinking has taken on a 'staccato quality' ([[The Shallows]] 18)
 
-"Music albums are split apart, their songs sold through iTunes or streamed through Spotoify. Even the songs themselves are broken into pieces, with their riffs and hooks packaged as ringtones for ell phones. Theres much to be said for what economists call the "unbundling" of content. It provides people with more choices and frees them from unwanted purchases. but it also illustrates and reinforces the changing patterns of media consumption promoted by the Web. "When access to information is easy, we tend to favor the short, the sweet, and the bitty.""
+"Music albums are split apart, their songs sold through iTunes or streamed through Spotify. Even the songs themselves are broken into pieces, with their riffs and hooks packaged as ringtones for ell phones. Theres much to be said for what economists call the "unbundling" of content. It provides people with more choices and frees them from unwanted purchases. but it also illustrates and reinforces the changing patterns of media consumption promoted by the Web. "When access to information is easy, we tend to favor the short, the sweet, and the bitty.""
 	[[The Shallows]] 90
 
-Much of other media has also become more weblike. Jimmy Fallon's show caters towards being clipped for YouTube, the WSJ and NYT both have begun shortening thier paragraphs and adding more images.s
+Much of other media has also become more weblike. Jimmy Fallon's show caters towards being clipped for YouTube, the WSJ and NYT both have begun shortening their paragraphs and adding more images.
+	[[The Shallows]] 91
+
+"Now that the context of reading is again shifting, from the private page to the communal screen, authors will adapt once more. They will be increasingly tailor their work to a milieu that the essayist Caleb Crain describes as "groupness" where people read mainly for the sake of a feeling of belonging rather than for  personal enlightenment or amusement"
+	[[The Shallows]] 101
+
+David Levy in *Scrolling Forward* describes the release of multiple windowed computers. To demonstrate, Xerox, the company releasing it, showed a popup email message and quickly replied to it before returning to coding. Half the audience welcomed it, touting its effeciency. The other recoiled. "Why in the world would you want to be interrupted and distracted by email while programming??"
+	[[The Shallows]] 106
+	The point here isnt to say one is better than the other -- its just to say that the invisible choice has been made to reject the solitary concentration in favor of the juggler. 
 ## The case
 Once information is digitized, we lose specialization. Think mobile phones that replace GPS, cameras, cell phones, MP3 players, TVs, etc. The information on the internet is similar, where there are no boundaries between tools. 
 
