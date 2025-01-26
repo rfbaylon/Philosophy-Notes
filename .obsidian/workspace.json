@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
+                "file": "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indigenous Epistemology"
+              "title": "Indigenous Ethics"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
+                "file": "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Indigenous Epistemology"
+              "title": "Backlinks for Indigenous Ethics"
             }
           }
         ],
@@ -273,10 +273,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f8eaf4e9be34b3c",
+  "active": "43d57cd9fcab04dd",
   "lastOpenFiles": [
-    "Kimmerer.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/Love.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/General Care Ethics.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/Ecofeminism.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/Capabilities Approach.md",
+    "Ethics/Normative Ethics/Realism/Deontology.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches/Indigenous Ethics.md",
+    "Misc/Images/Pasted image 20250126105650.png",
+    "Misc/Images",
+    "Misc",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
+    "Ethics/Normative Ethics/Realism/Other Approaches",
+    "Kimmerer.md",
     "-Misc/Political Philosophy/Sovereignty.md",
     "Home/Home.md",
     "Critical Theory/Decolonial Studies/Land Back.md",
@@ -296,21 +306,12 @@
     "conflict-files-obsidian-git.md",
     "Epistemology/Information Ethics/Visceral Journalism.md",
     "Daily Life/Recipes/Cookie.md",
-    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
-    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
-    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
-    "Bibliographical/Heidegger.md",
-    "Bibliographical/Books/2025/The Shallows.md",
     "Bibliographical/Books/2025",
-    "Bibliographical/Authors/Hacking.md",
     "Critical Theory/Race Theory/Native American Theory",
     "Critical Theory/Race Theory",
     "Critical Theory/Queer Theory",
     "Critical Theory/Disability Theory",
-    "Critical Theory/Feminism",
-    "Critical Theory/Animal Theory",
-    "Critical Theory",
     "Untitled.canvas",
     "Bibliographical/Misc/Images/Pasted image 20241104120342.png",
     "Bibliographical/Misc/Images/Leibniz' Heriarchy.png",
