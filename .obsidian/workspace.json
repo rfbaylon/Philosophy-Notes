@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "-Misc/Economics/Child Labor.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Child Labor"
             }
           }
         ]
@@ -169,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Rats.md",
+                "file": "-Misc/Economics/Child Labor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +184,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rats"
+              "title": "Backlinks for Child Labor"
             }
           }
         ],
@@ -207,8 +212,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1f6a9cbe9fb423a3",
   "lastOpenFiles": [
+    "-Misc/Economics/Child Labor.md",
+    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Rats.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Internet and Knowledge Production.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Politics of Artifacts.md",
     "Bibliographical/Authors/Kimmerer.md",
@@ -238,8 +245,6 @@
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pests.md",
     "Science/Environmental Studies/Industry and Environment/Food Production.md",
     "Critical Theory/Decolonial Studies",
-    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Rats.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Invasive Species.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",
     "Critical Theory/Race Theory/Native American Theory",
