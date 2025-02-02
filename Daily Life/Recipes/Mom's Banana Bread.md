@@ -1,7 +1,7 @@
 ## Ingredients
 
 Wet
--  3 ripe bananas
+- 3 ripe bananas
 - 1 egg
 - 1 cup sugar
 - 1/2 cup wheat germ
