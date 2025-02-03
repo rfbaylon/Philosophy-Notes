@@ -3,11 +3,20 @@
 
 Protest: A legal demonstration with a political aim (ex: a march, a boycott, *)
 Civil Disobedience: A non-violent illegal action with a political aim (ex: trespassing, disturbing the peace)
-Uncivil Disobedience is: A violent illegal action with a political aim (ex: assassination, rioting, arson)
+Uncivil Disobedience is: civil disobedience that fall short of the standards of civility by failing to be public, refusing to accept punishment, or showing no respect or loyalty to the system, etc., and most notably involving violence. (whistleblowing, hacktivism, and ecotage)
 
+## Framework
+For uncivil (and civil) disobedience t
+
+For this case, we will be weighing moral *cost* and *benefit*. By cost, we mean:
+- the amount of harm
+- the direction of harm
+
+Its simply false that civil disobedience is less costly in all situations compared to uncivil disobedience. A grafitti artists tagging a building or a whistleblower causing embarassment to an institution will often 'cost less' compared with widescale political disruptions. 
 
 ## Good Means
-Minimize harm insofar as it doesnt impact the results
+Minimize cost insofar as it doesnt impact the results
+
 
 - Unabomber setting off a bomb to kill state rep killing like 40 extra innocent people is awful  
 - Killing my room mate because I’m mad about police brutality will not reasonably achieve the goals I want (even if the goals are good)  
