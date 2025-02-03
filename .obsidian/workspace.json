@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Discrete Math.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Discrete Math"
             }
           }
         ]
@@ -172,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Discrete Math"
             }
           }
         ],
@@ -211,6 +215,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Discrete Math.md",
     "-Misc/Political Philosophy/(Un)civil Disobedience.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "-Misc/Economics/Child Labor.md",
@@ -240,7 +245,6 @@
     "Ethics/Normative Ethics/Realism/Other Approaches",
     "-Misc/Political Philosophy/Sovereignty.md",
     "Critical Theory/Decolonial Studies/Land Back.md",
-    "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
     "Critical Theory/Decolonial Studies",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",
