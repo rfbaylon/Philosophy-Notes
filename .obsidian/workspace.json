@@ -52,7 +52,8 @@
               "title": "Set Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +248,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e09a66068bd908a3",
   "lastOpenFiles": [
     "Discrete Proofs.md",
     "Logic.md",
