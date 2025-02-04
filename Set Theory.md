@@ -11,8 +11,6 @@ $\mathbb{Z}$ - Integers
 $\mathbb{Q}$ - Rational Numbers
 $\mathbb{R}$ - Real numbers
 
-
-$\supset$ - Proper Superset
 $\in$ - element in
 $\notin$ - element not in
 
