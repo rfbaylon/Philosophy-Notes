@@ -54,10 +54,14 @@ $\lnot(A \lor B) \iff \lnot A \land \lnot B$
 
 $A \land (B \lor C) \iff (A \land B) \lor (A \land C)$
 
-**Conjunctive Normal Form** is what happens when $\land$ is outside of the parenthesis. For example:
-$A \land (B \lor C)$
+#### CNF and DNF
+**Conjunctive Normal Form** is what happens when $\land$ is outside of the parenthesis. 
+For example: $A \land (B \lor C)$
 
-**Disjunctive Normal Form** is what happens when \lor is outside 
+**Disjunctive Normal Form** is what happens when $\lor$ is outside of the parenthesis.
+For example: $(A \land B) \lor (A \land C)$
+
+Any propositional formula can be written in either CNF or DNF. 
 
 ## Implication
 
@@ -82,4 +86,18 @@ $A \land (B \lor C)$
 # Valid Formulas
 
 1. $P \lor \lnot P$
+
+# For All / There Exists
+
+$\forall$ For All
+$\exists$ There Exists
+
+These two sentences mean the same thing:
+- There is no one who likes being mocked
+- Everyone dislikes being mocked.
+
+This means that:
+$\lnot (\forall x. P(x)) \iff \exists x. \lnot(P(x)).$
+	The general principle is that moving a NOT to the other side of an “$\exists$” changes it into “$\forall$,” and vice versa.
+
 
