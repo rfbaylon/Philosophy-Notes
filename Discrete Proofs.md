@@ -20,8 +20,10 @@ Combines a proof by contradiction and a proof by induction.
 The steps are as follows:
 1. Create a base case where the theorem is true
 
-Example:
-Theorem
-1.   ∑y=0k3y⩾3k+1y=0∑k​3y⩾3k+1
+##### Example
+Theorem: For all $n\geqslant 1$, $\Large\sum\limits_{y=0}^n3^y < 3^{n+1}$
+1. Base Case: $n=1$ is true. It equals 9.
+2. If the theorem is false, there exists a smallest counter example. Call this counter example $k$. $\Large\sum\limits_{y=0}^k3^y < 3^{k+1}$
+3. Since $k-1$ doesnt correspond to a counterexample, 
 ## Direct Proofs
 
