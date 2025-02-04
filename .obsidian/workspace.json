@@ -52,8 +52,7 @@
               "title": "Set Theory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +247,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2927c4a744c549df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Discrete Proofs.md",
     "Logic.md",
     "Set Theory.md",
-    "Discrete Proofs.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Rats.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Liminal Animals.md",
