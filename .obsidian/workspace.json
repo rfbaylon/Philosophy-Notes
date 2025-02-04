@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "Logic"
             }
+          },
+          {
+            "id": "46294d87db20862b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -219,8 +229,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Set Theory.md",
     "Logic.md",
+    "Set Theory.md",
     "Discrete Proofs.md",
     "Misc/Images/Pasted image 20250203193459.png",
     "-Misc/Political Philosophy/(Un)civil Disobedience.md",
