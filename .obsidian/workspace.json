@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Cookie"
             }
+          },
+          {
+            "id": "64609f37cb3b42e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Logic"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +233,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "64609f37cb3b42e5",
   "lastOpenFiles": [
+    "Daily Life/Recipes/Cookie.md",
     "Logic.md",
     "Set Theory.md",
     "Discrete Proofs.md",
@@ -248,7 +265,6 @@
     "Misc/Images/Pasted image 20250126105650.png",
     "Misc/Images",
     "Misc",
-    "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Ethics/Normative Ethics/Realism/Other Approaches",
     "Critical Theory/Decolonial Studies",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
