@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,11 +248,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e09a66068bd908a3",
+  "active": "2927c4a744c549df",
   "lastOpenFiles": [
-    "Discrete Proofs.md",
     "Logic.md",
     "Set Theory.md",
+    "Discrete Proofs.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Pet Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Rats.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Liminal Animals.md",
