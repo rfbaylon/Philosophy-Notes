@@ -13,23 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic.md",
+                "file": "Daily Life/Recipes/Cookie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Logic"
-            }
-          },
-          {
-            "id": "46294d87db20862b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cookie"
             }
           }
         ]
