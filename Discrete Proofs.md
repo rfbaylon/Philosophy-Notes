@@ -1,3 +1,7 @@
+---
+Course: Discrete Mathematics
+---
+
 
 ## Existence Proofs
 Anything with the form $\exists x P(x)$

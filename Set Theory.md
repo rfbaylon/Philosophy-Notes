@@ -1,3 +1,6 @@
+---
+Course: Discrete Mathematics
+---
 
 
 ## Sets 

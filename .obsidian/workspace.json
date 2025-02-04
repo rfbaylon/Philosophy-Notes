@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Proofs.md",
+                "file": "Logic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Proofs"
+              "title": "Logic"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Proofs.md",
+                "file": "Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Discrete Proofs"
+              "title": "Backlinks for Logic"
             }
           }
         ],
@@ -215,9 +215,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Misc/Images/Pasted image 20250203193459.png",
     "Set Theory.md",
+    "Logic.md",
     "Discrete Proofs.md",
+    "Misc/Images/Pasted image 20250203193459.png",
     "-Misc/Political Philosophy/(Un)civil Disobedience.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "-Misc/Economics/Child Labor.md",
@@ -260,7 +261,6 @@
     "Bibliographical/Misc/Images/Pasted image 20231112132057.png",
     "Bibliographical/Misc/Images/e88081f3a3cc427db26811220e98575a.jpg",
     "Bibliographical/Misc/Images/Concept-of-integrated-research-in-urban-ecology-The-main-focus-must-be-on-the-human.png",
-    "Pasted image 20230223122746.jpg",
-    "Pasted image 20230223122758.jpg"
+    "Pasted image 20230223122746.jpg"
   ]
 }
