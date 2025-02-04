@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Math.md",
+                "file": "Discrete Proofs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Math"
+              "title": "Discrete Proofs"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Math.md",
+                "file": "Discrete Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Discrete Math"
+              "title": "Backlinks for Discrete Proofs"
             }
           }
         ],
@@ -216,6 +216,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Discrete Math.md",
+    "Discrete Proofs.md",
     "-Misc/Political Philosophy/(Un)civil Disobedience.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "-Misc/Economics/Child Labor.md",
@@ -244,7 +245,6 @@
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Ethics/Normative Ethics/Realism/Other Approaches",
     "-Misc/Political Philosophy/Sovereignty.md",
-    "Critical Theory/Decolonial Studies/Land Back.md",
     "Critical Theory/Decolonial Studies",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",
