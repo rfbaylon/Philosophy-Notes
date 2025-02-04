@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -111,10 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Environmental Studies/Industry and Environment/Electric Vehicles.md"
+                "file": "Logic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Electric Vehicles"
+              "title": "Outline of Logic"
             }
           },
           {
@@ -147,8 +151,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "90b39ef7b3753461",
@@ -193,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
