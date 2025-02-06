@@ -59,4 +59,12 @@ You want to prove something invoving $n$. There are 3 steps.
 1. Base cases: n=1 & n=2 are trivially true
 2. Assume $F\small n-1$ $\leq 1.7^{n-1}$ and  $F\small n-2$ $\leq 1.7^{n-2}$
 
-But be careful, not all proofs by induction require just one base case or one inductive step!
+But be careful:
+- not all proofs by induction require just one base case or one inductive step!
+	- Sometimes claim $n$ relies on multiple smaller claims, and for each of those claims will need a base case.
+	- You need one base case per inductive hypothesis
+- You cant bridge the gap between $n$ and $n-1$  by using a finite example (eg 99-100)
+- Sometimes you will see the inductive step assuming that claim $n$ is known and using it to prove $n+1$. This is the same as the above method, its a matter of style. 
+- The base case is not always the smallest number.
+	- Sometimes a claim is true only for larger values (eg $2^n > n^5$)
+	- Sometimes $n$ just wont rely on the smallest instance
