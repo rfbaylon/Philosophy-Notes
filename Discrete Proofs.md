@@ -53,3 +53,10 @@ You want to prove something invoving $n$. There are 3 steps.
 1. Assume that its true if you have $n-1$ (**Inductive Hypothesis**)
 2. Prove that assumption 1 helps (**Inductive Step**)
 3. Prove what you need for a small value (**Base Case)**
+
+**Example:** Prove for all $n'  Fn \geq 1.7^n$
+"For all fibonacci numbers greater than or equal to 2, prove the $n$th fibonacci number is $\leq 1.7^n$" 
+1. Base cases: n=1 & n=2 are trivially true
+2. Assume $F\small n-1$ $\leq 1.7^{n-1}$ and  $F\small n-2$ $\leq 1.7^{n-2}$
+
+But be careful, not all proofs by induction require just one base case or one inductive step!

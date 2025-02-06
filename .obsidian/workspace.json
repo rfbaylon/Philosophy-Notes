@@ -37,8 +37,7 @@
               "title": "Mom's Banana Bread"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +232,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "98c04522ffa47d7d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Discrete Proofs.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
+    "Discrete Proofs.md",
     "Sebo.md",
     "Logic.md",
     "Set Theory.md",
