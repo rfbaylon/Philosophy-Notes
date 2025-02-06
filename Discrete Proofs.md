@@ -1,8 +1,6 @@
 ---
 Course: Discrete Mathematics
 ---
-
-
 ## Existence Proofs
 Anything with the form $\exists x P(x)$
 (there exists an x such that...)
@@ -44,3 +42,14 @@ Further, If N objects are placed into k boxes, then there is at least one box co
 
 **Example**: Among 100 people there are at least (100 / 12) = 9 who were born in the same month.
 People are the pigeons, months are the holes.
+
+## Proof By Induction
+
+If we tip the first domino, the nth domino falls as well.
+If we tip the $k$ domino, the $k+1$ domino falls as well.
+Likewise, if we tip the first domino (let $n$ be the last domino), $n-1$ falls. If $n-1$ falls, $n$ falls.
+
+You want to prove something invoving $n$. There are 3 steps.
+1. Assume that its true if you have $n-1$ (**Inductive Hypothesis**)
+2. Prove that assumption 1 helps (**Inductive Step**)
+3. Prove what you need for a small value (**Base Case)**
