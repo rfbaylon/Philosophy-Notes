@@ -25,7 +25,7 @@ either way, both are equal to $\theta$(largest term)
 
 ## Harmonic Sums
 
-$\large\sum_{i=1}^n \frac{1}{i} = n$th harmonic number = ~
+$\large\sum_{i=1}^n \frac{1}{i} = n$th harmonic number = ~$\ln n$
 ## Telescoping Sums
 
 $\large\sum_{i=1}^n (F_{i} - F_{i-1}) = F_{n} - F_{0}$
