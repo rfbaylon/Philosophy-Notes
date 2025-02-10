@@ -4,19 +4,19 @@
 
 
 1. Mix the following until fluffy
-- [ ] 9.5 oz (270g) light brown sugar
-- [ ] 4.5 oz (128g) white sugar
-- [ ] 2.5 sticks clarified butter
-2. Add and mix
+- [x] 9.5 oz (270g) light brown sugar
+- [x] 4.5 oz (128g) white sugar
+- [x] 2.5 sticks clarified butter
+1. Add and mix
 - [ ] 2tsp vanilla extract
 - [ ] 2 eggs
-3. In a different bowl, combine
-- [ ] 11.5 oz (325g) all purpose flour
-- [ ] half tsp baking soda
-- [ ] half tsp baking powder
-- [ ] 1 tbsp salt
-- [ ] 30g coffee groundsl
+2. In a different bowl, combine
+- [x] 11.5 oz (325g) all purpose flour
+- [x] half tsp baking soda
+- [x] half tsp baking powder
+- [x] 1 tbsp salt
+- [ ] 30g coffee grounds
 - [ ] 12 oz (340g) chocolate chips
-4. Add dry ingredients to wet ingredients
-5. Let dough cool for an hour
-6. Bake at 375 for 15 minutes
+3. Add dry ingredients to wet ingredients
+4. Let dough cool for an hour
+5. Bake at 375 for 15 minutes

@@ -4,7 +4,7 @@
 
 Considerations:
 - [ ] Does the family of the victims want it to be shown?
-- [ ] Link to [[Uncivil Disobedience]]; Is this a long-standing issue that is getting nowhere? Is this how we escalate the issue?
+- [ ] Link to [[(Un)civil Disobedience]]; Is this a long-standing issue that is getting nowhere? Is this how we escalate the issue?
 - [ ] Is the image well shot (does it even need to be an image?)
 - [ ] Is it something the reader can take action about?
 
