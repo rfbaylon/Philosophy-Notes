@@ -8,7 +8,9 @@
 ## Ethics Bowl
 - [[Self Diagnosis]]
 - [[Invasive Species]]
-- [[Gore in Journalism]]
+- [[Visceral Journalism]]
+- [[Child Labor]]
+- 
 ## Blogs
 (pubbed or WIP)
 - [[Why I Don't Read the News]]
@@ -22,6 +24,12 @@
 
 [[Zoopolis]]
 - [[Donaldson]] & [[Kymlicka]]
+- [[Animal Politics]]
+- [[Pet Ethics]]
+
+[[
+- [[Land Back]]
+- 
 
 [[The Minority Body]]
 - [[Barnes]]

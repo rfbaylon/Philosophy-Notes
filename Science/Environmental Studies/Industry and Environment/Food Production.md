@@ -7,3 +7,6 @@ Farmland now covers one quarter of land on earth.
 
 70% of water use world wide is agricultural
 	Ecosystems and Human Wellbeing
+
+1/3 of all food is destroyed by [[Rats]]
+	[[Rats (Book)]] 11

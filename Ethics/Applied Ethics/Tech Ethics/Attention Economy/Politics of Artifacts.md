@@ -14,6 +14,14 @@ There are 4 ways technology impacts human behavior
 
 "Things are in the saddle/And ride mankind" - [[Emerson]]
 
+"Even as our technologies become extensions of ourselves, we become extensions of our technologies. When the carpenter takes his hammer into his hand, he can use that hand only to do what a hammer can do. The hand becomes an implement for pounding and pulling nails. When the soldier putes the binoculars to his eyes, he can see only what the lenses allow him to see. His field of view lengthens, but he becomes blind to whats nearby. [[Nietzsche]]'s experience with his typewriter provides a particularly good illustration of the way technologies exert their influence on us. Not only did the philosopher come to imagine that his writing ball was "a thing like me" he also sensed that he was becoming a thing like it, that his typewriter was shaping his thoughts."
+	[[The Shallows]], 183
+
+"Our tools end up 'numbing' whatever part of our body they 'amplify.' - [[McLuhan]]
+
+"The tide of technological revolution (could) "so captivate, bewitch, dazzle, and beguile man that calculative thinking may someday come to be accepted and practiced as the *only way of thinking*... The frenziedness of technology threatens to entrench itself everywhere" - [[Heidegger]]
+	[[The Shallows]] 193
+
 ### The medium is the message
 See [[The Shallows]], [[McLuhan]]
 "Our conventional response to all media, namely that it is how they are used that counts, is the numb stance of the technological idiot. The content of a medium is just the juicy piece of meat carried by the burglar to distract the watchdog of the mind"
@@ -53,3 +61,11 @@ Mechanical tomato harvesters became the new norm as they saved money by not requ
 The desire for accurate time keeping came from Christian monks in the Middle Ages, who maintained a rigorous schedule of prayer. As clocks spread, bells came to not just signify, but define meal times, market closures, assemblies, and cleanings. As each town became standardized, they then looked to standardize among other towns. 
 
 The miniturization of clocks (watches) made life more private, as well as acted as a constant monitor of time spent, time lost stimulating the early industrial culture.
+
+"In deciding when to eat to work, to sleep, to wake up, we stopped listening to our senses and started obeying the clock. We became a lot more scientific, but we became a lot more mechanical as well."
+	[[The Shallows]] 285
+
+### Computers
+
+"The computer was not a prerequisite to the survivla of modern society in the post-war period and beyond. Its entusiastic, uncritical em;brace by the most progressive elements of American government, business, and industry made it a resource essential to society's survival *in the form* that the computer itself had been instrumental in shaping"
+	[[The Shallows]] 182
