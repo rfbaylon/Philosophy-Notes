@@ -24,3 +24,5 @@ If $f(n) \geq cn^3$ then $f(n) = \Omega(n^3)$
 # Theta
 If $f(n) =O(g(n))$ and $f(n) =\Omega(g(n))$ then $f(n) =\Theta(g(n))$
 
+**Example**
+![[Pasted image 20250210193207.png]]
