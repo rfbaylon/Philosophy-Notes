@@ -24,7 +24,12 @@ Where there are terms in brackets, you find the Big O of each bracket and multip
 
 Example:
 **Prove $3n^2 + n + 2 = O(n^2)$**
-This is equivalent to $3n^2 + n + 2 = Cn^2$ for $n \geq K$
+This is equivalent to $3n^2 + n + 2 \leq Cn^2$ for $n \geq K$
+1. $3n^2 + n + 2 \leq 3n^2 + n^2 + 2n^2$
+	1. This is obviously true (and legal!) as each of the terms becomes bigger on the right.
+2. $3n^2 + n + 2 \leq 6n^2$
+3. This claim is true for $C=6$, $K=1$
+
 
 ### Omega
 The floor.
