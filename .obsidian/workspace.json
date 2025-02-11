@@ -31,9 +31,24 @@
               "icon": "lucide-file",
               "title": "Big O"
             }
+          },
+          {
+            "id": "853414fd48fc34e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big O.md",
+                "file": "Sorting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Big O"
+              "title": "Outline of Sorting"
             }
           },
           {
@@ -180,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big O.md",
+                "file": "Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Big O"
+              "title": "Backlinks for Sorting"
             }
           }
         ],
@@ -219,11 +234,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "63985f0a8f6ff380",
+  "active": "853414fd48fc34e7",
   "lastOpenFiles": [
+    "Sorting.md",
+    "Big O.md",
     "Misc/Images/Pasted image 20250210193207.png",
     "conflict-files-obsidian-git.md",
-    "Big O.md",
     "Discrete Proofs.md",
     "Summation.md",
     "Set Theory.md",
@@ -266,7 +282,6 @@
     "Bibliographical/Misc/Images/Pasted image 20231112132109.png",
     "Bibliographical/Misc/Images/Pasted image 20231112132057.png",
     "Bibliographical/Misc/Images/e88081f3a3cc427db26811220e98575a.jpg",
-    "Bibliographical/Misc/Images/Concept-of-integrated-research-in-urban-ecology-The-main-focus-must-be-on-the-human.png",
-    "Pasted image 20230223122746.jpg"
+    "Bibliographical/Misc/Images/Concept-of-integrated-research-in-urban-ecology-The-main-focus-must-be-on-the-human.png"
   ]
 }
