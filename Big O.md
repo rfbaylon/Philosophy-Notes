@@ -12,7 +12,7 @@ Dominance Hierarchy:
 - $\log^k n$
 - constants
 
-# Big O
+### Big O
 The ceiling.
 If $f(n) \leq cn^3$ then $f(n) = O(n^3)$
 Where there are terms in brackets, you find the Big O of each bracket and multiply them. For example, you could get a result like $O(n^.01 \cdot 3^n)$
@@ -21,17 +21,17 @@ Where there are terms in brackets, you find the Big O of each bracket and multip
 - We can do simple arithmetic in O(1) time. 
 - We care only about what happens at unimaginably large input sizes
 - We focus on only worst-case time/space complexity.
-# Omega
+### Omega
 The floor.
 If $f(n) \geq cn^3$ then $f(n) = \Omega(n^3)$
 
-# Theta
+### Theta
 
 If $f(n) =O(g(n))$ and $f(n) =\Omega(g(n))$ then $f(n) =\Theta(g(n))$
 The constants and $n_1$ dont need to be the same between the O and Omega, but they could be. 
 
-
-
-
 **Example**
 ![[Pasted image 20250210193207.png]]
+
+
+## Proof by Exaggerate and Simplify
