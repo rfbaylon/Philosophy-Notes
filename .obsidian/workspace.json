@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Big O.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Big O"
             }
           },
           {
@@ -180,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Big O"
             }
           }
         ],
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +219,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8c386b157110e532",
+  "active": "63985f0a8f6ff380",
   "lastOpenFiles": [
-    "Big O.md",
     "conflict-files-obsidian-git.md",
+    "Big O.md",
     "Discrete Proofs.md",
     "Summation.md",
     "Set Theory.md",
