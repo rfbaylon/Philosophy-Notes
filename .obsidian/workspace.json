@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting.md",
+                "file": "Big O.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sorting"
+              "title": "Outline of Big O"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting.md",
+                "file": "Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorting"
+              "title": "Backlinks for Big O"
             }
           }
         ],
@@ -234,7 +234,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "853414fd48fc34e7",
+  "active": "63985f0a8f6ff380",
   "lastOpenFiles": [
     "Sorting.md",
     "Big O.md",

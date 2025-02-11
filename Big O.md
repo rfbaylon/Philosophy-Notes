@@ -21,6 +21,11 @@ Where there are terms in brackets, you find the Big O of each bracket and multip
 - We can do simple arithmetic in O(1) time. 
 - We care only about what happens at unimaginably large input sizes
 - We focus on only worst-case time/space complexity.
+
+Example:
+**Prove $3n^2 + n + 2 = O(n^2)$**
+This is equivalent to $3n^2 + n + 2 = Cn^2$ for $n \geq K$
+
 ### Omega
 The floor.
 If $f(n) \geq cn^3$ then $f(n) = \Omega(n^3)$
