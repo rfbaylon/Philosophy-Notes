@@ -1,7 +1,6 @@
 # Modifying Summations
 $\large\sum_{i=0}^n x^i = \large\sum_{i=1}^{n+1} x^{i-1}$
 
-
 # Common Sums
 ## Geometric Sums
 The most focus on in Discrete, used all the time in algorithms
