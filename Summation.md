@@ -8,7 +8,7 @@ The most focus on in Discrete, used all the time in algorithms
 $x \neq 1$
 $\large\sum_{i=0}^n x^i = \frac{x^{n+1} - 1}{x-1}$
 
-$\large\sum_{i=1}^n x^i = \frac{x^{n+1} - 1}{x-1}$
+$\large\sum_{i=1}^n x^i = x\frac{x^{n} - 1}{x-1}$
 
 $x = \frac{1}{2}$ no matter the $n$ is always approaching $2$
 $x = 2$ no matter the $n$ is $2^{n+1} -1$
