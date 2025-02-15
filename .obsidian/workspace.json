@@ -52,7 +52,8 @@
               "title": "Sorting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summation.md",
+                "file": "Big O.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summation"
+              "title": "Outline of Big O"
             }
           },
           {
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summation.md",
+                "file": "Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summation"
+              "title": "Backlinks for Big O"
             }
           }
         ],
@@ -238,10 +239,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e0b357860c70b3a4",
+  "active": "63985f0a8f6ff380",
   "lastOpenFiles": [
-    "Big O.md",
     "Summation.md",
+    "Big O.md",
     "Sorting.md",
     "Misc/Images/Pasted image 20250210193207.png",
     "conflict-files-obsidian-git.md",
