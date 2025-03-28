@@ -18,18 +18,18 @@
             }
           },
           {
-            "id": "f3e268e41a3530cb",
+            "id": "86469ddfeb84e214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combinitorics.md",
+                "file": "Meditation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Combinitorics"
+              "title": "Meditation"
             }
           }
         ],
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -148,8 +147,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summation.md",
+                "file": "Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summation"
+              "title": "Backlinks for Meditation"
             }
           }
         ],
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +217,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3e268e41a3530cb",
+  "active": "86469ddfeb84e214",
   "lastOpenFiles": [
+    "Meditation.md",
     "Combinitorics.md",
     "Summation.md",
     "Big O.md",
@@ -253,7 +252,6 @@
     "Critical Theory/Decolonial Studies/Decolonization.md",
     "Critical Theory/Decolonial Studies/Colonial Ideology.md",
     "Critical Theory/Decolonial Studies",
-    "Bibliographical/Books/2024/Rats (Book).md",
     "Science/Psychology",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",
     "Bibliographical/Books/2025",

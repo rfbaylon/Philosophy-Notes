@@ -1288,7 +1288,6 @@ var import_obsidian4 = __toModule(require("obsidian"));
 var EmbedSuggest = class extends import_obsidian4.EditorSuggest {
   constructor(app, plugin) {
     super(app);
-    this.app = app;
     this.plugin = plugin;
   }
   getSuggestions(context) {
@@ -1415,7 +1414,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
         });
       });
       this.registerMarkdownCodeBlockProcessor("embed", (source, el, ctx) => {
-        const info = (0, import_obsidian5.parseYaml)(source.trim());
+        const info = (0, import_obsidian5.parseYaml)(source.replace(/^\s+|\s+$/gm, ""));
         const html = HTMLTemplate.replace(/{{title}}/gm, info.title).replace(/{{{image}}}/gm, info.image).replace(/{{description}}/gm, info.description).replace(/{{{url}}}/gm, info.url);
         let parser = new DOMParser();
         var doc = parser.parseFromString(html, "text/html");
@@ -1526,3 +1525,5 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
  * http://github.com/janl/mustache.js
  */
 /*! https://mths.be/he v1.2.0 by @mathias | MIT license */
+
+/* nosourcemap */
