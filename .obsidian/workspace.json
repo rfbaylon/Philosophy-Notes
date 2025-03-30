@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meditation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meditation"
             }
           }
         ]
@@ -163,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting.md",
+                "file": "Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +178,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorting"
+              "title": "Backlinks for Meditation"
             }
           }
         ],
@@ -181,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +208,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Discrete Proofs.md",
     "Sorting.md",
+    "Set Theory.md",
+    "README.md",
+    "Discrete Proofs.md",
+    "Logic.md",
     "Meditation.md",
     "Combinitorics.md",
     "Summation.md",
     "Big O.md",
     "Misc/Images/Pasted image 20250210193207.png",
     "conflict-files-obsidian-git.md",
-    "Set Theory.md",
     "Misc/Images/Pasted image 20250203193459.png",
-    "Logic.md",
     "-Misc/Political Philosophy/(Un)civil Disobedience.md",
     "Home/To Sort/My Util Proof.md",
     "-Misc/Economics/Child Labor.md",
@@ -235,7 +240,6 @@
     "Critical Theory/Decolonial Studies/Land Back.md",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Critical Theory/Decolonial Studies/Decolonization.md",
-    "Critical Theory/Decolonial Studies/Colonial Ideology.md",
     "Critical Theory/Decolonial Studies",
     "Science/Psychology",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy",

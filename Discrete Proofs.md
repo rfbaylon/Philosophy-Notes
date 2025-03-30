@@ -39,7 +39,7 @@ If k is a positive integer and k + 1 or more objects are placed into k boxes, th
 ![[Pasted image 20250203193459.png]]
 
 Further, If N objects are placed into k boxes, then there is at least one box containing at least (N / k) objects.
-
+ 
 **Example**: Among 100 people there are at least (100 / 12) = 9 who were born in the same month.
 People are the pigeons, months are the holes.
 
