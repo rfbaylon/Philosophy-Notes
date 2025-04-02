@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Combinitorics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Combinitorics"
             }
           }
         ]
@@ -163,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Combinitorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +178,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Combinitorics"
             }
           }
         ],
@@ -202,6 +208,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Misc/Images/Pasted image 20250402095649.png",
     "Meditation.md",
     "Philosophy-Notes/Summation.md",
     "Philosophy-Notes/Sorting.md",
@@ -230,7 +237,6 @@
     "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change",
     "Philosophy-Notes/Science/Ecology/Urban Ecology",
     "Philosophy-Notes/Science/Ecology/Key Terms.md",
-    "Philosophy-Notes/Science/Ecology/Ecosystem Services.md",
     "Philosophy-Notes/Science/Data Science/Libraries",
     "Philosophy-Notes/Science/Math",
     "Philosophy-Notes/Science/Environmental Studies",
