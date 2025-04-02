@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meditation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Meditation"
+              "title": "New tab"
             }
           }
         ]
@@ -168,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meditation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meditation"
+              "title": "Backlinks"
             }
           }
         ],
@@ -208,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Meditation.md",
     "Philosophy-Notes/Summation.md",
     "Philosophy-Notes/Sorting.md",
     "Philosophy-Notes/Set Theory.md",
@@ -236,7 +231,6 @@
     "Philosophy-Notes/Science/Ecology/Urban Ecology",
     "Philosophy-Notes/Science/Ecology/Key Terms.md",
     "Philosophy-Notes/Science/Ecology/Ecosystem Services.md",
-    "Philosophy-Notes/Science/Data Science/Python Data Types.md",
     "Philosophy-Notes/Science/Data Science/Libraries",
     "Philosophy-Notes/Science/Math",
     "Philosophy-Notes/Science/Environmental Studies",
