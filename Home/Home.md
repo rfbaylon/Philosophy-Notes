@@ -28,6 +28,11 @@
 - [[Pet Ethics]]
 
 [[Walden]]
+- [[Thoreau]]
+- [[Specialization]]
+- [[Education]]
+- [[Indigenous Epistemology]]
+- [[Ubermensch]]
 
 [[The Minority Body]]
 - [[Barnes]]
