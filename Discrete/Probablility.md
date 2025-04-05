@@ -16,3 +16,14 @@ P(A $\lor$ B) = P(A) + P(B) - P(A $\land$ B)
 
 Generalized here:
 ![[Pasted image 20250405092254.png]]
+# Conditional Probability
+| means 'given that,' and is completely different from $\cap$. What it does is reduce the sample space from $(B \cup \lnot B)$ to just B. So B effectively equals 1.
+
+$P (A | B) = \frac{P(A \cup B)}{P(B)}$
+
+When the unconditional and conditional probability are the same, event A is independent of event B. The chances of B dont at all impact the chances of A.
+
+Example: what are the odds of the first of 3 coin flips being heads given that the third is heads?
+
+base: 1/2
+$P(A|B) = 
