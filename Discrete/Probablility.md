@@ -19,11 +19,23 @@ Generalized here:
 # Conditional Probability
 | means 'given that,' and is completely different from $\cap$. What it does is reduce the sample space from $(B \cup \lnot B)$ to just B. So B effectively equals 1.
 
-$P (A | B) = \frac{P(A \cup B)}{P(B)}$
+$P (A | B) = \frac{P(A \cap B)}{P(B)}$
+Similarly,
+$P(B) \cdot P(A|B) = P(A \cap B)$
+This is useful to find out the odds of both events happening.
 
+This can be generalized to 3 variables as follows
+1. $P(A \cap B \cap C) = P((A \cap B) \cap C)$
+2. $= P(A \cap B) \cdot P(C | (A \cap B))$
+ 3. $= P(A) \cdot P(B|A) \cdot P(C | (A \cap B))$
+
+This also makes sense in english: "The prob of A times the prob of B given A times the prob of C given A and B"
+
+**independence**
 When the unconditional and conditional probability are the same, event A is independent of event B. The chances of B dont at all impact the chances of A.
 
 Example: what are the odds of the first of 3 coin flips being heads given that the third is heads?
 
-base: 1/2
-$P(A|B) = 
+base probability of $A$: 1/2
+$P(A|B) = \frac{2/8}{1/2}$ = 1/2
+Because these are equal, they are independent.
