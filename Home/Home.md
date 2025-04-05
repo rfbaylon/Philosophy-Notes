@@ -27,9 +27,7 @@
 - [[Animal Politics]]
 - [[Pet Ethics]]
 
-[[
-- [[Land Back]]
-- 
+[[Walden]]
 
 [[The Minority Body]]
 - [[Barnes]]

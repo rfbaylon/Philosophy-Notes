@@ -35,7 +35,7 @@ At the same time, this produces more for the capitalist. ([[Economies of Scale]]
 	"A shortage of hands is complained of, while, at the same time, many thousands are out of work, because the division of labor chains them to a particular branch of industry." ([[Capital Volume I]], 795)
 
 #### Causing Alienation from Products of Labor
-See [[Marx]]
+See [[Marx]], [[Specialization]]
 If someone spends their entire life making one tiny part of a product, they have no attachment to the product in the end as they only see themselves as a very small part of the final product. The product is far from *their* work. 
 
 ### [[Automation]]

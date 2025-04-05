@@ -23,17 +23,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Probablility.md",
+                "file": "-Misc/Economics/Specialization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Probablility"
+              "title": "Specialization"
+            }
+          },
+          {
+            "id": "3aec7ea388b7459c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoreau.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Thoreau"
+            }
+          },
+          {
+            "id": "b101dd16cc8181e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walden.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Walden"
+            }
+          },
+          {
+            "id": "87f63757a6f342d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/QUOTES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "QUOTES"
+            }
+          },
+          {
+            "id": "6dcdac67ac548eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Life/Focus & Work/College.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "College"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,8 +144,8 @@
               "state": {
                 "file": "Home/Home.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Home"
@@ -101,7 +161,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Probablility.md",
+                "file": "Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Probablility"
+              "title": "Backlinks for Home"
             }
           }
         ],
@@ -217,11 +278,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aad60ea630360608",
+  "active": "884847b8913874b1",
   "lastOpenFiles": [
+    "Daily Life/Focus & Work/College.md",
+    "-Misc/Economics/Specialization.md",
+    "Thoreau.md",
+    "Walden.md",
+    "Home/QUOTES.md",
+    "-Misc/Economics/Metaeconomics/Socialism/Economic Alienation.md",
+    "-Misc/Economics/Macroeconomics/Economies of Scale.md",
+    "-Misc/Economics/Metaeconomics/Socialism/Contradictions in Capitalism.md",
+    "Discrete/Probablility.md",
     "Misc/Images/Pasted image 20250405092254.png",
     "Discrete/Combinitorics.md",
-    "Discrete/Probablility.md",
     "Discrete/Big O.md",
     "Discrete/Set Theory.md",
     "Logic.md",
@@ -240,13 +309,6 @@
     "Philosophy-Notes/Science/Ecology/Urban Ecology/Urban Ecological Diversity.md",
     "Philosophy-Notes/Science/Ecology/Urban Ecology/Urban Climate Change.md",
     "Philosophy-Notes/Science/Ecology/Urban Ecology/Unique Urban Ecological Issues.md",
-    "Philosophy-Notes/Science/Ecology/Urban Ecology/Related Ecologies.md",
-    "Philosophy-Notes/Science/Ecology/Urban Ecology/Global Urbanization.md",
-    "Philosophy-Notes/Science/Ecology/Urban Ecology/General Urban Ecology.md",
-    "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change/Climate Change and People.md",
-    "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change/Climate Change and Ecosystems.md",
-    "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change/Broad Climate Changes.md",
-    "Philosophy-Notes/Science/Data Science/Libraries/Pandas.md",
     "Philosophy-Notes/Science/Environmental Studies/Industry and Environment",
     "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change",
     "Philosophy-Notes/Science/Ecology/Urban Ecology",
@@ -264,7 +326,6 @@
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 2.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 1.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire Images (Edited)/Lacan Graph 1 Edited.png",
-    "Philosophy-Notes/Bibliographical/Misc/Images/virtues.webp",
     "Untitled.canvas"
   ]
 }

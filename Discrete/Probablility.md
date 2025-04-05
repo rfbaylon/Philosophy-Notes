@@ -31,7 +31,9 @@ This can be generalized to 3 variables as follows
 
 This also makes sense in english: "The prob of A times the prob of B given A times the prob of C given A and B"
 
-**independence**
+#### Independence
+A & B are independent iff $P(A \cap B) = P(A) \cdot P(B)$
+
 When the unconditional and conditional probability are the same, event A is independent of event B. The chances of B dont at all impact the chances of A.
 
 Example: what are the odds of the first of 3 coin flips being heads given that the third is heads?
