@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinitorics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Combinitorics"
+              "title": "New tab"
             }
           }
         ]
@@ -168,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combinitorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +172,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Combinitorics"
+              "title": "Backlinks"
             }
           }
         ],
@@ -208,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Combinitorics.md",
     "Misc/Images/Pasted image 20250402095649.png",
     "Meditation.md",
     "Philosophy-Notes/Summation.md",
@@ -253,7 +248,6 @@
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 1.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire Images (Edited)/Lacan Graph 1 Edited.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/virtues.webp",
-    "Philosophy-Notes/Bibliographical/Misc/Images/e88081f3a3cc427db26811220e98575a.jpg",
     "Untitled.canvas"
   ]
 }
