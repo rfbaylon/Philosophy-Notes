@@ -326,10 +326,7 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b32225ba0331021c",
