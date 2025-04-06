@@ -1,4 +1,5 @@
 test
+
 #MyStance Pragmatically, it seems useful to think of autism as more than a disease. It can enhance self-understanding, provide an explanation for behavior, be the basis for an identity, be used for socializing with likeminded people, be useful in scientific research, decide who is eligible for state benefits, guide medication, form political movements, and more (Fellowes, 2024, p 24). 
 It makes most sense then, to talk about autism as a set of behaviors rather than there diagnostic slip. Given this, we would argue that it would make sense to extend Judith [[Butler]]'s performativity thesis to madness.
 
