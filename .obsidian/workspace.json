@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical Theory/Disability Theory/Self Diagnosis.md",
+                "file": "Discrete/Probablility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Self Diagnosis"
+              "title": "Probablility"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Critical Theory/Disability Theory/Self Diagnosis.md",
+                "file": "Discrete/Probablility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Self Diagnosis"
+              "title": "Backlinks for Probablility"
             }
           }
         ],
@@ -209,9 +209,11 @@
   },
   "active": "bb6a4386ac67c99f",
   "lastOpenFiles": [
+    "Discrete/Combinitorics.md",
+    "Critical Theory/Disability Theory/Self Diagnosis.md",
+    "Untitled",
     "Untitled.md",
     "Personal",
-    "Critical Theory/Disability Theory/Self Diagnosis.md",
     "Ubermensch.md",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Meditation.md",
@@ -229,7 +231,6 @@
     "-Misc/Economics/Metaeconomics/Socialism/Contradictions in Capitalism.md",
     "Discrete/Probablility.md",
     "Misc/Images/Pasted image 20250405092254.png",
-    "Discrete/Combinitorics.md",
     "Discrete/Big O.md",
     "Discrete/Set Theory.md",
     "Discrete",
@@ -245,7 +246,6 @@
     "Philosophy-Notes/Science/Math",
     "Philosophy-Notes/Science/Environmental Studies",
     "Philosophy-Notes/Science/Ecology",
-    "Philosophy-Notes/Science/Data Science",
     "Philosophy-Notes/Misc/Images/Pasted image 20250210193207.png",
     "Philosophy-Notes/Misc/Images/Pasted image 20250203193459.png",
     "Philosophy-Notes/Misc/Images/Pasted image 20250126105650.png",

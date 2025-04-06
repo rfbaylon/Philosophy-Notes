@@ -41,3 +41,8 @@ Example: what are the odds of the first of 3 coin flips being heads given that t
 base probability of $A$: 1/2
 $P(A|B) = \frac{2/8}{1/2}$ = 1/2
 Because these are equal, they are independent.
+
+## Bayes' Theorem
+
+$P(A|B) = \frac{P(A \cap B}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}$
+
