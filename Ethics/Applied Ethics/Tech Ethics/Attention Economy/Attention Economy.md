@@ -25,3 +25,9 @@ Similar findings were found for parents in [a later study](https://www.commonsen
 
 
 
+# Information Ecosystems
+
+“Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.”
+― Frank Herbert, Dune
+
+https://youtu.be/QEJpZjg8GuA?feature=shared
