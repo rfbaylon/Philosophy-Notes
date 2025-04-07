@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
+                "file": "Meditation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Attention Economy"
+              "title": "Meditation"
             }
           }
         ],
@@ -225,6 +225,7 @@
   },
   "active": "2639e604a150cc63",
   "lastOpenFiles": [
+    "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
     "Daily Life/Technology/Digital Minimalism.md",
     "Discrete/Combinitorics.md",
     "Discrete/Probablility.md",
@@ -255,7 +256,6 @@
     "Philosophy-Notes/Summation.md",
     "Philosophy-Notes/Sorting.md",
     "Philosophy-Notes/Set Theory.md",
-    "Philosophy-Notes/Science/Environmental Studies/Industry and Environment/Food Production.md",
     "Philosophy-Notes/Science/Environmental Studies/Industry and Environment",
     "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change",
     "Philosophy-Notes/Science/Ecology/Urban Ecology",
