@@ -46,3 +46,14 @@ Because these are equal, they are independent.
 
 $P(A|B) = \frac{P(A \cap B}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}$
 
+# Expected Value
+Expected Value = Amount of things * the odds of those things happening.
+For example:
+![[Pasted image 20250408124424.png]]
+That bottom number is 36
+
+### Linearity of Expected Value
+$E[X + Y] = E[X] + E[Y]$
+
+More generally,
+$E[\Sigma X_i] = \Sigma E[X_i]$
