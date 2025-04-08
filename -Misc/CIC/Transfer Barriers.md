@@ -1,4 +1,4 @@
-[[home]]
+[[Home]]
 
 Call w Art
 Art has been w DHE for 14 months

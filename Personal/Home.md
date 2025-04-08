@@ -3,6 +3,7 @@
 [[TODO]]
 [[QUICKNOTES]]
 [[QUOTES]]
+[[WRITING IDEAS]]
 
 ---
 ## Ethics Bowl

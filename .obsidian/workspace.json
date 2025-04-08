@@ -28,17 +28,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/Focus & Work/Productivity.md",
+                "file": "Personal/Writing Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Productivity"
+              "title": "Writing Ideas"
+            }
+          },
+          {
+            "id": "40fffd0512faab8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "b816815dce3078ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Writing Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Ideas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Home.md",
+                "file": "Personal/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -223,15 +253,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2639e604a150cc63",
+  "active": "1f6a9cbe9fb423a3",
   "lastOpenFiles": [
-    "Discrete/Probablility.md",
-    "Daily Life/Focus & Work/Productivity.md",
     "Misc/Images/Pasted image 20250408124424.png",
+    "Misc/Images/Pasted image 20250405092254.png",
+    "Misc/Images/Pasted image 20250402095649.png",
+    "Misc/Images/Pasted image 20250210193207.png",
+    "Misc/Images/Pasted image 20250203193459.png",
+    "Misc/Images/Pasted image 20250126105650.png",
+    "Misc/Images",
+    "Misc",
+    "Daily Life/Technology/Digital Minimalism.md",
+    "Personal/Writing Ideas.md",
+    "README.md",
+    "Personal/Home.md",
+    "Personal/TODO.md",
+    "Daily Life/Focus & Work/Productivity.md",
+    "Discrete/Probablility.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "Meditation.md",
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
-    "Daily Life/Technology/Digital Minimalism.md",
     "Discrete/Combinitorics.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
     "Untitled",
@@ -240,37 +281,26 @@
     "Ubermensch.md",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Daily Life/Focus & Work/College.md",
-    "Home/QUOTES.md",
+    "Personal/QUOTES.md",
     "Walden.md",
     "Thoreau.md",
     "-Misc/Economics/Specialization.md",
-    "Home/Home.md",
     "Education.md",
-    "README.md",
     "Logic.md",
     "-Misc/Economics/Metaeconomics/Socialism/Economic Alienation.md",
     "-Misc/Economics/Macroeconomics/Economies of Scale.md",
     "-Misc/Economics/Metaeconomics/Socialism/Contradictions in Capitalism.md",
-    "Misc/Images/Pasted image 20250405092254.png",
-    "Discrete/Big O.md",
-    "Discrete/Set Theory.md",
     "Discrete",
-    "Misc/Images/Pasted image 20250402095649.png",
-    "Philosophy-Notes/Summation.md",
     "Philosophy-Notes/Science/Environmental Studies/Industry and Environment",
     "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change",
     "Philosophy-Notes/Science/Ecology/Urban Ecology",
     "Philosophy-Notes/Science/Data Science/Libraries",
     "Philosophy-Notes/Science/Math",
-    "Philosophy-Notes/Science/Environmental Studies",
-    "Philosophy-Notes/Science/Ecology",
     "Philosophy-Notes/Misc/Images/Pasted image 20250210193207.png",
     "Philosophy-Notes/Misc/Images/Pasted image 20250203193459.png",
     "Philosophy-Notes/Misc/Images/Pasted image 20250126105650.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 4.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 3.png",
-    "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 2.png",
-    "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 1.png",
     "Untitled.canvas"
   ]
 }
