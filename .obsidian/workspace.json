@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Writing Ideas.md",
+                "file": "Discrete/Probablility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Writing Ideas"
+              "title": "Probablility"
             }
           }
         ],
@@ -136,7 +136,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,8 +254,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1f6a9cbe9fb423a3",
+  "active": "b816815dce3078ed",
   "lastOpenFiles": [
+    "Personal/Writing Ideas.md",
     "Misc/Images/Pasted image 20250408124424.png",
     "Misc/Images/Pasted image 20250405092254.png",
     "Misc/Images/Pasted image 20250402095649.png",
@@ -264,7 +266,6 @@
     "Misc/Images",
     "Misc",
     "Daily Life/Technology/Digital Minimalism.md",
-    "Personal/Writing Ideas.md",
     "README.md",
     "Personal/Home.md",
     "Personal/TODO.md",
@@ -300,7 +301,6 @@
     "Philosophy-Notes/Misc/Images/Pasted image 20250203193459.png",
     "Philosophy-Notes/Misc/Images/Pasted image 20250126105650.png",
     "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 4.png",
-    "Philosophy-Notes/Bibliographical/Misc/Images/Lacan's Desire Images/Lacan's Desire images (OG)/Lacan Graph 3.png",
     "Untitled.canvas"
   ]
 }
