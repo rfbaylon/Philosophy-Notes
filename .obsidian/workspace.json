@@ -16,139 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "aad60ea630360608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Misc/Economics/Specialization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Specialization"
-            }
-          },
-          {
-            "id": "3aec7ea388b7459c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoreau.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Thoreau"
-            }
-          },
-          {
-            "id": "b101dd16cc8181e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walden.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Walden"
-            }
-          },
-          {
-            "id": "87f63757a6f342d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/QUOTES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "QUOTES"
-            }
-          },
-          {
-            "id": "6dcdac67ac548eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Life/Focus & Work/College.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "College"
-            }
-          },
-          {
-            "id": "d3ae01919db72390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meditation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Meditation"
-            }
-          },
-          {
-            "id": "2f188e85a1420e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Indigenous Epistemology"
-            }
-          },
-          {
-            "id": "b192b53a7d037b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubermensch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubermensch"
-            }
-          },
-          {
-            "id": "b32225ba0331021c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +85,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -332,10 +200,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b32225ba0331021c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ubermensch.md",
+    "Discrete/Combinitorics.md",
     "Home/Home.md",
+    "Ubermensch.md",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Meditation.md",
     "Walden.md",
@@ -351,7 +220,6 @@
     "-Misc/Economics/Metaeconomics/Socialism/Contradictions in Capitalism.md",
     "Discrete/Probablility.md",
     "Misc/Images/Pasted image 20250405092254.png",
-    "Discrete/Combinitorics.md",
     "Discrete/Big O.md",
     "Discrete/Set Theory.md",
     "Discrete",
