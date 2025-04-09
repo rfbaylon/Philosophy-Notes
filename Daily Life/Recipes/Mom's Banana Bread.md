@@ -18,3 +18,10 @@ Dry
 2. Mix dry ingredients
 3. Add dry to wet
 4. Pour in pan, bake at 350 degrees for 50 minutes to an hour.
+
+
+# Edits
+
+Halfed the sugar, didnt notice a difference. Worth doing in the future
+Added half scoop protein powder. made it thicker, but not bad. Its not a lot of protein though.
+DO NOT add 4 bananas without anything to counterbalance
