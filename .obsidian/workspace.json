@@ -11,10 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Grad/Scholarship for Service Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Scholarship for Service Notes"
             }
           }
         ]
@@ -204,6 +209,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Personal/Grad",
     "Personal/Adoption in Mass.md",
     "Personal/Home.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
@@ -216,7 +222,7 @@
     "Bibliographical/Books/2024/Walden.md",
     "Walden.md",
     "-Misc/Logic/Logic.md",
-    "Personal/Scholarship for Service.md",
+    "Personal/Grad/Scholarship for Service Notes.md",
     "Misc/Images/Pasted image 20250409133659.png",
     "Discrete/Probablility.md",
     "Misc/Images/Pasted image 20250408124424.png",
@@ -234,13 +240,11 @@
     "Ethics/Applied Ethics/Tech Ethics/Attention Economy/Attention Economy.md",
     "Discrete/Combinitorics.md",
     "Critical Theory/Disability Theory/Self Diagnosis.md",
-    "Untitled",
     "Personal",
     "-Misc/Existentialism/Ubermensch.md",
     "Critical Theory/Decolonial Studies/Indigenous Epistemology.md",
     "Daily Life/Focus & Work/College.md",
     "Personal/QUOTES.md",
-    "-Misc/Economics/Specialization.md",
     "Discrete",
     "Philosophy-Notes/Science/Environmental Studies/Industry and Environment",
     "Philosophy-Notes/Science/Environmental Studies/Impact of Climate Change",
