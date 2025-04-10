@@ -1,3 +1,9 @@
+Would consider international adoption / surrogacy
+Will cares a bit (how much?) about genetic connection
+What are the protectoins for the kids regarding adoption? 
+
+For next week, make a memo.
+"if this were wrong, heres where the problem would be"
 
 ## Surrogacy
 Start to finish, surrogacy takes about 14 months
@@ -13,7 +19,7 @@ Often, surrogacy is covered by insurance. Its worth checking employee benefits t
 https://www.mareinc.org/frequently-asked-questions
 https://adoptionswithlove.org/adoptive-parents/how-to-adopt-an-infant-in-massachusetts
 
-Costs between $2-3k
+DOUBLE CHECK COSTS!
 
 about 2 year wait time
 
