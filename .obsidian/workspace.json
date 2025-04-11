@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Grad/Scholarship for Service Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Scholarship for Service Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -209,6 +204,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Personal/Grad/Scholarship for Service Notes.md",
     "Personal/Grad",
     "Personal/Adoption in Mass.md",
     "Personal/Home.md",
@@ -222,7 +218,6 @@
     "Bibliographical/Books/2024/Walden.md",
     "Walden.md",
     "-Misc/Logic/Logic.md",
-    "Personal/Grad/Scholarship for Service Notes.md",
     "Misc/Images/Pasted image 20250409133659.png",
     "Discrete/Probablility.md",
     "Misc/Images/Pasted image 20250408124424.png",
