@@ -37,8 +37,7 @@
               "title": "Mom's Banana Bread"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Life/Recipes/Mom's Banana Bread.md",
+                "file": "Discrete/Combinitorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mom's Banana Bread"
+              "title": "Backlinks for Combinitorics"
             }
           }
         ],
@@ -224,10 +223,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "666bfe4804723beb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Discrete/Combinitorics.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
+    "Discrete/Combinitorics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md",
     "Bibliographical/Authors/Singer.md",

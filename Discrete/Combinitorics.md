@@ -43,3 +43,5 @@ $\large{\frac{n!}{(n-k)! \cdot k!}}$ = C(n,k)
 
 ## Unordered, Rep Unallowed
 
+AKA Multichoose, Stars and Bars
+ 
