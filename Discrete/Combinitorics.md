@@ -27,17 +27,24 @@ k=4: 1??? = 2^3
 3: 1?? = 2^2
 2: 1? = 2
 
+### Problems
+
+How many different license plate numbers with 3 letters followed by 3
+numbers are possible?
+Solution: $26^3 \cdot 10^3$
 
 ## Ordered, Rep Disallowed
-  if you have 7 hats to weat acaross 7 days, but you must wear a different hat every day.
-  This is equal to 7! (7 options first day, 6 the next, 5 the next etc)
 
-Its worth thinking about this as P(n,n) = $\large{\frac{n!}{(n-n)!} = \frac{n!}{1} = n!}$
+$\large{\frac{n!}{(n-k)!}}$ = P(n,k)
 
+### Problems
 if you have 2 hats to wear across 7 days, but a different hat must be worn every day
 This is equal to 7! / 5! (7 options first day, 6 the next, but there are no more days so it ends there)
 
-$\large{\frac{n!}{(n-k)!}}$ = P(n,k)
+if you have 7 hats to weat acaross 7 days, but you must wear a different hat every day.
+  This is equal to 7! (7 options first day, 6 the next, 5 the next etc)
+
+Its worth thinking about this as P(n,n) = $\large{\frac{n!}{(n-n)!} = \frac{n!}{1} = n!}$
 
 ## Unordered, Rep Allowed
 
@@ -49,3 +56,15 @@ AKA Multichoose, Stars and Bars
 
 
  $\large{\frac{(k+n-1)!}{((k+n-1)-k)! \cdot k!} = \frac{(n-1 + k)!}{(n-1)! \cdot k!}}$ = C(k+n-1, k)
+
+Or 
+
+ $\large{\frac{(k+n-1)!}{((k+n-1)-k)! \cdot k!} = \frac{(n-1 + k)!}{(n-1-k)! \cdot k!}}$ = C(k+n-1, n-1)
+
+### Problems
+
+You have 11 Biographies and 8 Mysteries that you want to arrange on your
+bookshelf, but no two mysteries can be adjacent to each other. How many different
+rearrangements are possible?
+C(8+11+1-1, 11+1-1) = C(19,11) = 
+(the +1 is because mysteries could be at front and back)
