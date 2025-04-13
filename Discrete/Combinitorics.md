@@ -5,10 +5,12 @@
 
 - OR: how many ways could we make a committee of 3 different roles from 12 people where each person hold any number of roles?
 	- 12^3
-- O~R:How many ways could we make a comittee of 3 different roles from 12 people where each person may only do one role?
+- O~R:How many ways could we make a committee of 3 different roles from 12 people where each person may only do one role?
 	- $=\large{\frac{12!}{9!}}$
 - ~O~R: How many ways could we form a committee of 3 people where all of the roles are shared from 12 people?
 	- $=\large{\frac{12!}{9! \cdot 3!}}$
+- ~OR: How many ways could we make a committee of 3 different roles with 12 different kinds of people?
+	- $=\large{\frac{12+3-1}{(3-1)!}}$
 
 ## Ordered, Rep Allowed
 h hats, t shirts, s shoes, j jeans
@@ -44,4 +46,6 @@ $\large{\frac{n!}{(n-k)! \cdot k!}}$ = C(n,k)
 ## Unordered, Rep Unallowed
 
 AKA Multichoose, Stars and Bars
- 
+
+
+ $\large{\frac{(k+n-1)!}{((k+n-1)-k)! \cdot k!} = \frac{(n-1 + k)!}{(n-1)! \cdot k!}}$ = C(k+n-1, k)
