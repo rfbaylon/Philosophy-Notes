@@ -47,8 +47,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete/Combinitorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Combinitorics"
             }
           }
         ],
@@ -233,10 +233,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4c7c42587d82b391",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Discrete/Combinitorics.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
+    "Discrete/Combinitorics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md",
     "Bibliographical/Authors/Singer.md",
