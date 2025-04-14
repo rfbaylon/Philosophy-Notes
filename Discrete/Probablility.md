@@ -31,6 +31,10 @@ This can be generalized to 3 variables as follows
 
 This also makes sense in english: "The prob of A times the prob of B given A times the prob of C given A and B"
 
+In general, when an experiment has $p$ chance of success and $1-p$ chance of failure, the probability of observing $k$ successes is $C(n,k) \cdot p^k \cdot (1-p)^{n-k}$
+
+each $n$ experiment is called a Bernoulli trial
+
 ## Independence
 A & B are independent iff $P(A \cap B) = P(A) \cdot P(B)$
 
