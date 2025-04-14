@@ -37,7 +37,8 @@
               "title": "Probablility"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +224,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8b3c5ba8c43852d",
   "lastOpenFiles": [
-    "Discrete/Probablility.md",
     "Discrete/Combinitorics.md",
+    "Discrete/Probablility.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/(Western) History of Animal Ethics.md",
