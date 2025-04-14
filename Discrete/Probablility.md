@@ -53,6 +53,7 @@ For a group of n people, what are the odds at least two have a matching birthday
 
 A useful upperbound is $C(n, 2) \cdot \frac{1}{365}$, especially for smaller n's
 
+Solution: $1-(1 \cdot \frac{364}{365} \cdot \frac{363}{365}... \cdot \frac{365-(n-1)}{365}$ =   $1-\frac{P(365, n)}{365^n}$
 
 # Expected Value
 Expected Value = Amount of things * the odds of those things happening.
