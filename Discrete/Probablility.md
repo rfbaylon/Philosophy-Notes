@@ -31,7 +31,7 @@ This can be generalized to 3 variables as follows
 
 This also makes sense in english: "The prob of A times the prob of B given A times the prob of C given A and B"
 
-#### Independence
+## Independence
 A & B are independent iff $P(A \cap B) = P(A) \cdot P(B)$
 
 When the unconditional and conditional probability are the same, event A is independent of event B. The chances of B dont at all impact the chances of A.
@@ -45,6 +45,14 @@ Because these are equal, they are independent.
 ## Bayes' Theorem
 
 $P(A|B) = \frac{P(A \cap B}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}$
+
+### Problems
+
+Birthday Problem
+For a group of n people, what are the odds at least two have a matching birthday?
+
+A useful upperbound is $C(n, 2) \cdot \frac{1}{365}$, especially for smaller n's
+
 
 # Expected Value
 Expected Value = Amount of things * the odds of those things happening.
