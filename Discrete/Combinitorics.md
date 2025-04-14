@@ -68,3 +68,10 @@ bookshelf, but no two mysteries can be adjacent to each other. How many differen
 rearrangements are possible?
 C(8+11+1-1, 11+1-1) = C(19,11) = 
 (the +1 is because mysteries could be at front and back)
+
+## Derangements
+A derangement is an arrangement where each value in positoin cannot be repeated.
+For example, from A, B, and C, the only derangements are ABC, CAB, and BCA.
+
+Derangement formula:
+$n!(1-\frac{1}{1!} + \frac{1}{2!} - ... + (-1)^n \frac{1}{n!}$

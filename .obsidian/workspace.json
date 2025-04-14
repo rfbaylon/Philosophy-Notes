@@ -37,8 +37,7 @@
               "title": "Probablility"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +223,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8b3c5ba8c43852d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Discrete/Probablility.md",
     "Discrete/Combinitorics.md",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
@@ -234,7 +234,6 @@
     "Bibliographical/Authors/Palmer.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Welfare.md",
     "Ethics/Value Theory/Nonhuman Welfares.md",
-    "Discrete/Probablility.md",
     "Personal/Grad/Scholarship for Service Notes.md",
     "Personal/Grad",
     "Personal/Adoption in Mass.md",
