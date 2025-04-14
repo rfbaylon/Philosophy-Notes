@@ -75,3 +75,6 @@ For example, from A, B, and C, the only derangements are ABC, CAB, and BCA.
 
 Derangement formula:
 $n!(1-\frac{1}{1!} + \frac{1}{2!} - ... + (-1)^n \frac{1}{n!}$
+
+This converges to $e^{-1}$ as $n$ gets bigger, making the simpler formula for the amount of derangements: $\large{\frac{n!}{e}}$
+Probability of a derangement: $\frac{1}{e}$
