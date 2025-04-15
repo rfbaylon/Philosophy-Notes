@@ -48,7 +48,7 @@ Because these are equal, they are independent.
 
 ## Bayes' Theorem
 
-$\large{P(A|B) = \frac{P(A \cap B}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}}$
+$\large{P(A|B) = \frac{P(A \cap B)}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}}$
 
 $\large{P(B) \cdot P(A|B) = P(A) \cdot P(B|A)}$
 
