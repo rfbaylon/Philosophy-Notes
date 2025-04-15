@@ -37,7 +37,8 @@
               "title": "Combinitorics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +224,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "afef31f6d5337e5c",
   "lastOpenFiles": [
-    "Discrete/Combinitorics.md",
     "Discrete/Probablility.md",
+    "Discrete/Combinitorics.md",
     "Misc/Images/Pasted image 20250415123033.png",
     "Daily Life/Recipes/Mom's Banana Bread.md",
     "Ethics/Applied Ethics/Environmental Ethics/Animal Ethics/Animal Subgroups/Wild Animal Ethics.md",
