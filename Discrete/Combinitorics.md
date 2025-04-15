@@ -54,12 +54,18 @@ $\large{\frac{n!}{(n-k)! \cdot k!}}$ = C(n,k)
 
 AKA Multichoose, Stars and Bars
 
+K = Stars
+N = Bars
 
  $\large{\frac{(k+n-1)!}{((k+n-1)-k)! \cdot k!} = \frac{(n-1 + k)!}{(n-1)! \cdot k!}}$ = C(k+n-1, k)
 
-Or 
 
- $\large{\frac{(k+n-1)!}{((k+n-1)-k)! \cdot k!} = \frac{(n-1 + k)!}{(n-1-k)! \cdot k!}}$ = C(k+n-1, n-1)
+**Example**: The number of ways to select 5 fruits from 3 types of fruits (apples, bananas, oranges) where repetition is allowed is: $\large{C(3+5-1, 5)}$
+
+$k = 5$
+$n=3$
+
+**So $k$ is the total fruits (stars) and $n$ is the number of types of fruits (bars)**
 
 ### Problems
 
