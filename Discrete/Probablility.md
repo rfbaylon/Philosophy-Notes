@@ -89,3 +89,6 @@ $E[X \cdot Y] = E[X] \cdot E[Y]$
 When you use numbers to represent certain outcomes.
 heads or tails into 1s and 0s
 
+Hat check Problem
+![[Pasted image 20250415123033.png]]
+
