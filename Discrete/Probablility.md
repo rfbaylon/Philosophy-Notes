@@ -88,3 +88,4 @@ $E[X \cdot Y] = E[X] \cdot E[Y]$
 ### Indicator Random Variables (IRVs)
 When you use numbers to represent certain outcomes.
 heads or tails into 1s and 0s
+
