@@ -29,6 +29,8 @@ This can be generalized to 3 variables as follows
 2. $= P(A \cap B) \cdot P(C | (A \cap B))$
  3. $= P(A) \cdot P(B|A) \cdot P(C | (A \cap B))$
 
+basketball
+
 This also makes sense in english: "The prob of A times the prob of B given A times the prob of C given A and B"
 
 In general, when an experiment has $p$ chance of success and $1-p$ chance of failure, the probability of observing $k$ successes is $C(n,k) \cdot p^k \cdot (1-p)^{n-k}$
