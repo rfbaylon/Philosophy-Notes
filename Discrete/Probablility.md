@@ -46,6 +46,10 @@ base probability of $A$: 1/2
 $P(A|B) = \frac{2/8}{1/2}$ = 1/2
 Because these are equal, they are independent.
 
+
+If dependent events
+$\large{P(A \cap B) = P(A) + P(B) - P(A \cup B)}$
+
 ## Bayes' Theorem
 
 $\large{P(A|B) = \frac{P(A \cap B)}{P(B)} = \frac{P(A) \cdot P(B|A)}{P(B)}}$
