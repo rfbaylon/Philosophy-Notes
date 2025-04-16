@@ -19,7 +19,8 @@ Often, surrogacy is covered by insurance. Its worth checking employee benefits t
 https://www.mareinc.org/frequently-asked-questions
 https://adoptionswithlove.org/adoptive-parents/how-to-adopt-an-infant-in-massachusetts
 
-DOUBLE CHECK COSTS!
+Admin costs: 22-30k
+Case management: 2k
 
 about 2 year wait time
 
