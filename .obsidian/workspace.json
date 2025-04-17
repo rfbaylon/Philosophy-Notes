@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Adoption in Mass.md",
+                "file": "Personal/Grad/SFS Personal Statement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adoption in Mass"
+              "title": "SFS Personal Statement"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "a773855642b7a90b",
@@ -210,6 +209,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Personal/Grad/SFS Personal Statement.md",
+    "Personal/Adoption in Mass.md",
     "Discrete/Probablility.md",
     "Discrete/Combinitorics.md",
     "Misc/Images/Pasted image 20250415123033.png",
@@ -222,7 +223,6 @@
     "Ethics/Value Theory/Nonhuman Welfares.md",
     "Personal/Grad/Scholarship for Service Notes.md",
     "Personal/Grad",
-    "Personal/Adoption in Mass.md",
     "Personal/Home.md",
     "Personal/To Sort/Goals 2024.md",
     "Personal/Writing Ideas.md",
