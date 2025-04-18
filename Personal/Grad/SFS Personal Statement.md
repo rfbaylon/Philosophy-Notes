@@ -6,20 +6,18 @@ experiences (if any) with Information Assurance
 
 - Why am I doing it?
 	- Tech Policy
+	
 - Why I would be a good fit
 	- ethics bowl (leadership, talk privacy cases)
-	- data science
+	- List classes
+	- website??
 - What I plan to do?
 	- Auditing Algorithms (name drop christo)
-	- 
+	- Research focused on privacy//security (why?)
 
 ## DRAFT
 I am writing this letter with the pleasure of applying to the Scholarship for Service program. 
 
-There is a historic problem, told to me aptly by John Basl, a philosopher of technology I have long been studying under. There are two main people working in the field. The first group is the old, dusty policy makers and philosophers scrutinizing technology with very little understanding as to how it actually works and what it actually does. The second group are the young hot-shot technologists who understand incredibly well how the technology they make works, but often lack the social, historical, and cultural perspectives that necessitate the field of tech ethics in the first place.  Their "moving fast and breaking things" often unintentionally comes with moving things to historically privileged populations and breaking valuable norms. When it comes to governmental cyber-security and broader tech policy, there are often very few people who have both the technical and ethical expertise necessary. This is the niche I hope to fill through Northeastern's Scholarship for Service program. 
+There is a historic problem, told to me aptly by John Basl, a philosopher of technology I have long been studying under. There are two main people working in the field. The first group is the old, dusty policy makers and philosophers scrutinizing technology with very little understanding as to how it actually works and what it actually does. The second group are the young hot-shot technologists who understand incredibly well how the technology they make works, but often lack the social, historical, and cultural perspectives that necessitate the field of tech ethics in the first place.  Their "moving fast and breaking things" often unintentionally comes with moving things to historically privileged populations and breaking valuable norms. When it comes to governmental cyber-security and broader tech policy, there are often very few people who have both the technical and ethical expertise necessary. I hope to become one of these people with the assistance of Northeastern's Scholarship for Service program. 
 
-I came to Northeastern interested in environmental ethics, but as I explored my data science minor, have come to love the art of coding and come to understand the extent that code written by others has control over my life. Money, reputation, time, and vulnerable information that has functionally become my life now lies in the hands of private companies, who often abandon the interests of their customers as soon as it becomes inconvenient. 
-
-
-
-More concretely, 
+I came to Northeastern interested in environmental ethics, but as I explored my data science minor, have come to love the art of coding and come to understand the sheer control that code has control over my life. I have come to care deeply about how my vulnerable information (and as an extension, my behavior) is utilized through my extensive research in Ethics Bowl. Ethics Bowl is an organization that I founded with some professors my freshman year that analyzes, researches, and writes on applied ethics. Each semester's case packet, there would always be four or five cases related to privacy and security, which I would always take the lead on. Notably, I read through a substantial amount of documentation surrounding the DHS' use of facial recognition in airports to analyze their vulnerabilities and draft recommendations for the DHS regarding privacy and security measures they ought to enact to protect passenger data. Similarly, I have done analyses on the policies of Amazon's worker surveillance program, Ring Doorbell's privacy policy, 
