@@ -2,10 +2,10 @@
 ## Lingering Questions
 
 - [ ] "How to fall in love in 36 questions"
-- [ ] How can [[Leibniz]]' God-as-[[substance]] cause other substances to simultaneously exist (given the definition of substance)
+- [ ] How can [[Leibniz]]' God-as-[[Substance]] cause other substances to simultaneously exist (given the definition of substance)
 - [ ] What is Zhuang Zhu's parable of the useless tree?
 - [ ] [[Kant]] on why ought implies can ([[Groundwork of the Metaphysic of Morals]] p115)
-- [ ] What is [[Wittgenstein]]'s argument against [[solipsism]]
+- [ ] What is [[Wittgenstein]]'s argument against [[Solipsism]]
 - [ ] What is [[Nagel]]'s response to the Epicurean view on death in this article? [Epicurus, Lucretius, and Nagel on Death](https://www.youtube.com/watch?v=m82E4igqjEw)
 - [ ] Really, when do fetuses begin to feel pain? ([[Abortion]])
 - [ ] Reread and understand what [[schizoanalysis]] is

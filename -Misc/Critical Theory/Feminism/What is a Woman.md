@@ -68,7 +68,7 @@ See [[Becoming]]
 ## A2 Gender Performativism
 
 ### Argument from Absurdity (Transracialism)
-If you buy this, you also have to bite the bullet on [[Transracialism]] existing, unless a successful symmetry breaker is found.
+If you buy this, you also have to bite the bullet on [[-Misc/Critical Theory 1/Race Theory/Transracialism]] existing, unless a successful symmetry breaker is found.
 	A2A2: [[Tuvel]]: Transracialism is true.
 
 ----

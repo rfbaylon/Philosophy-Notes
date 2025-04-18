@@ -6,17 +6,21 @@
 [[WRITING IDEAS]]
 
 ---
+# WRITING
+## Grad
+- [[SFS Personal Statement]]
+- [[Scholarship for Service Notes]]
+
+## Other
+[[Why I Don't Read the News]]
+
+
+# LOGGING
 ## Ethics Bowl
 - [[Self Diagnosis]]
 - [[Invasive Species]]
 - [[Visceral Journalism]]
 - [[Child Labor]]
-- 
-## Blogs
-(pubbed or WIP)
-- [[Why I Don't Read the News]]
-- [[On Social Media]]
-
 ## Books
 #### [[The Shallows]]
 - [[Carr]]

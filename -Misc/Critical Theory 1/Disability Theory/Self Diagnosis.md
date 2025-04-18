@@ -24,7 +24,7 @@ There are three main strands to justifying self-diagnosis. Firstly, an official 
 
 ### Self-Identity, not Self-Diagnosis
 Autism is not a disease, but an identity. To self diagnose is just to self identify. Identification with the autistic community is all it takes to be 'legitimately' autistic. 
-	A2: See A2 Self Identification in [[Critical Theory/Feminism/What is a Woman|What is a Woman]]
+	A2: See A2 Self Identification in [[-Misc/Critical Theory 1/Feminism/What is a Woman|What is a Woman]]
 	A2: Autism includes a small set of individuals who don't have the linguistic capacity to self-identify, therefore excluding these people from the autistic community (Chapman cited in Fellowes 2024)
 
 ### Analogous Communities
