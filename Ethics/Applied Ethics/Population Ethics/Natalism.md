@@ -31,12 +31,12 @@ This could very well be the wrong term
 #### "You do not have an obligation to bring happy people into this world, but there is nothing wrong if you do"
 
 ## Neutralism
-See [[Narveson]]
+See Narveson
 This will be the Actualist and Prior Existence View
 
 
 ### Person Affecting View
-"we are in the buisness of making people happy, not making happy people" - Jan [[Narveson]]
+"we are in the buisness of making people happy, not making happy people" - Jan Narveson
 Look into "Asymmetry Intuition in population ethics" Making a baby and bringing it into a hellish world would be immoral, but would this mean we are morally obligated to bring a baby into a good world?
 	A2: How can we care about climate change if we dont care about future people?
 	A2: How can the asymmetry intuition make sense in the first place??

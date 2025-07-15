@@ -17,7 +17,7 @@ Summary
 - Note that all of these arguments are not arguments against automation, only how automation is currently used in the capitalist system.
 
 ### Social Uselessness
-See [[Marx]], [[Graeber]], [[J.S. Mill]]
+See [[Marx]], Graeber, [[J.S. Mill]]
 There is no data to support a correlation between working hours decreasing and automation increasing. Because of this, there seems to be no social utility to increased automation.
 	[[J.S. Mill]]: " It is questionable if all the mechanical inventions yet made have lightened the day's toil of any human being" #Cite 
 In fact, we spend tax dollars and social capital in developing automation that costs nothing to capital, but is used to oppress the people who fund it.

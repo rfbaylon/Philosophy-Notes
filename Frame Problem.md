@@ -12,7 +12,7 @@ You now see that while a dunce, he is an inventive dunce. Despairing of getting 
 [[Hume]]: 
 Associativism
 
-Why dont children steal cookies from a cookie jar? "Well, the idea of cookie-reaching becomes connected by a habit path to the idea of spanking, which in turn is connected to the idea of pain ... so of course the child refrains." [[Cogntitive Wheels 2006]], 132
+Why dont children steal cookies from a cookie jar? "Well, the idea of cookie-reaching becomes connected by a habit path to the idea of spanking, which in turn is connected to the idea of pain ... so of course the child refrains." Cogntitive Wheels 2006, 132
 
 
 Minsky:

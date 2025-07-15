@@ -24,7 +24,7 @@ See [[Karnofsky]]
 If we were to replace one neuron in a brain with a techno-neuron, it seems like you would feel no difference, cognition would still happen. At no point from the transformation of one to all neurons, does that change. You will still be thinking. [[Most Important Century]], 40
 
 ### Argument from the Physical Symbol System Hypothesis
-See [[Newell&Simon]]
+See Newell and Simon
 See [[Mind Models]]
 Because humans are PSSs,
 Because humans think by virtue of them being a PSS,

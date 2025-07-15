@@ -642,7 +642,8 @@ Does the same go for irrational, complex, and negative numbers? Since these don'
 
   
 
-“The series of integers is obviously an invention of the human mind, a self-created tool which simplifies the ordering of certain sensory experiences.” - Albert [[Einstein]]
+“The series of integers is obviously an invention of the human mind, a self-created tool which simplifies the ordering of certain sensory experiences.” 
+	Albert Einstein
 
   
 

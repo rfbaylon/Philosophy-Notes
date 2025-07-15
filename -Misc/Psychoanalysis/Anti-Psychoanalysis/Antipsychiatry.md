@@ -2,7 +2,8 @@ See [[Foucault]], [[Deleuze]] & [[Guattari]]
 
 "Psychoanalysis continues to ask questions and develop interpretations from the depths of the Oedipal Triangle as its basic perspective... The psychoanalyst says we must *necessarily* discover Schreber's daddy beneath his superior God" [[Anti-Oedipus]], 14
 
-"I don't believe in father in mother, got no papamummy" [[Artaud]]
+"I don't believe in father in mother, got no papamummy"
+	Artaud
 
 
 ### Hallucinations and Delusions

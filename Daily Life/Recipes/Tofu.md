@@ -12,3 +12,9 @@ https://www.loveandlemons.com/tofu-scramble/
 Orange Tofu
 https://www.noracooks.com/crispy-baked-orange-tofu/
 
+# Dishes
+## Kung Pao
+https://www.cookwithmanali.com/kung-pao-tofu/
+
+## Carribean
+Frozen plantains, Barbeque sauce, touch of garlic, 

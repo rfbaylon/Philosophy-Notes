@@ -1,11 +1,11 @@
 Measurement is a tool used to classify, organize, and coagulate different disparate things. 
 
 ## Seeing Effective Altruism Like a State
-See [[Scott]], [[Gabriel]]
-See [[A2 EA]], [[Global Poverty]], [[Moral Measurement]]
+See [[Scott]], Gabriel
+See [[Global Poverty]], [[Moral Measurement]]
 See Social Constructivism in [[Philosophy of Science]]
 ### Utilitarian Measurement
-See [[Gabriel]]
+See Gabriel
 A core piece of Effective Altruism is being able to quantify what the most dire issues are and deciding how best to solve it with empirically measurable results. Currently, the way organizations calculate these results is by condensing situations into a number of Quality Adjusted Life Years (QALY, pronounced “qua-lee”). They are measured as a factor of health and income over the period of a year for one individual whereas one year at a 8/10 wellbeing score is equal to two 4/10 years. In 2016, philosopher and economist Iason Gabriel published Effective Altruism and its Critics which points out methodological holes in the charity evaluation website, GiveWell showing flaws in coagulating differing charity impact (measured in QALYs) from different organizations. Some of these were small statistical changes, but a few others were full methodological critiques for how EA runs by pointing out a few technocratic biases such as Observational Bias and Quantification Bias. 
 
 By trying to push every outcome into the format of a QALY, it misses many of the unobservable, or even just nonobvious, good impacts that can come from charity work such as community cohesion, self-governance, or economic shockwave effects. This approach also misses important effects that can’t be put into one neat unit but are still important to those impacted. One example mentioned in the paper is of a government wondering whether to provide condoms to prevent AIDS spread or anti-retrovirals for helping stop AIDS symptoms within already infected individuals. Although distributing condoms will lead to the highest yield of QALYs, reducing the moral calculus to merely this forgoes many other values. Even though providing condoms might be most efficient for saving lives, only doing that neglects a lot of values that are important such as not forsaking every person with AIDS to have no hope of living. 

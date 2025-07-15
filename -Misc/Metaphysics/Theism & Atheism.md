@@ -27,7 +27,7 @@ See [[Aristotle]]
 		([[Prolegomena to Any Future Metaphysics]], 90-92)
 
 ### [[Spinoza]]'s Proof of God as Substance
-See [[Spinoza]], [[Whitehead]], [[Einstein]]
+See [[Spinoza]], [[Whitehead]], Einstein
 - PROP. I. Substance is by nature prior to its modifications.
 - PROP. II. Two substances, whose attributes are different, have nothing in common.
 - PROP. III. Things which have nothing in common cannot be one the cause of the other.

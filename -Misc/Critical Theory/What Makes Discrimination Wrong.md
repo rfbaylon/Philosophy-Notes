@@ -1,7 +1,7 @@
-See [[Binns]]
+See Binns
 
 ## Intention
-See [[Scanlon]]
+See Scanlon
 
 ## A2 Intention
 

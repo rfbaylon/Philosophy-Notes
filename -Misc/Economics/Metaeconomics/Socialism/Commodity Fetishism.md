@@ -8,4 +8,5 @@
 
 
 
-"We are doing everything possible to give work this new status as a social duty and to link it on the one hand with the development of technology, which will create the conditions for greater freedom, and on the other hand with voluntary work based on the Marxist appreciation that one truly reaches a full human condition when no longer compelled to produce by the physical necessity to sell oneself as a commodity." [[Guevara]]
+"We are doing everything possible to give work this new status as a social duty and to link it on the one hand with the development of technology, which will create the conditions for greater freedom, and on the other hand with voluntary work based on the Marxist appreciation that one truly reaches a full human condition when no longer compelled to produce by the physical necessity to sell oneself as a commodity." 
+	Che Guevara

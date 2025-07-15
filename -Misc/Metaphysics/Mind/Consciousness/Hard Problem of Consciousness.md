@@ -34,13 +34,13 @@ See [[Dennett]]
 	If it is the case that phenomena can only be understood if the researcher is 'steeped in the domain of experiences under examination' (Who's on First?, 10), then can women not study men? Can deaf people not study musicians? 
 
 ### Dualism is a Category Mistake
-Believing mind and body are two different things makes a category mistake. [[Ryle]] compares it to visiting Northeastern's campus, viewing the buildings and people, and then asking "But where is Northeastern"
+Believing mind and body are two different things makes a category mistake. Ryle compares it to visiting Northeastern's campus, viewing the buildings and people, and then asking "But where is Northeastern"
 
 ### Analogy to Vitalism
 [[Chalmers]] proposes a insurmountable gap in our knowledge, when in reality it could be just mere ignorance. 
 
 In the 19th century, there was intense debate over what the fundamental part of life is. How could it possible that something living can come from a bunch of dead things? It was argued that because a living thing could not possibly come from a dead thing, life essence needs to be some fundamentally different part of the world. However, today, there is no such argumentation and all of the problems of vitalism are solved by physicalism
-This, arguably, is what dualists and idealists do in relation to consciousness, and it could very well be the case that these arguments are shortsighted when it comes to understanding consciousness scientifically and materially. ([[Churchland]],  1996)
+This, arguably, is what dualists and idealists do in relation to consciousness, and it could very well be the case that these arguments are shortsighted when it comes to understanding consciousness scientifically and materially. (Churchland,  1996)
 
 ### Ignorance =/= Chasm
 [[Chalmers]]' formal argument is a traditional [[Fallacy]] (argumentum ad ignorantiam)
@@ -51,7 +51,7 @@ This, arguably, is what dualists and idealists do in relation to consciousness, 
 Just because there exists a gap in knowledge doesnt mean that it would be impossible to understand in the same metaphysical framework. 
 
 "Moreover, the mysteriousness of a problem is not a fact about the problem, it is not a metaphysical feature of the universe -- it is an epistemological fact about us."
-([[Churchland]],  1996)
+(Churchland,  1996)
 
 # Physicalism
 See [[Dennett]]
@@ -73,7 +73,7 @@ This field (Lutz & Thompson , Block , Seth) is interested in finding NCCs that c
 Neurophenomenology wants to incorporate first person data into a scientific approach
 
 ### Behaviorism
-See [[Ryle]], 
+See Ryle, 
 There only thing that a person is is a set of behaviors. The mind is a set of behavioral dispositions.
 
 If someone yelps in pain, has the verbal consequence of pain, and shares the same electrochemical signals associated with pain, they are experiencing pain

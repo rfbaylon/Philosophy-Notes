@@ -146,7 +146,7 @@ By contrast, defective altruism is—by the admission of its proponents—an app
 
 ## Methodological Critiques
 [Iason Gabriel-Effective Altruism and its Critics (1).pdf]
-See [[Gabriel]]
+See Gabriel
 
 Note:
 **givewell formally acknowledged the 3 objections below and now incorporates multifaceted analyses

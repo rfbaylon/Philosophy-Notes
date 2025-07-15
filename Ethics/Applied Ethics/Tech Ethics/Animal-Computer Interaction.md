@@ -1,5 +1,5 @@
 # Animal-Computer Interaction (ACI)
-See [[Singer]], [[Mancini]]
+See [[Singer]], Mancini
 Entire page rests on assumptions of [[Do Animals Matter]]
 
 ###### "Many AI systems have significant impacts on animals, with the total number of animals affected annually likely to reach the tens or even hundreds of billions." AI Ethics: The case for including animals
@@ -9,9 +9,11 @@ Entire page rests on assumptions of [[Do Animals Matter]]
 
 All Animal-Computer Interactions in the past have been wholly anthropocentric and the impact of the tech does not account for the animals interacting with the technology. ACI Manifesto, 1
 
-Nonhuman animals cannot communicate their feelings directly to an AI, so it needs a human intermediary in order to produce results that are not only current in relation to sentience data, but in relation to animal wellbeing. AI ethics the case for including animals 5.1
+Nonhuman animals cannot communicate their feelings directly to an AI, so it needs a human intermediary in order to produce results that are not only current in relation to sentience data, but in relation to animal wellbeing. 
+	AI ethics the case for including animals 5.1
 
-As an extension, if humans are being harmed by an AI, we always have the option to turn it off. Animals do NOT have this ability, requiring extra care and caution in AI development. AI ethics the case for including animals 5.3
+As an extension, if humans are being harmed by an AI, we always have the option to turn it off. Animals do NOT have this ability, requiring extra care and caution in AI development. 
+	AI ethics the case for including animals 5.3
 
 ### Goals of ACI
 ACI Manifesto, 70-72

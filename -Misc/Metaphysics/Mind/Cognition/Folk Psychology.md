@@ -1,7 +1,7 @@
 # Folk Psychology
 
 ## Folk Psychology
-See [[Fodor]]
+See Fodor
 #Update
 
 ## A2 Folk Psychology
@@ -9,7 +9,7 @@ See [[Fodor]]
 # Anti Folk Psychology
 
 ## Anti Folk Psychology
-See [[Churchland]]
+See Churchland
 #Update
 
 ## A2 Anti Folk Psychology

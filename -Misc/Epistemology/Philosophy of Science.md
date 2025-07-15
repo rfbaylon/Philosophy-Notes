@@ -82,7 +82,7 @@ There are 5 ways in which the mind attains truth:
 #WIP - I need to define and categorize what the names of the ideaologies that each author falls under are
 
 ## Bacon
-[[Bacon]]'s goal has always been to find the necessary and suffecient confitions
+Bacon's goal has always been to find the necessary and suffecient confitions
 
 1. After this, he will gather data from a posteriori experience about all things sharing a common trait. 
 2. Find the common trait between them that can explain the property in each thing

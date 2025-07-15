@@ -1,5 +1,5 @@
 # Labor Theory of Value
-See [[Marx]], [[Smith]], [[Ricardo]], [[J.S. Mill]]
+See [[Marx]], [[Smith]], Ricardo, [[J.S. Mill]]
 "If commodities could speak, the would say this: our use value  may interest men, but it does not belong to us as objects. What does belong to us as objects, however, is our value. Our own intercourse as commodities proves it." [[Capital Volume I]], 176-177
 
 Value is produced by socially necessary labor over time

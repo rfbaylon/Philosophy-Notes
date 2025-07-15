@@ -168,7 +168,7 @@ BLOCKS
 -   [Definitions of Math Objects Blur](https://docs.google.com/document/d/1W8-SmlRs533yniBa7J1ao_N3kgaLHL1iXrTaBXArLzI/edit#bookmark=id.ryjivcdsanag)
     
 
--   Quine Putnam Problem
+-   [[Quine]] [[Putnam]] Problem
     
 
 -   [Field’s Nominalization](https://docs.google.com/document/d/1W8-SmlRs533yniBa7J1ao_N3kgaLHL1iXrTaBXArLzI/edit#bookmark=id.8n6e4bz047i9)

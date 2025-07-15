@@ -14,7 +14,7 @@ People play into and reify certain structures of power and the power in turn rei
 "Juridical power inevitably "produces" what it claims to represent... The Feminist critique ought also to understand how the category of "women," the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought." [[Gender Trouble]], 5
 	[[Butler]] argues that the strict classification of women under bioessentialist lines reinforces the system of power feminism seeks to escape from.
 
-##### [[Irigaray]]
+##### Irigaray
 Women are the "other-men" The afterthought of masculinity. There are men, and there are not-men
 	"A woman is not the sex she is designated to be, but, rather, the masculine sex *encore*" [[Gender Trouble]], 18
 
@@ -40,15 +40,15 @@ See [[Foucault]]
 ### As it relates to the Environment
 
 #### Climate
-According to [[Hulme]] and [[Jankovic]], Climate and climate science are both social phenomena before they are truth discovering practices. Climate affects culture, and culture affects climate; even if both are always changing, the two concepts are still mutually dynamic. In [[Foucault]]'s sense, it takes the form of a classical episteme. The science produces social truths, not Truths. 
-	"Studying climatology is always about studying society, vicariously or not." [[Klima 2011]], 10
+According to Hulme and Jankovic, Climate and climate science are both social phenomena before they are truth discovering practices. Climate affects culture, and culture affects climate; even if both are always changing, the two concepts are still mutually dynamic. In [[Foucault]]'s sense, it takes the form of a classical episteme. The science produces social truths, not Truths. 
+	"Studying climatology is always about studying society, vicariously or not." Klima 2011, 10
 	[
 
-](https://www.reddit.com/r/196/)“As a result of this repositioning, climatological modeling has ceased to act as a mere form of expertise and has become a normative, value- laden instrument for assessing the fate of economic and social worlds.”  [[Klima 2011]] 13-14
-	(Climate's) history was assembled from privileged positions deemed reliable and authoritative, based on scholarship, data, experiments, models, technologies, and accredited bodies reaching back several centuries [[Klima 2011]], 3
+“As a result of this repositioning, climatological modeling has ceased to act as a mere form of expertise and has become a normative, value- laden instrument for assessing the fate of economic and social worlds.”  Klima 2011 13-14
+	(Climate's) history was assembled from privileged positions deemed reliable and authoritative, based on scholarship, data, experiments, models, technologies, and accredited bodies reaching back several centuries Klima 2011, 3
 
 ##### Examples
-The adage "Climate is what you expect, weather is what you get" is the perfect example of the normativity laden within what climate is. When weather acts out, it is seen as a derivation from the *norm* [[Climate and its Changes 2015]]
+The adage "Climate is what you expect, weather is what you get" is the perfect example of the normativity laden within what climate is. When weather acts out, it is seen as a derivation from the *norm* Climate and its Changes 2015
 
-[[Jankovic]] mentions that the most important atmosphere is the noosphere, the area between the ground and two meters off of the ground. This is the area that impacts humans, this is the area with the most climatological study. 
+Jankovic mentions that the most important atmosphere is the noosphere, the area between the ground and two meters off of the ground. This is the area that impacts humans, this is the area with the most climatological study. 
 	He also mentions that (according to [[Sloterdijk]]) the weaponization of the noosphere in WWI and WWII called for intense research into the research area. 

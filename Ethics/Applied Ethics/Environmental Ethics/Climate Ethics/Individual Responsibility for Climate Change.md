@@ -17,7 +17,7 @@ A person will not be morally responsible for their carbon emissions, but a colle
 If someone dies or completely eliminates their carbon foot print, this will do near nothing for the climate disaster. The climate crisis will still affect all the individuals the same either way
 
 ### Consequentialist Argument
-See [[Sinnott-Armstrong]], [[Vogel]]
+See Sinnott-Armstrong, [[Vogel]]
 Since there is no benefit or utility being created if I personally stop contributing to Global Warming, there is no reason to stop consuming the amount that I do. Any individual action wont have any effect. 
 	"If a public bridge becomes unsafe because of overuse by traffic, the government has an obligation to fix it, but that doesnt mean that I as a citizen have an obligation  to go out and fix it" [[Thinking like a Mall]], 210
 	A2: If I reduce my CO2, I act as a model for others to do the same. Thus, my impact is not only me.
