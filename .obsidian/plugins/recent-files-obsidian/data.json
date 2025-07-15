@@ -1,0 +1,403 @@
+{
+  "recentFiles": [
+    {
+<<<<<<< HEAD
+      "basename": "QUICKNOTES",
+      "path": "Home/QUICKNOTES.md"
+    },
+    {
+      "basename": "Invisibility in Daily Life",
+      "path": "To Sort/Invisibility in Daily Life.md"
+    },
+    {
+      "basename": "Human - Environment",
+      "path": "Home/To Sort/Human - Environment.md"
+    },
+    {
+      "basename": "QUOTES",
+      "path": "Home/QUOTES.md"
+    },
+    {
+      "basename": "Ethics of Attention and Sludge",
+      "path": "Home/To Sort/Ethics of Attention and Sludge.md"
+    },
+    {
+      "basename": "Goals 2024",
+      "path": "Home/To Sort/Goals 2024.md"
+    },
+    {
+      "basename": "Letter to a Younger Self",
+      "path": "Home/To Sort/Letter to a Younger Self.md"
+    },
+    {
+      "basename": "Research Topics",
+      "path": "Home/To Sort/Research Topics.md"
+    },
+    {
+      "basename": "Political Justice",
+      "path": "To Sort/Political Justice.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Epistemology/Pragmatism.md"
+    },
+    {
+      "basename": "Art as Experience",
+      "path": "-Bibliographical/Books/Analytic/Aesthetics/Art as Experience.md"
+    },
+    {
+      "basename": "README",
+      "path": "Home/README.md"
+    },
+    {
+      "basename": "Emotion",
+      "path": "Metaphysics/Mind/Emotion.md"
+    },
+    {
+      "basename": "Nature (Metaphysics)",
+      "path": "Metaphysics/Nature (Metaphysics).md"
+    },
+    {
+      "basename": "Substance",
+      "path": "Metaphysics/Substance.md"
+    },
+    {
+      "basename": "Simples vs Infinite Composites",
+      "path": "Metaphysics/Simples vs Infinite Composites.md"
+    },
+    {
+      "basename": "METAmetaphysics",
+      "path": "Metaphysics/METAmetaphysics.md"
+    },
+    {
+      "basename": "Infinity",
+      "path": "Metaphysics/Infinity.md"
+    },
+    {
+      "basename": "Principle of Sufficient Reason",
+      "path": "Metaphysics/Principle of Sufficient Reason.md"
+    },
+    {
+      "basename": "Ockham’s Razor",
+      "path": "Epistemology/Ockham’s Razor.md"
+    },
+    {
+      "basename": "Causation",
+      "path": "Metaphysics/Causation.md"
+    },
+    {
+      "basename": "Theism & Atheism",
+      "path": "Metaphysics/Theism & Atheism.md"
+    },
+    {
+      "basename": "Metaphysics of the Virtual",
+      "path": "Metaphysics/Metaphysics of the Virtual.md"
+    },
+    {
+      "basename": "The Simulation Hypothesis",
+      "path": "Metaphysics/The Simulation Hypothesis.md"
+    },
+    {
+      "basename": "Presentism & Eternalism",
+      "path": "Metaphysics/Space & Time/Presentism & Eternalism.md"
+    },
+    {
+      "basename": "Time",
+      "path": "Metaphysics/Space & Time/Time.md"
+    },
+    {
+      "basename": "Aesthetic Interpretation",
+      "path": "-Misc/Aesthetics/Aesthetic Interpretation.md"
+    },
+    {
+      "basename": "Attention Economy",
+      "path": "Ethics/Applied Ethics/Tech Ethics/Attention Economy.md"
+    },
+    {
+      "basename": "Art",
+      "path": "-Misc/Aesthetics/Art.md"
+    },
+    {
+      "basename": "CC Demographics + Trends",
+      "path": "CIC/CC Demographics + Trends.md"
+    },
+    {
+      "basename": "CS Retention + Attraction",
+      "path": "CIC/CS Retention + Attraction.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "CIC/Daily Log.md"
+    },
+    {
+      "basename": "Research Questions",
+      "path": "CIC/Research Questions.md"
+    },
+    {
+      "basename": "Transfer Barriers",
+      "path": "CIC/Transfer Barriers.md"
+    },
+    {
+      "basename": "CIC Loose Ends",
+      "path": "CIC/CIC Loose Ends.md"
+    },
+    {
+      "basename": "Articulation Agreements",
+      "path": "CIC/Articulation Agreements.md"
+    },
+    {
+      "basename": "Moral Aesthetics",
+      "path": "-Misc/Aesthetics/Moral Aesthetics.md"
+    },
+    {
+      "basename": "Destiny's 5 Hurdles",
+      "path": "-Misc/Economics/Metaeconomics/Capitalism/Destiny's 5 Hurdles.md"
+    },
+    {
+      "basename": "James",
+      "path": "-Bibliographical/Authors/James.md"
+    },
+    {
+      "basename": "On Social Media",
+      "path": "Phil as Way of Life/Technology/On Social Media.md"
+    },
+    {
+      "basename": "Aesthetic Curation",
+      "path": "-Misc/Aesthetics/Aesthetic Curation.md"
+    },
+    {
+      "basename": "Aesthetic Realism vs Antirealism",
+      "path": "-Misc/Aesthetics/Aesthetic Realism vs Antirealism.md"
+    },
+    {
+      "basename": "Friendly Orgs",
+      "path": "CIC/Friendly Orgs.md"
+    },
+    {
+      "basename": "Virtue Ethics",
+      "path": "Ethics/Normative Ethics/Realism/Greek Ethics/Virtue Ethics.md"
+    },
+    {
+      "basename": "Sextus Empiricus",
+      "path": "-Bibliographical/Authors/Sextus Empiricus.md"
+    },
+    {
+      "basename": "writing",
+      "path": "To Sort/writing.md"
+    },
+    {
+      "basename": "Cynicism",
+      "path": "Ethics/Normative Ethics/Realism/Greek Ethics/Cynicism.md"
+    },
+    {
+      "basename": "Love",
+      "path": "Phil as Way of Life/Social/Love.md"
+=======
+      "basename": "README",
+      "path": "Home/README.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Home/TODO.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home/Home.md"
+    },
+    {
+      "basename": "QUICKNOTES",
+      "path": "Home/QUICKNOTES.md"
+    },
+    {
+      "basename": "Metaphysics of the Virtual",
+      "path": "Metaphysics/Metaphysics of the Virtual.md"
+    },
+    {
+      "basename": "The Simulation Hypothesis",
+      "path": "Metaphysics/The Simulation Hypothesis.md"
+    },
+    {
+      "basename": "Philosophy of Science",
+      "path": "Epistemology/Philosophy of Science.md"
+    },
+    {
+      "basename": "CC Demographics + Trends",
+      "path": "CIC/CC Demographics + Trends.md"
+    },
+    {
+      "basename": "Invisibility in Daily Life",
+      "path": "To Sort/Invisibility in Daily Life.md"
+    },
+    {
+      "basename": "Human - Environment",
+      "path": "Home/To Sort/Human - Environment.md"
+    },
+    {
+      "basename": "QUOTES",
+      "path": "Home/QUOTES.md"
+    },
+    {
+      "basename": "Ethics of Attention and Sludge",
+      "path": "Home/To Sort/Ethics of Attention and Sludge.md"
+    },
+    {
+      "basename": "Goals 2024",
+      "path": "Home/To Sort/Goals 2024.md"
+    },
+    {
+      "basename": "Letter to a Younger Self",
+      "path": "Home/To Sort/Letter to a Younger Self.md"
+    },
+    {
+      "basename": "Research Topics",
+      "path": "Home/To Sort/Research Topics.md"
+    },
+    {
+      "basename": "Political Justice",
+      "path": "To Sort/Political Justice.md"
+    },
+    {
+      "basename": "Pragmatism",
+      "path": "Epistemology/Pragmatism.md"
+    },
+    {
+      "basename": "Art as Experience",
+      "path": "-Bibliographical/Books/Analytic/Aesthetics/Art as Experience.md"
+    },
+    {
+      "basename": "Emotion",
+      "path": "Metaphysics/Mind/Emotion.md"
+    },
+    {
+      "basename": "Nature (Metaphysics)",
+      "path": "Metaphysics/Nature (Metaphysics).md"
+    },
+    {
+      "basename": "Substance",
+      "path": "Metaphysics/Substance.md"
+    },
+    {
+      "basename": "Simples vs Infinite Composites",
+      "path": "Metaphysics/Simples vs Infinite Composites.md"
+    },
+    {
+      "basename": "METAmetaphysics",
+      "path": "Metaphysics/METAmetaphysics.md"
+    },
+    {
+      "basename": "Infinity",
+      "path": "Metaphysics/Infinity.md"
+    },
+    {
+      "basename": "Principle of Sufficient Reason",
+      "path": "Metaphysics/Principle of Sufficient Reason.md"
+    },
+    {
+      "basename": "Ockham’s Razor",
+      "path": "Epistemology/Ockham’s Razor.md"
+    },
+    {
+      "basename": "Causation",
+      "path": "Metaphysics/Causation.md"
+    },
+    {
+      "basename": "Theism & Atheism",
+      "path": "Metaphysics/Theism & Atheism.md"
+    },
+    {
+      "basename": "Presentism & Eternalism",
+      "path": "Metaphysics/Space & Time/Presentism & Eternalism.md"
+    },
+    {
+      "basename": "Time",
+      "path": "Metaphysics/Space & Time/Time.md"
+    },
+    {
+      "basename": "Aesthetic Interpretation",
+      "path": "-Misc/Aesthetics/Aesthetic Interpretation.md"
+    },
+    {
+      "basename": "Attention Economy",
+      "path": "Ethics/Applied Ethics/Tech Ethics/Attention Economy.md"
+    },
+    {
+      "basename": "Art",
+      "path": "-Misc/Aesthetics/Art.md"
+    },
+    {
+      "basename": "CS Retention + Attraction",
+      "path": "CIC/CS Retention + Attraction.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "CIC/Daily Log.md"
+    },
+    {
+      "basename": "Research Questions",
+      "path": "CIC/Research Questions.md"
+    },
+    {
+      "basename": "Transfer Barriers",
+      "path": "CIC/Transfer Barriers.md"
+    },
+    {
+      "basename": "CIC Loose Ends",
+      "path": "CIC/CIC Loose Ends.md"
+    },
+    {
+      "basename": "Articulation Agreements",
+      "path": "CIC/Articulation Agreements.md"
+    },
+    {
+      "basename": "Moral Aesthetics",
+      "path": "-Misc/Aesthetics/Moral Aesthetics.md"
+    },
+    {
+      "basename": "Destiny's 5 Hurdles",
+      "path": "-Misc/Economics/Metaeconomics/Capitalism/Destiny's 5 Hurdles.md"
+    },
+    {
+      "basename": "James",
+      "path": "-Bibliographical/Authors/James.md"
+    },
+    {
+      "basename": "On Social Media",
+      "path": "Phil as Way of Life/Technology/On Social Media.md"
+    },
+    {
+      "basename": "Aesthetic Curation",
+      "path": "-Misc/Aesthetics/Aesthetic Curation.md"
+    },
+    {
+      "basename": "Aesthetic Realism vs Antirealism",
+      "path": "-Misc/Aesthetics/Aesthetic Realism vs Antirealism.md"
+    },
+    {
+      "basename": "Friendly Orgs",
+      "path": "CIC/Friendly Orgs.md"
+    },
+    {
+      "basename": "Virtue Ethics",
+      "path": "Ethics/Normative Ethics/Realism/Greek Ethics/Virtue Ethics.md"
+    },
+    {
+      "basename": "Sextus Empiricus",
+      "path": "-Bibliographical/Authors/Sextus Empiricus.md"
+    },
+    {
+      "basename": "writing",
+      "path": "To Sort/writing.md"
+>>>>>>> ec0d80c2cb0bd33053b8bd1412d79a242fec5e87
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "omittedTags": [],
+<<<<<<< HEAD
+=======
+  "omitBookmarks": false,
+>>>>>>> ec0d80c2cb0bd33053b8bd1412d79a242fec5e87
+  "maxLength": null,
+  "openType": "tab"
+}

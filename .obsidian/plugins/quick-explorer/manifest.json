@@ -1,0 +1,14 @@
+{
+  "id": "quick-explorer",
+  "name": "Quick Explorer",
+  "author": "PJ Eby",
+  "authorUrl": "https://github.com/pjeby",
+<<<<<<< HEAD
+  "version": "0.2.10",
+=======
+  "version": "0.2.12",
+>>>>>>> ec0d80c2cb0bd33053b8bd1412d79a242fec5e87
+  "description": "Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard",
+  "minAppVersion": "1.5.8",
+  "isDesktopOnly": true
+}

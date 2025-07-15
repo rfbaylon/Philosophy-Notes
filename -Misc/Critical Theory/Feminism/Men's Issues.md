@@ -1,0 +1,6 @@
+"Regardless of the intensity of the male masquarade, inwardly many men see themeselves as the victims of lovelessness. Like everyone, they learned as children to believe that love would be present in their lives. Although so many boyts are taught to behave as though love does not matter, in their hearts they yearn for it. That yearning does not go away simply because they become men... To embrace patriarchy, they must actively surrender the longing to love."
+	[[All About Love]] 39
+	Pretty easy connections to the modern phenomena of Incels
+
+"'*Something missing within*' was a self-description I heard from many men as I went around our nation talking about love. Again and again, a man would tell me about early childhood feelings of emotional exuberance, of unrepressed joy, of feeling connected to life and other people, and then a rupture happened, a disconnect, and that feeling of being loved, of being embraced, was gone. Somehow, the test of manhood, men told me, was the willingness to accept this loss, to not speak it even in private grief. Sadly, tragically, these men in great numbers were remembering a primal moment of heartbreak and heartache: the moment that they were compelled to give up their right to feel, to love, in order to take their place as patriarchal men"
+	[[hooks]], [[The Will to Change]], p 27
