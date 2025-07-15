@@ -1,2 +1,0 @@
-See [[Nietzsche]], [[Thoreau]]
-
