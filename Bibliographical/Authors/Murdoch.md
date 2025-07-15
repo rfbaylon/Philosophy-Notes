@@ -1,1 +1,0 @@
-[[Sovereignty of Good]]

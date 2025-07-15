@@ -1,1 +1,0 @@
-See [[Nietzsche]], [[Baudrillard]], [[Foucault]], [[Deleuze]] & [[Guattari]]
