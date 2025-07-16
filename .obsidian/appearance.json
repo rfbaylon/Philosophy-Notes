@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "Iterative Rainbow Folder Titles"
+  ]
+}

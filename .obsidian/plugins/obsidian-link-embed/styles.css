@@ -85,19 +85,11 @@
 	width: 100px;
 	min-height: 100px;
 }
-._lc._sm:not(.xd) .wc._wi {
-	max-width: min(50%, 200px);
-}
 @media (min-width: 360px) {
 	._lc._sm:not(.xd) .wc {
 		min-width: 110px;
 		width: 110px;
 		min-height: 110px;
-	}
-}
-@media (min-width: 360px) {
-	._lc._sm:not(.xd) .wc._wi {
-		max-width: min(50%, 220px);
 	}
 }
 @media (min-width: 460px) {
@@ -107,21 +99,11 @@
 		min-height: 140px;
 	}
 }
-@media (min-width: 460px) {
-	._lc._sm:not(.xd) .wc._wi {
-		max-width: min(50%, 280px);
-	}
-}
 @media (min-width: 600px) {
 	._lc._sm:not(.xd) .wc {
 		min-width: 160px;
 		width: 160px;
 		min-height: 160px;
-	}
-}
-@media (min-width: 600px) {
-	._lc._sm:not(.xd) .wc._wi {
-		max-width: min(50%, 320px);
 	}
 }
 @supports (-moz-appearance: meterbar) and (all: initial) {
@@ -134,6 +116,16 @@
 		align-items: stretch;
 		-ms-flex-line-pack: stretch;
 		align-content: stretch;
+	}
+}
+@media (max-width: 459px) {
+	._lc .twt {
+		display: none;
+	}
+}
+@media (min-width: 460px) {
+	._lc .twd {
+		display: none;
 	}
 }
 ._lc._ts .th {
@@ -278,6 +270,7 @@
 }
 ._lc:not(._ap) .e {
 	height: 100%;
+	padding-bottom: 0;
 }
 .em {
 	position: absolute;
@@ -302,6 +295,9 @@
 .w {
 	background-color: inherit;
 }
+.e {
+	padding-bottom: 100%;
+}
 .t {
 	line-height: 1.4;
 	color: inherit;
@@ -314,50 +310,4 @@
 }
 .tw {
 	color: #999;
-}
-.thl {
-	font-weight: 600;
-}
-.embed {
-	border: 1px solid var(--background-modifier-border);
-	overflow: hidden;
-	border-radius: var(--radius-s);
-	box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px;
-	transition: border-color 0.2s ease;
-}
-
-.embed:hover {
-	border-color: var(--background-modifier-border-hover);
-}
-.embed:focus {
-	border-color: var(--background-modifier-border-focus);
-}
-
-/* Embed buttons styling */
-.embed-buttons {
-	position: absolute;
-	bottom: 5px;
-	right: 5px;
-	z-index: 10;
-	opacity: 0;
-	transition: opacity 0.2s ease;
-	display: flex;
-	gap: 10px;
-}
-
-/* Button styling */
-.refresh-button,
-.copy-button {
-	cursor: pointer;
-}
-
-/* Show buttons on hover over the embed element */
-.embed:hover .embed-buttons {
-	opacity: 0.8;
-}
-
-/* Full opacity when hovering over the buttons */
-.refresh-button:hover,
-.copy-button:hover {
-	opacity: 1 !important;
 }

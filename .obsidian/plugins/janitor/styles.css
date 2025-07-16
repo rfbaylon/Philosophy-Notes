@@ -12,9 +12,7 @@ If your plugin does not need CSS, delete this file.
 	display: flex;
 }
 
-.janitor-modal-footer button {
-	margin-left: 4px;
-}
+.janitor-modal-footer button {}
 
 .janitor-modal-footer .janitor-footer-buttons {
 	flex: 1;
@@ -54,14 +52,6 @@ If your plugin does not need CSS, delete this file.
 .janitor-file label {
 	width: 100%;
 	/* cursor: pointer; */
-	display: flex;
-}
-
-.janitor-file span {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	margin-right: 4em;
 }
 
 .janitor-file:hover .openFileIcon {
